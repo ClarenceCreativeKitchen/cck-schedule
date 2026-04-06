@@ -52,8 +52,11 @@ def main():
             if item.get("calendar") not in INCLUDE_SPACES:
                 continue
 
+            # Clean up display title (strip internal labels like "Grandfathered")
+            clean_title = item["title"].replace("Grandfathered", "").strip()
+
             all_events.append({
-                "title": item["title"],
+                "title": clean_title,
                 "space": item["calendar"],
                 "startMs": item["startDate"],
                 "endMs": item["endDate"],
