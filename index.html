@@ -31,6 +31,12 @@
   .header-center {
     text-align: center;
   }
+  .last-synced {
+    font-size: 15px;
+    font-weight: 500;
+    color: #7a7e94;
+    margin-top: 2px;
+  }
   .header-left {
     display: flex;
     align-items: baseline;
@@ -304,6 +310,7 @@
   </div>
   <div class="header-center">
     <div class="week-label" id="weekLabel"></div>
+    <div class="last-synced" id="lastSynced"></div>
   </div>
   <div style="min-width: 200px"></div>
 </div>
@@ -482,6 +489,15 @@ async function fetchEvents() {
     showStatus('Last sync: ' + new Date().toLocaleTimeString('en-US', {
       hour: 'numeric', minute: '2-digit', hour12: true
     }) + ' — ' + currentEvents.length + ' bookings this week', true);
+
+    // Update last-synced display
+    const now = new Date();
+    document.getElementById('lastSynced').textContent =
+      '(Last updated ' + now.toLocaleDateString('en-US', {
+        month: 'short', day: 'numeric'
+      }) + ' at ' + now.toLocaleTimeString('en-US', {
+        hour: 'numeric', minute: '2-digit', hour12: true
+      }) + ')';
 
     return currentEvents;
   } catch (err) {
