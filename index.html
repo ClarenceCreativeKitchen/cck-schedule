@@ -147,6 +147,15 @@
   .day-column.today-col {
     background: rgba(62, 207, 180, 0.03);
   }
+  .day-column.past-col {
+    background: rgba(0, 0, 0, 0.25);
+  }
+  .day-column.past-col .event {
+    opacity: 0.45;
+  }
+  .day-header.past {
+    opacity: 0.45;
+  }
 
   .time-labels {
     position: relative;
@@ -569,7 +578,8 @@ function buildCalendar() {
   weekDates.forEach((d, i) => {
     const hdr = document.createElement('div');
     const isToday = isSameDay(d, now);
-    hdr.className = 'day-header' + (isToday ? ' today' : '');
+    const isPast = d < now && !isToday;
+    hdr.className = 'day-header' + (isToday ? ' today' : '') + (isPast ? ' past' : '');
     hdr.innerHTML = `${DAYS[i]}<span class="date-num">${d.getDate()}</span>`;
     cal.appendChild(hdr);
   });
@@ -594,7 +604,9 @@ function buildCalendar() {
     col.className = 'day-column';
 
     const isToday = isSameDay(weekDates[dayIdx], now);
+    const isPast = weekDates[dayIdx] < now && !isToday;
     if (isToday) col.classList.add('today-col');
+    if (isPast) col.classList.add('past-col');
 
     // Hour grid lines
     for (let h = CONFIG.HOUR_START; h <= CONFIG.HOUR_END; h++) {
