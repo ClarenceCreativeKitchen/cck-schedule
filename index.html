@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>CCK Kitchen A Schedule</title>
-<meta http-equiv="refresh" content="1800">
+<meta http-equiv="refresh" content="300">
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap');
 
@@ -314,7 +314,7 @@
 <div class="header">
   <div class="header-left">
     <h1>CCK Weekly Live Schedule</h1>
-    <span class="subtitle">Updated every 30 minutes; Check TFC for most up-to-date status</span>
+    <span class="subtitle">Updated every 5 minutes; Check TFC for most up-to-date status</span>
   </div>
   <div class="header-center">
     <div class="week-label" id="weekLabel"></div>
@@ -345,7 +345,7 @@ const CONFIG = {
   TIMEZONE: 'America/New_York',
   HOUR_START: 5,    // 5 AM
   HOUR_END: 23,     // 11 PM
-  REFRESH_INTERVAL: 30 * 60 * 1000,
+  REFRESH_INTERVAL: 5 * 60 * 1000,
 
   CLIENT_COLORS: {
     'GLCR':  { class: 'client-glcr', label: 'GLCR', dotColor: '#3498db' },
