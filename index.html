@@ -211,6 +211,23 @@
     margin-top: 2px;
   }
 
+  /* Compact layout for short bookings (≤2 hours) */
+  .event.compact {
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    padding: 4px 10px;
+  }
+  .event.compact .client-name {
+    flex-shrink: 0;
+  }
+  .event.compact .time-range {
+    margin-top: 0;
+  }
+  .event.compact .space-name {
+    display: none;
+  }
+
   /* ── CLIENT COLORS ── */
   .event.client-glcr {
     background: rgba(52, 152, 219, 0.30);
@@ -314,7 +331,7 @@
 <div class="header">
   <div class="header-left">
     <h1>CCK Weekly Live Schedule</h1>
-    <span class="subtitle">Updated every 5 minutes; Check TFC for most up-to-date status</span>
+    <span class="subtitle">Updated every 15 minutes; Check TFC for most up-to-date status</span>
   </div>
   <div class="header-center">
     <div class="week-label" id="weekLabel"></div>
@@ -597,8 +614,10 @@ function buildCalendar() {
       const heightPct = ((ev.endHour - ev.startHour) / TOTAL_HOURS) * 100;
 
       const colorInfo = getClientColorInfo(ev.title);
+      const duration = ev.endHour - ev.startHour;
+      const isCompact = duration <= 2;
       const block = document.createElement('div');
-      block.className = 'event ' + colorInfo.class;
+      block.className = 'event ' + colorInfo.class + (isCompact ? ' compact' : '');
       block.style.top = topPct + '%';
       block.style.height = heightPct + '%';
 
