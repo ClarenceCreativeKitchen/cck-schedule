@@ -196,10 +196,12 @@
   .event .client-name {
     font-size: 28px;
     font-weight: 800;
-    line-height: 1.1;
-    white-space: nowrap;
+    line-height: 1.15;
     overflow: hidden;
-    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    word-break: break-word;
   }
   .event .time-range {
     font-size: 20px;
@@ -214,11 +216,15 @@
     margin-top: 2px;
   }
 
-  /* Compact layout for short bookings (≤2 hours) — tighter padding, stacked vertically */
+  /* Compact layout for short bookings (≤2 hours) — tighter padding, smaller text */
   .event.compact {
     padding: 2px 10px;
   }
+  .event.compact .client-name {
+    font-size: 18px;
+  }
   .event.compact .time-range {
+    font-size: 14px;
     margin-top: 1px;
   }
   .event.compact .space-name {
