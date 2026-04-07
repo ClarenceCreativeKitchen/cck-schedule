@@ -1,8 +1,6 @@
 name: Sync TFC Schedule
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
   repository_dispatch:
     types: [sync-tfc]
   workflow_dispatch:
@@ -30,5 +28,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update schedule data $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
+            git pull --rebase origin main || true
+            git push || echo "Push failed (likely concurrent run) — will retry next cycle"
           fi
