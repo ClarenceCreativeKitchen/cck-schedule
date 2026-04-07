@@ -20,6 +20,9 @@
     flex-direction: column;
   }
 
+  /* Mobile view hidden on desktop */
+  .mobile-view { display: none; }
+
   /* ── HEADER ── */
   .header {
     display: flex;
@@ -320,6 +323,180 @@
     color: #7b7f96;
     font-weight: 600;
   }
+
+  /* ══════════════════════════════════════════════ */
+  /* MOBILE RESPONSIVE — vertical day-by-day list  */
+  /* ══════════════════════════════════════════════ */
+  @media (max-width: 768px) {
+    body {
+      height: auto;
+      overflow: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    /* Hide desktop-only elements */
+    .calendar, .legend { display: none !important; }
+    .mobile-view { display: block !important; }
+
+    /* Simplified header */
+    .header {
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 16px 20px 12px;
+      gap: 4px;
+    }
+    .header h1 { font-size: 22px; }
+    .header .subtitle { font-size: 12px; max-width: none; }
+    .header .week-label { font-size: 20px; }
+    .last-synced { font-size: 13px; }
+    .header-center { text-align: left; }
+    .header > div:last-child { display: none; }
+
+    /* Footer */
+    .footer { padding: 10px 20px; font-size: 13px; }
+
+    /* ── Mobile day sections ── */
+    .mobile-view {
+      flex: 1;
+      overflow-y: auto;
+      padding: 0 16px 20px;
+    }
+    .m-day {
+      margin-top: 16px;
+    }
+    .m-day-header {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      padding: 10px 0 8px;
+      border-bottom: 2px solid #2a2d38;
+    }
+    .m-day-name {
+      font-size: 14px;
+      font-weight: 700;
+      color: #7b7f96;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    .m-day-date {
+      font-size: 20px;
+      font-weight: 800;
+      color: #b0b4c8;
+    }
+    .m-day.m-today .m-day-name,
+    .m-day.m-today .m-day-date {
+      color: #3ecfb4;
+    }
+    .m-day.m-today .m-day-header {
+      border-bottom-color: #3ecfb4;
+    }
+    .m-day.m-past .m-day-header {
+      opacity: 0.45;
+    }
+    .m-day.m-past .m-event {
+      opacity: 0.45;
+    }
+    .m-no-events {
+      padding: 12px 0;
+      font-size: 14px;
+      color: #3a3d4a;
+      font-weight: 600;
+    }
+
+    /* ── Mobile event cards ── */
+    .m-event {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 12px 14px;
+      margin-top: 8px;
+      border-radius: 10px;
+      border-left: 5px solid;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    }
+    .m-event .m-color-bar {
+      width: 4px;
+      align-self: stretch;
+      border-radius: 2px;
+      flex-shrink: 0;
+    }
+    .m-event .m-event-info {
+      flex: 1;
+      min-width: 0;
+    }
+    .m-event .m-client {
+      font-size: 18px;
+      font-weight: 800;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .m-event .m-time {
+      font-size: 15px;
+      font-weight: 700;
+      opacity: 0.85;
+      margin-top: 2px;
+    }
+    .m-event .m-space {
+      font-size: 12px;
+      font-weight: 500;
+      opacity: 0.6;
+      margin-top: 1px;
+    }
+
+    /* Reuse desktop client color classes for mobile cards */
+    .m-event.client-glcr {
+      background: rgba(52, 152, 219, 0.25);
+      border-left-color: #3498db;
+      color: #f0f4f8;
+    }
+    .m-event.client-btbw {
+      background: rgba(231, 76, 60, 0.25);
+      border-left-color: #e74c3c;
+      color: #f8f0f0;
+    }
+    .m-event.client-other-1 {
+      background: rgba(46, 204, 113, 0.25);
+      border-left-color: #2ecc71;
+      color: #f0f8f2;
+    }
+    .m-event.client-other-2 {
+      background: rgba(241, 196, 15, 0.25);
+      border-left-color: #f1c40f;
+      color: #f8f6f0;
+    }
+    .m-event.client-other-3 {
+      background: rgba(155, 89, 182, 0.25);
+      border-left-color: #9b59b6;
+      color: #f4f0f8;
+    }
+    .m-event.client-default {
+      background: rgba(164, 94, 191, 0.25);
+      border-left-color: #A45EBF;
+      color: #f4f0f8;
+    }
+
+    /* Mobile legend (inline at top of mobile view) */
+    .m-legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      padding: 12px 0;
+    }
+    .m-legend-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 13px;
+      font-weight: 600;
+      color: #c0c4d6;
+    }
+    .m-legend-dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 3px;
+    }
+  }
 </style>
 </head>
 <body>
@@ -345,6 +522,8 @@
 <div class="status-bar" id="statusBar"></div>
 
 <div class="calendar" id="calendar"></div>
+
+<div class="mobile-view" id="mobileView"></div>
 
 <div class="footer">
   <span id="lastUpdated"></span>
@@ -654,6 +833,69 @@ function buildCalendar() {
 }
 
 // ══════════════════════════════════════════════
+// RENDER MOBILE VIEW
+// ══════════════════════════════════════════════
+function buildMobileView() {
+  const container = document.getElementById('mobileView');
+  container.innerHTML = '';
+
+  const now = new Date();
+  const weekDates = getWeekDates();
+  const FULL_DAYS = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+
+  // Mobile legend
+  const legend = document.createElement('div');
+  legend.className = 'm-legend';
+  for (const [key, info] of Object.entries(clientColorMap)) {
+    legend.innerHTML += `<div class="m-legend-item"><div class="m-legend-dot" style="background:${info.dotColor}"></div>${info.label}</div>`;
+  }
+  container.appendChild(legend);
+
+  // Render each day, starting with today and wrapping around
+  const todayIdx = now.getDay();
+  for (let offset = 0; offset < 7; offset++) {
+    const dayIdx = (todayIdx + offset) % 7;
+    const date = weekDates[dayIdx];
+    const isToday = isSameDay(date, now);
+    const isPast = date < now && !isToday;
+
+    const section = document.createElement('div');
+    section.className = 'm-day' + (isToday ? ' m-today' : '') + (isPast ? ' m-past' : '');
+
+    const dateStr = `${MONTH_NAMES[date.getMonth()]} ${date.getDate()}`;
+    section.innerHTML = `<div class="m-day-header">
+      <span class="m-day-name">${isToday ? 'Today' : FULL_DAYS[dayIdx]}</span>
+      <span class="m-day-date">${dateStr}</span>
+    </div>`;
+
+    const dayEvents = currentEvents
+      .filter(e => e.dayIndex === dayIdx)
+      .sort((a, b) => a.startHour - b.startHour);
+
+    if (dayEvents.length === 0) {
+      const noEv = document.createElement('div');
+      noEv.className = 'm-no-events';
+      noEv.textContent = 'No bookings';
+      section.appendChild(noEv);
+    } else {
+      dayEvents.forEach(ev => {
+        const colorInfo = getClientColorInfo(ev.title);
+        const card = document.createElement('div');
+        card.className = 'm-event ' + colorInfo.class;
+        card.innerHTML = `<div class="m-event-info">
+          <div class="m-client">${ev.client}</div>
+          <div class="m-time">${formatHour(Math.floor(ev.startHour))} – ${formatHour(Math.floor(ev.endHour))}</div>
+          <div class="m-space">${ev.space}</div>
+        </div>`;
+        section.appendChild(card);
+      });
+    }
+
+    container.appendChild(section);
+  }
+}
+
+// ══════════════════════════════════════════════
 // CLOCK
 // ══════════════════════════════════════════════
 function updateClock() {
@@ -669,6 +911,7 @@ async function init() {
   await fetchEvents();
   buildLegend();
   buildCalendar();
+  buildMobileView();
 
   document.getElementById('lastUpdated').textContent =
     'Live from TFC via GitHub Actions';
@@ -679,13 +922,14 @@ async function init() {
   setInterval(updateClock, 1000);
 
   // Rebuild calendar every minute (updates now-line)
-  setInterval(buildCalendar, 60 * 1000);
+  setInterval(() => { buildCalendar(); buildMobileView(); }, 60 * 1000);
 
   // Re-fetch events.json at the configured interval
   setInterval(async () => {
     await fetchEvents();
     buildLegend();
     buildCalendar();
+    buildMobileView();
   }, CONFIG.REFRESH_INTERVAL);
 }
 
