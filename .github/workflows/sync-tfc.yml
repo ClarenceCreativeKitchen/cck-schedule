@@ -3,6 +3,8 @@ name: Sync TFC Schedule
 on:
   schedule:
     - cron: '*/5 * * * *'
+  repository_dispatch:
+    types: [sync-tfc]
   workflow_dispatch:
 
 permissions:
