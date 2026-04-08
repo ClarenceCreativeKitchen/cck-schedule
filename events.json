@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-08T06:46:09.708808+00:00",
+  "fetchedAt": "2026-04-08T06:47:08.834808+00:00",
   "weekStart": "2026-04-05T00:00:00+00:00",
   "events": [
     {
@@ -50,6 +50,13 @@
       "startMs": 1775685600000,
       "endMs": 1775700000000,
       "color": "#A45EBF"
+    },
+    {
+      "title": "Great Lakes Dried Fruit",
+      "space": "CCK Studio",
+      "startMs": 1775626200000,
+      "endMs": 1775629800000,
+      "color": "#3498DB"
     },
     {
       "title": "BTBW",
