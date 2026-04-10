@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-10T15:11:37.970820+00:00",
+  "fetchedAt": "2026-04-10T15:12:11.166596+00:00",
   "weekStart": "2026-04-05T00:00:00+00:00",
   "events": [
     {
@@ -38,10 +38,38 @@
       "color": "#A45EBF"
     },
     {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1775642400000,
+      "endMs": 1775656800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1775685600000,
+      "endMs": 1775700000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Great Lakes Dried Fruit",
+      "space": "CCK Studio",
+      "startMs": 1775626200000,
+      "endMs": 1775629800000,
+      "color": "#3498DB"
+    },
+    {
       "title": "BTBW",
       "space": "Primary Kitchen",
       "startMs": 1775772000000,
       "endMs": 1775786400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1775815200000,
+      "endMs": 1775836800000,
       "color": "#A45EBF"
     }
   ]
