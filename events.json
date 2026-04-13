@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-13T13:39:10.964025+00:00",
+  "fetchedAt": "2026-04-13T13:41:15.480439+00:00",
   "weekStart": "2026-04-12T00:00:00+00:00",
   "events": [
     {
@@ -29,6 +29,13 @@
       "startMs": 1776040200000,
       "endMs": 1776043800000,
       "color": "#A45EBF"
+    },
+    {
+      "title": "Great Lakes Dried Fruit",
+      "space": "CCK Studio",
+      "startMs": 1776085200000,
+      "endMs": 1776087000000,
+      "color": "#3498DB"
     },
     {
       "title": "GLCR",
