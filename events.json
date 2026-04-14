@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-14T15:22:09.052242+00:00",
+  "fetchedAt": "2026-04-14T15:23:10.287914+00:00",
   "weekStart": "2026-04-12T00:00:00+00:00",
   "events": [
     {
@@ -56,6 +56,13 @@
       "space": "Primary Kitchen",
       "startMs": 1776290400000,
       "endMs": 1776304800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Hungry Bee",
+      "space": "Primary Kitchen",
+      "startMs": 1776349800000,
+      "endMs": 1776353400000,
       "color": "#A45EBF"
     },
     {
