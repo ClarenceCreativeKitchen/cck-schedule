@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-16T16:38:11.864763+00:00",
+  "fetchedAt": "2026-04-16T16:39:23.599867+00:00",
   "weekStart": "2026-04-12T00:00:00+00:00",
   "events": [
     {
@@ -14,20 +14,6 @@
       "space": "Primary Kitchen",
       "startMs": 1775912400000,
       "endMs": 1775923200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1775988000000,
-      "endMs": 1776009600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1776040200000,
-      "endMs": 1776043800000,
       "color": "#A45EBF"
     },
     {
