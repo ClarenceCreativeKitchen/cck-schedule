@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-16T08:52:09.293832+00:00",
+  "fetchedAt": "2026-04-16T08:53:22.543967+00:00",
   "weekStart": "2026-04-12T00:00:00+00:00",
   "events": [
     {
@@ -63,20 +63,6 @@
       "space": "Primary Kitchen",
       "startMs": 1776290400000,
       "endMs": 1776304800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Hungry Bee",
-      "space": "Primary Kitchen",
-      "startMs": 1776349800000,
-      "endMs": 1776353400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1776376800000,
-      "endMs": 1776391200000,
       "color": "#A45EBF"
     },
     {
