@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-04-16T16:16:15.568191+00:00",
+  "fetchedAt": "2026-04-16T16:17:31.206268+00:00",
   "weekStart": "2026-04-12T00:00:00+00:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1775901600000,
-      "endMs": 1775912400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1775912400000,
-      "endMs": 1775923200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
