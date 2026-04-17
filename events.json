@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-04-17T15:30:12.222575+00:00",
-  "weekStart": "2026-04-12T00:00:00+00:00",
+  "fetchedAt": "2026-04-17T15:31:09.517803+00:00",
+  "weekStart": "2026-04-12T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1775901600000,
-      "endMs": 1775912400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1775912400000,
-      "endMs": 1775923200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -66,13 +52,6 @@
       "color": "#A45EBF"
     },
     {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1776376800000,
-      "endMs": 1776391200000,
-      "color": "#A45EBF"
-    },
-    {
       "title": "Hungry Bee",
       "space": "Primary Kitchen",
       "startMs": 1776349800000,
@@ -80,10 +59,38 @@
       "color": "#A45EBF"
     },
     {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1776376800000,
+      "endMs": 1776391200000,
+      "color": "#A45EBF"
+    },
+    {
       "title": "GLCR",
       "space": "Primary Kitchen",
       "startMs": 1776420000000,
       "endMs": 1776441600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1776506400000,
+      "endMs": 1776517200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1776517200000,
+      "endMs": 1776528000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1776535200000,
+      "endMs": 1776546000000,
       "color": "#A45EBF"
     }
   ]
