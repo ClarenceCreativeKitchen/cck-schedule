@@ -14,7 +14,7 @@ from datetime import datetime, timezone, timedelta
 
 TFC_URL = "https://app.thefoodcorridor.com/listings/46758-clarence-creative-kitchen/tfc_calendars/ganttdata"
 # Only include these spaces on the display
-INCLUDE_SPACES = {"Primary Kitchen", "CCK Studio"}
+INCLUDE_SPACES = {"Primary Kitchen"}
 
 def get_et_offset():
     """Determine current US Eastern offset (EDT=-4 or EST=-5) based on DST rules."""
