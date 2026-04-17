@@ -242,10 +242,30 @@
     border-left-color: #e74c3c;
     color: #f8f0f0;
   }
-  .event.client-other-1 {
+  .event.client-gldf {
     background: rgba(46, 204, 113, 0.30);
     border-left-color: #2ecc71;
     color: #f0f8f2;
+  }
+  .event.client-bowlsrx {
+    background: rgba(243, 156, 18, 0.30);
+    border-left-color: #f39c12;
+    color: #f8f4f0;
+  }
+  .event.client-hungrybee {
+    background: rgba(155, 89, 182, 0.30);
+    border-left-color: #9b59b6;
+    color: #f4f0f8;
+  }
+  .event.client-vinegars {
+    background: rgba(26, 188, 156, 0.30);
+    border-left-color: #1abc9c;
+    color: #f0f8f6;
+  }
+  .event.client-other-1 {
+    background: rgba(230, 126, 34, 0.30);
+    border-left-color: #e67e22;
+    color: #f8f2f0;
   }
   .event.client-other-2 {
     background: rgba(241, 196, 15, 0.30);
@@ -253,14 +273,24 @@
     color: #f8f6f0;
   }
   .event.client-other-3 {
-    background: rgba(155, 89, 182, 0.30);
-    border-left-color: #9b59b6;
-    color: #f4f0f8;
+    background: rgba(232, 67, 147, 0.30);
+    border-left-color: #e84393;
+    color: #f8f0f4;
+  }
+  .event.client-other-4 {
+    background: rgba(0, 206, 201, 0.30);
+    border-left-color: #00cec9;
+    color: #f0f8f8;
+  }
+  .event.client-other-5 {
+    background: rgba(108, 92, 231, 0.30);
+    border-left-color: #6c5ce7;
+    color: #f2f0f8;
   }
   .event.client-default {
-    background: rgba(164, 94, 191, 0.30);
-    border-left-color: #A45EBF;
-    color: #f4f0f8;
+    background: rgba(253, 121, 168, 0.30);
+    border-left-color: #fd79a8;
+    color: #f8f0f4;
   }
 
   /* ── NOW INDICATOR ── */
@@ -455,10 +485,30 @@
       border-left-color: #e74c3c;
       color: #f8f0f0;
     }
-    .m-event.client-other-1 {
+    .m-event.client-gldf {
       background: rgba(46, 204, 113, 0.25);
       border-left-color: #2ecc71;
       color: #f0f8f2;
+    }
+    .m-event.client-bowlsrx {
+      background: rgba(243, 156, 18, 0.25);
+      border-left-color: #f39c12;
+      color: #f8f4f0;
+    }
+    .m-event.client-hungrybee {
+      background: rgba(155, 89, 182, 0.25);
+      border-left-color: #9b59b6;
+      color: #f4f0f8;
+    }
+    .m-event.client-vinegars {
+      background: rgba(26, 188, 156, 0.25);
+      border-left-color: #1abc9c;
+      color: #f0f8f6;
+    }
+    .m-event.client-other-1 {
+      background: rgba(230, 126, 34, 0.25);
+      border-left-color: #e67e22;
+      color: #f8f2f0;
     }
     .m-event.client-other-2 {
       background: rgba(241, 196, 15, 0.25);
@@ -466,14 +516,24 @@
       color: #f8f6f0;
     }
     .m-event.client-other-3 {
-      background: rgba(155, 89, 182, 0.25);
-      border-left-color: #9b59b6;
-      color: #f4f0f8;
+      background: rgba(232, 67, 147, 0.25);
+      border-left-color: #e84393;
+      color: #f8f0f4;
+    }
+    .m-event.client-other-4 {
+      background: rgba(0, 206, 201, 0.25);
+      border-left-color: #00cec9;
+      color: #f0f8f8;
+    }
+    .m-event.client-other-5 {
+      background: rgba(108, 92, 231, 0.25);
+      border-left-color: #6c5ce7;
+      color: #f2f0f8;
     }
     .m-event.client-default {
-      background: rgba(164, 94, 191, 0.25);
-      border-left-color: #A45EBF;
-      color: #f4f0f8;
+      background: rgba(253, 121, 168, 0.25);
+      border-left-color: #fd79a8;
+      color: #f8f0f4;
     }
 
     /* Mobile legend (inline at top of mobile view) */
@@ -544,15 +604,21 @@ const CONFIG = {
   REFRESH_INTERVAL: 5 * 60 * 1000,
 
   CLIENT_COLORS: {
-    'GLCR':  { class: 'client-glcr', label: 'GLCR', dotColor: '#3498db' },
-    'BTBW':  { class: 'client-btbw', label: 'BTBW', dotColor: '#e74c3c' },
+    'GLCR':                   { class: 'client-glcr',      label: 'GLCR',                   dotColor: '#3498db' },
+    'BTBW':                   { class: 'client-btbw',      label: 'BTBW',                   dotColor: '#e74c3c' },
+    'GREAT LAKES DRIED FRUIT':{ class: 'client-gldf',      label: 'Great Lakes Dried Fruit', dotColor: '#2ecc71' },
+    'BOWLSRX':                { class: 'client-bowlsrx',   label: 'BowlsRx',               dotColor: '#f39c12' },
+    'HUNGRY BEE':             { class: 'client-hungrybee', label: 'Hungry Bee',             dotColor: '#9b59b6' },
+    'VINEGARS ETC':           { class: 'client-vinegars',  label: 'Vinegars Etc',           dotColor: '#1abc9c' },
   },
 
   FALLBACK_COLORS: [
-    { class: 'client-other-1', dotColor: '#2ecc71' },
+    { class: 'client-other-1', dotColor: '#e67e22' },
     { class: 'client-other-2', dotColor: '#f1c40f' },
-    { class: 'client-other-3', dotColor: '#9b59b6' },
-    { class: 'client-default',  dotColor: '#A45EBF' },
+    { class: 'client-other-3', dotColor: '#e84393' },
+    { class: 'client-other-4', dotColor: '#00cec9' },
+    { class: 'client-other-5', dotColor: '#6c5ce7' },
+    { class: 'client-default',  dotColor: '#fd79a8' },
   ]
 };
 
