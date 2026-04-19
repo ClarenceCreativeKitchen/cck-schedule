@@ -1,7 +1,21 @@
 {
-  "fetchedAt": "2026-04-19T11:23:24.392020+00:00",
+  "fetchedAt": "2026-04-19T11:24:07.311162+00:00",
   "weekStart": "2026-04-19T00:00:00-04:00",
   "events": [
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1776592800000,
+      "endMs": 1776614400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1776621600000,
+      "endMs": 1776632400000,
+      "color": "#A45EBF"
+    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
