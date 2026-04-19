@@ -1,89 +1,68 @@
 {
-  "fetchedAt": "2026-04-19T03:59:09.337822+00:00",
-  "weekStart": "2026-04-12T00:00:00-04:00",
+  "fetchedAt": "2026-04-19T04:00:13.921438+00:00",
+  "weekStart": "2026-04-19T00:00:00-04:00",
   "events": [
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
-      "startMs": 1775988000000,
-      "endMs": 1776009600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1776040200000,
-      "endMs": 1776043800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1776160800000,
-      "endMs": 1776182400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BowlsRx",
-      "space": "Primary Kitchen",
-      "startMs": 1776204000000,
-      "endMs": 1776220200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1776247200000,
-      "endMs": 1776261600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1776290400000,
-      "endMs": 1776304800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Hungry Bee",
-      "space": "Primary Kitchen",
-      "startMs": 1776349800000,
-      "endMs": 1776353400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1776376800000,
-      "endMs": 1776391200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1776420000000,
-      "endMs": 1776441600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1776506400000,
-      "endMs": 1776517200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1776517200000,
-      "endMs": 1776528000000,
+      "startMs": 1776592800000,
+      "endMs": 1776614400000,
       "color": "#A45EBF"
     },
     {
       "title": "Vinegars Etc",
       "space": "Primary Kitchen",
-      "startMs": 1776535200000,
-      "endMs": 1776546000000,
+      "startMs": 1776621600000,
+      "endMs": 1776632400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1776765600000,
+      "endMs": 1776787200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1776852000000,
+      "endMs": 1776866400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1776895200000,
+      "endMs": 1776909600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1777024800000,
+      "endMs": 1777046400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1777057200000,
+      "endMs": 1777071600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1777111200000,
+      "endMs": 1777122000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1777122000000,
+      "endMs": 1777132800000,
       "color": "#A45EBF"
     }
   ]
