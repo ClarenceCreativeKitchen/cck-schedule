@@ -313,6 +313,103 @@
     background: #3ecfb4;
   }
 
+  /* ── CHANGELOG PANEL ── */
+  .changelog-btn {
+    background: #2a2d38;
+    border: 1px solid #3a3d4a;
+    color: #b0b4c8;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 6px 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-family: inherit;
+    transition: background 0.2s;
+  }
+  .changelog-btn:hover {
+    background: #35384a;
+    color: #e0e4f0;
+  }
+  .changelog-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 50;
+  }
+  .changelog-overlay.open { display: block; }
+  .changelog-panel {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 420px;
+    max-width: 90vw;
+    background: #1e2129;
+    border-left: 2px solid #2a2d38;
+    z-index: 51;
+    display: flex;
+    flex-direction: column;
+    transform: translateX(100%);
+    transition: transform 0.25s ease;
+  }
+  .changelog-overlay.open .changelog-panel {
+    transform: translateX(0);
+  }
+  .changelog-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 24px;
+    border-bottom: 1px solid #2a2d38;
+  }
+  .changelog-header h2 {
+    font-size: 20px;
+    font-weight: 800;
+    color: #fff;
+  }
+  .changelog-close {
+    background: none;
+    border: none;
+    color: #7b7f96;
+    font-size: 24px;
+    cursor: pointer;
+    padding: 4px 8px;
+    font-family: inherit;
+  }
+  .changelog-close:hover { color: #e0e4f0; }
+  .changelog-list {
+    flex: 1;
+    overflow-y: auto;
+    padding: 16px 24px;
+  }
+  .changelog-empty {
+    color: #5a5e72;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    padding: 40px 0;
+  }
+  .changelog-entry {
+    padding: 12px 0;
+    border-bottom: 1px solid #252830;
+  }
+  .changelog-entry:last-child { border-bottom: none; }
+  .changelog-time {
+    font-size: 12px;
+    font-weight: 600;
+    color: #5a5e72;
+    margin-bottom: 4px;
+  }
+  .changelog-desc {
+    font-size: 15px;
+    font-weight: 600;
+    color: #c0c4d6;
+    line-height: 1.4;
+  }
+  .changelog-entry.type-added .changelog-desc { color: #2ecc71; }
+  .changelog-entry.type-removed .changelog-desc { color: #e74c3c; }
+
   /* ── FOOTER ── */
   .footer {
     display: flex;
@@ -380,7 +477,8 @@
     .header .week-label { font-size: 20px; }
     .last-synced { font-size: 13px; }
     .header-center { text-align: left; }
-    .header > div:last-child { display: none; }
+    .header > div:last-child { min-width: auto !important; text-align: left !important; margin-top: 8px; }
+    .changelog-btn { font-size: 13px; padding: 5px 12px; }
 
     /* Footer */
     .footer { padding: 10px 20px; font-size: 13px; }
@@ -574,7 +672,21 @@
     <div class="week-label" id="weekLabel"></div>
     <div class="last-synced" id="lastSynced"></div>
   </div>
-  <div style="min-width: 200px"></div>
+  <div style="min-width: 200px; text-align: right;">
+    <button class="changelog-btn" onclick="toggleChangelog()">Change Log</button>
+  </div>
+</div>
+
+<div class="changelog-overlay" id="changelogOverlay" onclick="if(event.target===this)toggleChangelog()">
+  <div class="changelog-panel">
+    <div class="changelog-header">
+      <h2>Change Log</h2>
+      <button class="changelog-close" onclick="toggleChangelog()">&times;</button>
+    </div>
+    <div class="changelog-list" id="changelogList">
+      <div class="changelog-empty">Loading...</div>
+    </div>
+  </div>
 </div>
 
 <div class="legend" id="legend"></div>
@@ -958,6 +1070,45 @@ function buildMobileView() {
     }
 
     container.appendChild(section);
+  }
+}
+
+// ══════════════════════════════════════════════
+// CHANGELOG
+// ══════════════════════════════════════════════
+function toggleChangelog() {
+  const overlay = document.getElementById('changelogOverlay');
+  const isOpen = overlay.classList.toggle('open');
+  if (isOpen) loadChangelog();
+}
+
+async function loadChangelog() {
+  const list = document.getElementById('changelogList');
+  try {
+    const res = await fetch('changelog.json?_=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const entries = await res.json();
+
+    if (!entries.length) {
+      list.innerHTML = '<div class="changelog-empty">No changes recorded yet.</div>';
+      return;
+    }
+
+    list.innerHTML = entries.map(e => {
+      const d = new Date(e.time);
+      const timeStr = d.toLocaleDateString('en-US', {
+        month: 'short', day: 'numeric'
+      }) + ' at ' + d.toLocaleTimeString('en-US', {
+        hour: 'numeric', minute: '2-digit', hour12: true
+      });
+      const icon = e.type === 'added' ? '+' : e.type === 'removed' ? '−' : '~';
+      return `<div class="changelog-entry type-${e.type}">
+        <div class="changelog-time">${timeStr}</div>
+        <div class="changelog-desc">${icon} ${e.description}</div>
+      </div>`;
+    }).join('');
+  } catch (err) {
+    list.innerHTML = '<div class="changelog-empty">No changes recorded yet.</div>';
   }
 }
 
