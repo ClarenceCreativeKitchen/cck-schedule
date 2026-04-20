@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "time": "2026-04-20T14:58:10.565558+00:00",
+    "type": "added",
+    "description": "Booking added: TEST (Mon Apr 20 4:00 PM \u2013 Mon Apr 20 6:00 PM)",
+    "event": {
+      "title": "TEST",
+      "space": "Primary Kitchen",
+      "startMs": 1776715200000,
+      "endMs": 1776722400000,
+      "color": "#A45EBF"
+    }
+  }
+]
