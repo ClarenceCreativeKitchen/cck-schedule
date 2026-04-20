@@ -14,16 +14,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch TFC events for the week
-        run: |
-          python3 scripts/fetch_tfc.py > events.json.tmp
-          mv events.json.tmp events.json
+      - name: Fetch TFC events and update changelog
+        run: python3 scripts/fetch_tfc.py
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add events.json
+          git add events.json changelog.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
