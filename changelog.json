@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-04-21T14:13:23.474576+00:00",
+    "type": "removed",
+    "description": "Booking removed: GLCR (Sat Apr 25 6:00 AM \u2013 Sat Apr 25 9:00 AM)",
+    "event": {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1777111200000,
+      "endMs": 1777122000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-04-21T14:13:23.474576+00:00",
+    "type": "removed",
+    "description": "Booking removed: BTBW (Sat Apr 25 9:00 AM \u2013 Sat Apr 25 12:00 PM)",
+    "event": {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1777122000000,
+      "endMs": 1777132800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-04-21T12:04:10.001502+00:00",
     "type": "added",
     "description": "Booking added: GLCR (Fri Apr 24 6:00 AM \u2013 Fri Apr 24 12:00 PM)",
