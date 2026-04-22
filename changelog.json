@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-04-22T14:22:24.244750+00:00",
+    "type": "removed",
+    "description": "Booking removed: GLCR (Tue Apr 21 6:00 AM \u2013 Tue Apr 21 12:00 PM)",
+    "event": {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1776765600000,
+      "endMs": 1776787200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-04-21T16:57:11.087588+00:00",
     "type": "added",
     "description": "Booking added: GLCR (Fri Apr 24 6:00 AM \u2013 Fri Apr 24 12:00 PM)",
