@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-04-23T18:49:23.625051+00:00",
+    "type": "removed",
+    "description": "Booking removed: GLCR (Sun Apr 19 6:00 AM \u2013 Sun Apr 19 12:00 PM)",
+    "event": {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1776592800000,
+      "endMs": 1776614400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-04-23T18:49:23.625051+00:00",
+    "type": "removed",
+    "description": "Booking removed: Vinegars Etc (Sun Apr 19 2:00 PM \u2013 Sun Apr 19 5:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1776621600000,
+      "endMs": 1776632400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-04-23T18:43:09.940097+00:00",
     "type": "added",
     "description": "Booking added: GLCR (Wed Apr 22 6:00 AM \u2013 Wed Apr 22 10:00 AM)",
