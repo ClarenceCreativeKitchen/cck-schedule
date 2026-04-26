@@ -1,68 +1,82 @@
 {
-  "fetchedAt": "2026-04-26T03:59:07.106461+00:00",
-  "weekStart": "2026-04-19T00:00:00-04:00",
+  "fetchedAt": "2026-04-26T04:00:12.327876+00:00",
+  "weekStart": "2026-04-26T00:00:00-04:00",
   "events": [
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
-      "startMs": 1776592800000,
-      "endMs": 1776614400000,
+      "startMs": 1777197600000,
+      "endMs": 1777219200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1777370400000,
+      "endMs": 1777392000000,
       "color": "#A45EBF"
     },
     {
       "title": "Vinegars Etc",
       "space": "Primary Kitchen",
-      "startMs": 1776621600000,
-      "endMs": 1776632400000,
+      "startMs": 1777404600000,
+      "endMs": 1777411800000,
       "color": "#A45EBF"
     },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
-      "startMs": 1776765600000,
-      "endMs": 1776787200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1776852000000,
-      "endMs": 1776866400000,
+      "startMs": 1777456800000,
+      "endMs": 1777471200000,
       "color": "#A45EBF"
     },
     {
       "title": "BTBW",
       "space": "Primary Kitchen",
-      "startMs": 1776895200000,
-      "endMs": 1776909600000,
+      "startMs": 1777500000000,
+      "endMs": 1777514400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Global Warming Peppers",
+      "space": "Primary Kitchen",
+      "startMs": 1777546800000,
+      "endMs": 1777561200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sweet Ren LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1777563000000,
+      "endMs": 1777570200000,
       "color": "#A45EBF"
     },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
-      "startMs": 1777024800000,
-      "endMs": 1777046400000,
+      "startMs": 1777629600000,
+      "endMs": 1777651200000,
       "color": "#A45EBF"
     },
     {
       "title": "BTBW",
       "space": "Primary Kitchen",
-      "startMs": 1777057200000,
-      "endMs": 1777071600000,
+      "startMs": 1777654800000,
+      "endMs": 1777669200000,
       "color": "#A45EBF"
     },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
-      "startMs": 1777111200000,
-      "endMs": 1777122000000,
+      "startMs": 1777716000000,
+      "endMs": 1777726800000,
       "color": "#A45EBF"
     },
     {
       "title": "BTBW",
       "space": "Primary Kitchen",
-      "startMs": 1777122000000,
-      "endMs": 1777132800000,
+      "startMs": 1777726800000,
+      "endMs": 1777737600000,
       "color": "#A45EBF"
     }
   ]
