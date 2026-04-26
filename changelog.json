@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-04-26T21:44:08.750325+00:00",
+    "type": "added",
+    "description": "Booking added: Colibr\u00ed Panader\u00eda (Thu Apr 30 5:00 PM \u2013 Thu Apr 30 8:00 PM)",
+    "event": {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1777582800000,
+      "endMs": 1777593600000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-04-26T21:44:08.750325+00:00",
+    "type": "removed",
+    "description": "Booking removed: Colibr\u00ed Panader\u00eda (Thu Apr 30 2:00 PM \u2013 Thu Apr 30 5:00 PM)",
+    "event": {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1777572000000,
+      "endMs": 1777582800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-04-26T21:43:08.450536+00:00",
     "type": "added",
     "description": "Booking added: Colibr\u00ed Panader\u00eda (Thu Apr 30 2:00 PM \u2013 Thu Apr 30 5:00 PM)",
