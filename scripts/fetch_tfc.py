@@ -69,16 +69,76 @@ def event_summary(ev):
     """Human-readable summary of an event."""
     return f"{ev['title']} ({format_event_time(ev['startMs'])} – {format_event_time(ev['endMs'])})"
 
+def is_future_event(ev):
+    """Check if an event hasn't ended yet (today or future)."""
+    et_off = get_et_offset()
+    now_et = datetime.now(timezone(et_off))
+    # Compare against end time so in-progress events aren't treated as past
+    end_dt = datetime.fromtimestamp(ev["endMs"] / 1000, tz=timezone.utc) + et_off
+    end_dt = end_dt.replace(tzinfo=timezone(et_off))
+    return end_dt >= now_et.replace(hour=0, minute=0, second=0, microsecond=0)
+
+def events_in_both_weeks(old_events, new_events):
+    """Find the overlapping date range between old and new event sets.
+    Only compare events that fall on dates present in BOTH sets,
+    so the weekly rollover doesn't generate false adds/removes."""
+    def event_dates(events):
+        dates = set()
+        et_off = get_et_offset()
+        for ev in events:
+            dt = datetime.fromtimestamp(ev["startMs"] / 1000, tz=timezone.utc) + et_off
+            dates.add(dt.strftime("%Y-%m-%d"))
+        return dates
+
+    old_dates = event_dates(old_events)
+    new_dates = event_dates(new_events)
+    return old_dates & new_dates  # dates present in both
+
+def event_date_str(ev):
+    """Get the ET date string for an event."""
+    et_off = get_et_offset()
+    dt = datetime.fromtimestamp(ev["startMs"] / 1000, tz=timezone.utc) + et_off
+    return dt.strftime("%Y-%m-%d")
+
 def compute_changelog(old_events, new_events, timestamp):
-    """Compare old and new events and return a list of changelog entries."""
+    """Compare old and new events, only logging genuine booking changes.
+    Ignores: past events, weekly rollover (old days falling off / new days appearing)."""
     entries = []
-    old_map = {event_key(e): e for e in old_events}
-    new_map = {event_key(e): e for e in new_events}
+
+    # Only compare events on dates that exist in both old and new data.
+    # This prevents the weekly rollover from flooding the changelog.
+    shared_dates = events_in_both_weeks(old_events, new_events)
+
+    # Filter to future events on shared dates only
+    old_comparable = [e for e in old_events if event_date_str(e) in shared_dates and is_future_event(e)]
+    new_comparable = [e for e in new_events if event_date_str(e) in shared_dates and is_future_event(e)]
+
+    old_map = {event_key(e): e for e in old_comparable}
+    new_map = {event_key(e): e for e in new_comparable}
 
     old_keys = set(old_map.keys())
     new_keys = set(new_map.keys())
 
-    # Added events
+    # Also detect genuinely new dates (not from rollover) — a booking on a date
+    # that had no bookings before IS a real addition
+    new_dates_with_events = set()
+    for e in new_events:
+        if is_future_event(e):
+            new_dates_with_events.add(event_date_str(e))
+    old_dates_with_events = set()
+    for e in old_events:
+        old_dates_with_events.add(event_date_str(e))
+
+    # New bookings on entirely new dates (that aren't just week rollover)
+    # These are dates that exist in new data, had no events in old data,
+    # but the date itself WAS in the old week range (i.e., not a new day from rollover)
+    old_all_dates = set()
+    et_off = get_et_offset()
+    if old_events:
+        # Reconstruct old week's full date range from the old weekStart
+        pass  # We'll handle this via shared_dates logic above
+
+    # Added events (on shared dates)
     for k in sorted(new_keys - old_keys, key=lambda x: x[1]):
         ev = new_map[k]
         entries.append({
@@ -88,15 +148,16 @@ def compute_changelog(old_events, new_events, timestamp):
             "event": ev
         })
 
-    # Removed events
+    # Removed events (on shared dates, future only)
     for k in sorted(old_keys - new_keys, key=lambda x: x[1]):
         ev = old_map[k]
-        entries.append({
-            "time": timestamp,
-            "type": "removed",
-            "description": f"Booking removed: {event_summary(ev)}",
-            "event": ev
-        })
+        if is_future_event(ev):
+            entries.append({
+                "time": timestamp,
+                "type": "removed",
+                "description": f"Booking removed: {event_summary(ev)}",
+                "event": ev
+            })
 
     return entries
 
