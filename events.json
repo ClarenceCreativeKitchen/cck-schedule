@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-27T13:32:24.471749+00:00",
+  "fetchedAt": "2026-04-27T13:33:08.868749+00:00",
   "weekStart": "2026-04-26T00:00:00-04:00",
   "events": [
     {
@@ -56,6 +56,27 @@
       "space": "Primary Kitchen",
       "startMs": 1777582800000,
       "endMs": 1777593600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1777629600000,
+      "endMs": 1777651200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1777654800000,
+      "endMs": 1777669200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1777669200000,
+      "endMs": 1777687200000,
       "color": "#A45EBF"
     },
     {
