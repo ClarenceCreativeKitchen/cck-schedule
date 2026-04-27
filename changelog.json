@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-04-27T19:18:09.583488+00:00",
+    "type": "added",
+    "description": "Booking added: Vinegars Etc (Tue Apr 28 4:00 PM \u2013 Tue Apr 28 6:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1777406400000,
+      "endMs": 1777413600000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-04-27T19:18:09.583488+00:00",
+    "type": "removed",
+    "description": "Booking removed: Vinegars Etc (Tue Apr 28 3:30 PM \u2013 Tue Apr 28 6:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1777404600000,
+      "endMs": 1777413600000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-04-27T19:17:08.976711+00:00",
     "type": "added",
     "description": "Booking added: Vinegars Etc (Tue Apr 28 3:30 PM \u2013 Tue Apr 28 6:00 PM)",
