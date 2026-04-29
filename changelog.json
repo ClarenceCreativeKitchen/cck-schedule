@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-04-29T13:53:16.226357+00:00",
+    "type": "removed",
+    "description": "Booking removed: Global Warming Peppers (Thu Apr 30 7:00 AM \u2013 Thu Apr 30 11:00 AM)",
+    "event": {
+      "title": "Global Warming Peppers",
+      "space": "Primary Kitchen",
+      "startMs": 1777546800000,
+      "endMs": 1777561200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-04-28T01:21:07.521396+00:00",
     "type": "added",
     "description": "Booking added: Great Lakes Dried Fruit (Thu Apr 30 8:00 PM \u2013 Thu Apr 30 10:00 PM)",
