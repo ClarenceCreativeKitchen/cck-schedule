@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-05-03T13:33:08.888134+00:00",
+    "type": "added",
+    "description": "Booking added: Great Lakes Dried Fruit (Sun May 03 6:00 PM \u2013 Sun May 03 8:00 PM)",
+    "event": {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1777845600000,
+      "endMs": 1777852800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-04-29T16:02:09.827991+00:00",
     "type": "added",
     "description": "Booking added: Global Warming Peppers (Thu Apr 30 7:00 AM \u2013 Thu Apr 30 11:00 AM)",
