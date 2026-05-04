@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-04T11:53:08.960476+00:00",
+  "fetchedAt": "2026-05-04T11:54:10.571287+00:00",
   "weekStart": "2026-05-03T00:00:00-04:00",
   "events": [
     {
@@ -70,6 +70,13 @@
       "space": "Primary Kitchen",
       "startMs": 1778110200000,
       "endMs": 1778119200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Simply Loaded",
+      "space": "Primary Kitchen",
+      "startMs": 1778151600000,
+      "endMs": 1778158800000,
       "color": "#A45EBF"
     },
     {
