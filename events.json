@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-04T18:42:10.313230+00:00",
+  "fetchedAt": "2026-05-04T18:43:15.155359+00:00",
   "weekStart": "2026-05-03T00:00:00-04:00",
   "events": [
     {
@@ -26,8 +26,8 @@
     {
       "title": "EasyMeals",
       "space": "Primary Kitchen",
-      "startMs": 1777921200000,
-      "endMs": 1777928400000,
+      "startMs": 1777923000000,
+      "endMs": 1777930200000,
       "color": "#A45EBF"
     },
     {

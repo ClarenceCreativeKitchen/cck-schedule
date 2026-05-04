@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-05-04T18:43:15.155359+00:00",
+    "type": "added",
+    "description": "Booking added: EasyMeals (Mon May 04 3:30 PM \u2013 Mon May 04 5:30 PM)",
+    "event": {
+      "title": "EasyMeals",
+      "space": "Primary Kitchen",
+      "startMs": 1777923000000,
+      "endMs": 1777930200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-05-04T18:43:15.155359+00:00",
+    "type": "removed",
+    "description": "Booking removed: EasyMeals (Mon May 04 3:00 PM \u2013 Mon May 04 5:00 PM)",
+    "event": {
+      "title": "EasyMeals",
+      "space": "Primary Kitchen",
+      "startMs": 1777921200000,
+      "endMs": 1777928400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-04T18:19:09.927150+00:00",
     "type": "added",
     "description": "Booking added: EasyMeals (Mon May 04 3:00 PM \u2013 Mon May 04 5:00 PM)",
