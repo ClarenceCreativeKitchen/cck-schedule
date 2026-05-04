@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-05-04T00:46:13.484995+00:00",
+    "type": "removed",
+    "description": "Booking removed: Vinegars Etc (Mon May 04 1:00 PM \u2013 Mon May 04 3:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1777914000000,
+      "endMs": 1777921200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-03T15:33:13.128070+00:00",
     "type": "added",
     "description": "Booking added: EasyMeals (Mon May 04 3:00 PM \u2013 Mon May 04 6:00 PM)",
