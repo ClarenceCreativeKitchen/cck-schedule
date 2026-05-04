@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-04T13:53:18.534616+00:00",
+  "fetchedAt": "2026-05-04T13:54:11.058211+00:00",
   "weekStart": "2026-05-03T00:00:00-04:00",
   "events": [
     {
@@ -63,13 +63,6 @@
       "space": "Primary Kitchen",
       "startMs": 1778090400000,
       "endMs": 1778097600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1778110200000,
-      "endMs": 1778119200000,
       "color": "#A45EBF"
     },
     {
