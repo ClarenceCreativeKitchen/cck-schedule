@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-05T13:21:11.879945+00:00",
+  "fetchedAt": "2026-05-05T16:33:23.237725+00:00",
   "weekStart": "2026-05-03T00:00:00-04:00",
   "events": [
     {
@@ -45,17 +45,17 @@
       "color": "#A45EBF"
     },
     {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1777996800000,
+      "endMs": 1778000400000,
+      "color": "#A45EBF"
+    },
+    {
       "title": "BowlsRx",
       "space": "Primary Kitchen",
       "startMs": 1778013000000,
       "endMs": 1778027400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1778031000000,
-      "endMs": 1778034600000,
       "color": "#A45EBF"
     },
     {

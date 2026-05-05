@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-05-05T16:33:23.237725+00:00",
+    "type": "added",
+    "description": "Booking added: Great Lakes Dried Fruit (Tue May 05 12:00 PM \u2013 Tue May 05 1:00 PM)",
+    "event": {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1777996800000,
+      "endMs": 1778000400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-05-05T16:33:23.237725+00:00",
+    "type": "removed",
+    "description": "Booking removed: Great Lakes Dried Fruit (Tue May 05 9:30 PM \u2013 Tue May 05 10:30 PM)",
+    "event": {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1778031000000,
+      "endMs": 1778034600000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-05T04:53:14.432339+00:00",
     "type": "added",
     "description": "Booking added: Great Lakes Dried Fruit (Tue May 05 9:30 PM \u2013 Tue May 05 10:30 PM)",
