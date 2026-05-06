@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-06T16:14:41.650403+00:00",
+  "fetchedAt": "2026-05-06T16:15:15.864539+00:00",
   "weekStart": "2026-05-03T00:00:00-04:00",
   "events": [
     {
@@ -91,6 +91,27 @@
       "space": "Primary Kitchen",
       "startMs": 1778198400000,
       "endMs": 1778212800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1778234400000,
+      "endMs": 1778256000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sweet Ren LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1778256000000,
+      "endMs": 1778263200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1778283000000,
+      "endMs": 1778299200000,
       "color": "#A45EBF"
     },
     {
