@@ -842,7 +842,13 @@ async function fetchEvents() {
         start,
         end,
         startHour: start.getHours() + start.getMinutes() / 60,
-        endHour: end.getHours() + end.getMinutes() / 60,
+        endHour: (function() {
+          let eh = end.getHours() + end.getMinutes() / 60;
+          // If end is midnight (0:00) and on a different day than start,
+          // treat it as 24:00 (end of the start day)
+          if (eh === 0 && end.getDate() !== start.getDate()) eh = 24;
+          return eh;
+        })(),
         dayIndex: start.getDay()
       };
     });
