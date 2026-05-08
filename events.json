@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-08T02:45:18.781476+00:00",
+  "fetchedAt": "2026-05-08T02:46:58.431037+00:00",
   "weekStart": "2026-05-03T00:00:00-04:00",
   "events": [
     {
@@ -35,34 +35,6 @@
       "space": "Primary Kitchen",
       "startMs": 1777932000000,
       "endMs": 1777946400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1777975200000,
-      "endMs": 1777996800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1777996800000,
-      "endMs": 1778000400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1778061600000,
-      "endMs": 1778076000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1778090400000,
-      "endMs": 1778097600000,
       "color": "#A45EBF"
     },
     {
@@ -112,27 +84,6 @@
       "space": "Primary Kitchen",
       "startMs": 1778283000000,
       "endMs": 1778299200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1778299200000,
-      "endMs": 1778301000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1778320800000,
-      "endMs": 1778331600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1778331600000,
-      "endMs": 1778342400000,
       "color": "#A45EBF"
     }
   ]
