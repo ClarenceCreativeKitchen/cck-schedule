@@ -1,7 +1,28 @@
 {
-  "fetchedAt": "2026-05-08T03:15:40.244365+00:00",
+  "fetchedAt": "2026-05-08T03:16:24.153913+00:00",
   "weekStart": "2026-05-03T00:00:00-04:00",
   "events": [
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1777802400000,
+      "endMs": 1777824000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1777827600000,
+      "endMs": 1777842000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1777845600000,
+      "endMs": 1777852800000,
+      "color": "#A45EBF"
+    },
     {
       "title": "EasyMeals",
       "space": "Primary Kitchen",
@@ -19,20 +40,6 @@
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
-      "startMs": 1777975200000,
-      "endMs": 1777996800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1777996800000,
-      "endMs": 1778000400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
       "startMs": 1778061600000,
       "endMs": 1778076000000,
       "color": "#A45EBF"
@@ -42,6 +49,34 @@
       "space": "Primary Kitchen",
       "startMs": 1778090400000,
       "endMs": 1778097600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Simply Loaded",
+      "space": "Primary Kitchen",
+      "startMs": 1778151600000,
+      "endMs": 1778158800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1778158800000,
+      "endMs": 1778169600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Blended & Baked LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1778184000000,
+      "endMs": 1778198400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1778198400000,
+      "endMs": 1778212800000,
       "color": "#A45EBF"
     },
     {
