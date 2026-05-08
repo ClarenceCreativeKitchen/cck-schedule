@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-08T03:01:21.608407+00:00",
+  "fetchedAt": "2026-05-08T03:02:23.031635+00:00",
   "weekStart": "2026-05-03T00:00:00-04:00",
   "events": [
     {
@@ -52,31 +52,17 @@
       "color": "#A45EBF"
     },
     {
-      "title": "Simply Loaded",
+      "title": "GLCR",
       "space": "Primary Kitchen",
-      "startMs": 1778151600000,
-      "endMs": 1778158800000,
+      "startMs": 1778061600000,
+      "endMs": 1778076000000,
       "color": "#A45EBF"
     },
     {
-      "title": "Natalies Tamales",
+      "title": "Vinegars Etc",
       "space": "Primary Kitchen",
-      "startMs": 1778158800000,
-      "endMs": 1778169600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Blended & Baked LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1778184000000,
-      "endMs": 1778198400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1778198400000,
-      "endMs": 1778212800000,
+      "startMs": 1778090400000,
+      "endMs": 1778097600000,
       "color": "#A45EBF"
     },
     {
