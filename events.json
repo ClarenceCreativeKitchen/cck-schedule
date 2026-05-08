@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-08T03:16:24.153913+00:00",
+  "fetchedAt": "2026-05-08T03:17:22.516741+00:00",
   "weekStart": "2026-05-03T00:00:00-04:00",
   "events": [
     {
@@ -35,6 +35,20 @@
       "space": "Primary Kitchen",
       "startMs": 1777932000000,
       "endMs": 1777946400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1777975200000,
+      "endMs": 1777996800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1777996800000,
+      "endMs": 1778000400000,
       "color": "#A45EBF"
     },
     {
@@ -77,27 +91,6 @@
       "space": "Primary Kitchen",
       "startMs": 1778198400000,
       "endMs": 1778212800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1778234400000,
-      "endMs": 1778256000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sweet Ren LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1778256000000,
-      "endMs": 1778263200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1778283000000,
-      "endMs": 1778299200000,
       "color": "#A45EBF"
     },
     {
