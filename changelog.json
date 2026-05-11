@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-05-11T14:46:16.373154+00:00",
+    "type": "removed",
+    "description": "Booking removed: Global Warming Peppers (Fri May 15 12:00 PM \u2013 Fri May 15 4:00 PM)",
+    "event": {
+      "title": "Global Warming Peppers",
+      "space": "Primary Kitchen",
+      "startMs": 1778860800000,
+      "endMs": 1778875200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-05T16:52:11.772549+00:00",
     "type": "removed",
     "description": "Booking removed: BowlsRx (Tue May 05 4:30 PM \u2013 Tue May 05 8:30 PM)",

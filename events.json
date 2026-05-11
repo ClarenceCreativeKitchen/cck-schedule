@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-11T14:45:12.097200+00:00",
+  "fetchedAt": "2026-05-11T14:46:16.373154+00:00",
   "weekStart": "2026-05-10T00:00:00-04:00",
   "events": [
     {
@@ -49,13 +49,6 @@
       "space": "Primary Kitchen",
       "startMs": 1778839200000,
       "endMs": 1778860800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Global Warming Peppers",
-      "space": "Primary Kitchen",
-      "startMs": 1778860800000,
-      "endMs": 1778875200000,
       "color": "#A45EBF"
     },
     {
