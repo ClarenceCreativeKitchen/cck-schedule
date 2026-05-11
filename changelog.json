@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-05-11T15:18:18.006911+00:00",
+    "type": "added",
+    "description": "Booking added: Great Lakes Dried Fruit (Mon May 11 8:00 AM \u2013 Mon May 11 1:00 PM)",
+    "event": {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1778500800000,
+      "endMs": 1778518800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-05-11T15:18:18.006911+00:00",
+    "type": "removed",
+    "description": "Booking removed: Great Lakes Dried Fruit (Mon May 11 8:00 AM \u2013 Mon May 11 11:00 AM)",
+    "event": {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1778500800000,
+      "endMs": 1778511600000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-11T14:46:16.373154+00:00",
     "type": "removed",
     "description": "Booking removed: Global Warming Peppers (Fri May 15 12:00 PM \u2013 Fri May 15 4:00 PM)",
