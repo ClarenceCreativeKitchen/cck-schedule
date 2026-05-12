@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-05-12T22:06:10.368142+00:00",
+    "type": "added",
+    "description": "Booking added: Great Lakes Dried Fruit (Tue May 12 6:30 PM \u2013 Tue May 12 9:00 PM)",
+    "event": {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1778625000000,
+      "endMs": 1778634000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-12T11:52:08.650991+00:00",
     "type": "added",
     "description": "Booking added: Natalies Tamales (Thu May 14 12:00 PM \u2013 Thu May 14 2:00 PM)",
