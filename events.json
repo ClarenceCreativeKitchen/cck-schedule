@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-14T14:53:12.798332+00:00",
+  "fetchedAt": "2026-05-14T14:54:13.672207+00:00",
   "weekStart": "2026-05-10T00:00:00-04:00",
   "events": [
     {
@@ -63,6 +63,13 @@
       "space": "Primary Kitchen",
       "startMs": 1778765400000,
       "endMs": 1778772600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Extension",
+      "space": "Primary Kitchen",
+      "startMs": 1778772600000,
+      "endMs": 1778774400000,
       "color": "#A45EBF"
     },
     {
