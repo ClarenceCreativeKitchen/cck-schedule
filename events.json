@@ -1,63 +1,7 @@
 {
-  "fetchedAt": "2026-05-15T13:50:11.845626+00:00",
-  "weekStart": "2026-05-10T00:00:00-04:00",
+  "fetchedAt": "2026-05-15T13:50:33.020393+00:00",
+  "windowStart": "2026-05-14T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1778407200000,
-      "endMs": 1778428800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1778500800000,
-      "endMs": 1778518800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1778580000000,
-      "endMs": 1778601600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1778625000000,
-      "endMs": 1778634000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1778666400000,
-      "endMs": 1778680800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BowlsRx",
-      "space": "Primary Kitchen",
-      "startMs": 1778688000000,
-      "endMs": 1778691600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1778700600000,
-      "endMs": 1778709600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1778709600000,
-      "endMs": 1778724000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Sweet Ren LLC",
       "space": "Primary Kitchen",
@@ -126,6 +70,76 @@
       "space": "Primary Kitchen",
       "startMs": 1778961600000,
       "endMs": 1778968800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1779012000000,
+      "endMs": 1779033600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1779048000000,
+      "endMs": 1779057000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Global Warming Peppers",
+      "space": "Primary Kitchen",
+      "startMs": 1779102000000,
+      "endMs": 1779120000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1779138000000,
+      "endMs": 1779148800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1779184800000,
+      "endMs": 1779206400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1779217200000,
+      "endMs": 1779224400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1779224400000,
+      "endMs": 1779233400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1779271200000,
+      "endMs": 1779285600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1779300000000,
+      "endMs": 1779307200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1779314400000,
+      "endMs": 1779328800000,
       "color": "#A45EBF"
     }
   ]
