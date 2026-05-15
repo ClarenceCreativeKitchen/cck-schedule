@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """
-Fetch the current week's booking data from The Food Corridor's public ganttdata endpoint
-and output a JSON file suitable for the CCK schedule display.
+Fetch a rolling 7-day window of booking data from The Food Corridor's public ganttdata
+endpoint and output a JSON file suitable for the CCK schedule display.
+
+The window is: yesterday, today, and 5 days forward — so the calendar always
+shows mostly upcoming bookings rather than a full week of past data.
 
 Also maintains a changelog of booking additions, removals, and modifications.
 
@@ -33,16 +36,13 @@ def get_et_offset():
         return timedelta(hours=-4)
     return timedelta(hours=-5)
 
-def get_week_range():
-    """Get Sunday-Saturday date range for the current week in Eastern Time."""
+def get_rolling_window_start():
+    """Get yesterday's date in Eastern Time (start of rolling 7-day window)."""
     ET = timezone(get_et_offset())
     now_et = datetime.now(ET)
-    days_since_sunday = now_et.weekday() + 1
-    if days_since_sunday == 7:
-        days_since_sunday = 0
-    sunday = now_et - timedelta(days=days_since_sunday)
-    sunday = sunday.replace(hour=0, minute=0, second=0, microsecond=0)
-    return sunday
+    yesterday = now_et - timedelta(days=1)
+    yesterday = yesterday.replace(hour=0, minute=0, second=0, microsecond=0)
+    return yesterday
 
 def fetch_day(timestamp):
     """Fetch one day of gantt data from TFC."""
@@ -162,12 +162,12 @@ def compute_changelog(old_events, new_events, timestamp):
     return entries
 
 def main():
-    sunday = get_week_range()
+    window_start = get_rolling_window_start()  # yesterday
     seen = set()
     all_events = []
 
-    for day_offset in range(7):
-        day = sunday + timedelta(days=day_offset)
+    for day_offset in range(7):  # yesterday + today + 5 days forward
+        day = window_start + timedelta(days=day_offset)
         ts = int(day.timestamp())
         raw = fetch_day(ts)
 
@@ -228,7 +228,7 @@ def main():
     # --- Write events.json ---
     output = {
         "fetchedAt": now_iso,
-        "weekStart": sunday.isoformat(),
+        "windowStart": window_start.isoformat(),
         "events": all_events,
     }
     with open("events.json", "w") as f:
