@@ -198,9 +198,6 @@
     font-weight: 800;
     line-height: 1.15;
     overflow: hidden;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
     word-break: break-word;
   }
   .event .time-range {
@@ -1021,6 +1018,44 @@ function buildCalendar() {
 }
 
 // ══════════════════════════════════════════════
+// AUTO-SIZE CLIENT NAMES TO FIT EVENT BLOCKS
+// ══════════════════════════════════════════════
+function autoSizeClientNames() {
+  document.querySelectorAll('.calendar .event').forEach(block => {
+    const nameEl = block.querySelector('.client-name');
+    const timeEl = block.querySelector('.time-range');
+    if (!nameEl) return;
+
+    const isCompact = block.classList.contains('compact');
+    const maxFont = isCompact ? 22 : 28;
+    const minFont = 13;
+
+    // Reset to max size first
+    nameEl.style.fontSize = maxFont + 'px';
+
+    // Available height = block height minus time-range and padding
+    const blockH = block.clientHeight;
+    const padding = isCompact ? 4 : 20; // top+bottom padding
+    const timeH = timeEl ? timeEl.offsetHeight + 3 : 0; // include margin
+    const availH = blockH - padding - timeH;
+
+    // Shrink until the name fits in available height, or we hit min font
+    let fontSize = maxFont;
+    while (fontSize > minFont && nameEl.scrollHeight > availH) {
+      fontSize -= 1;
+      nameEl.style.fontSize = fontSize + 'px';
+    }
+
+    // If still overflowing at min font, clip with ellipsis
+    if (nameEl.scrollHeight > availH) {
+      nameEl.style.display = '-webkit-box';
+      nameEl.style.webkitLineClamp = '2';
+      nameEl.style.webkitBoxOrient = 'vertical';
+    }
+  });
+}
+
+// ══════════════════════════════════════════════
 // RENDER MOBILE VIEW
 // ══════════════════════════════════════════════
 function buildMobileView() {
@@ -1143,6 +1178,7 @@ async function init() {
   await fetchEvents();
   buildLegend();
   buildCalendar();
+  autoSizeClientNames();
   buildMobileView();
 
   document.getElementById('lastUpdated').textContent =
@@ -1154,13 +1190,14 @@ async function init() {
   setInterval(updateClock, 1000);
 
   // Rebuild calendar every minute (updates now-line)
-  setInterval(() => { buildCalendar(); buildMobileView(); }, 60 * 1000);
+  setInterval(() => { buildCalendar(); autoSizeClientNames(); buildMobileView(); }, 60 * 1000);
 
   // Re-fetch events.json at the configured interval
   setInterval(async () => {
     await fetchEvents();
     buildLegend();
     buildCalendar();
+    autoSizeClientNames();
     buildMobileView();
   }, CONFIG.REFRESH_INTERVAL);
 }
