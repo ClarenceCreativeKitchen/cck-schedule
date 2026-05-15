@@ -749,21 +749,14 @@ const TOTAL_HOURS = CONFIG.HOUR_END - CONFIG.HOUR_START;
 // ══════════════════════════════════════════════
 // HELPERS
 // ══════════════════════════════════════════════
-function getWeekBounds() {
+function getRollingWindowDates() {
+  // Rolling 7-day window: yesterday, today, +5 days forward
   const now = new Date();
-  const dayOfWeek = now.getDay();
-  const sunday = new Date(now);
-  sunday.setDate(now.getDate() - dayOfWeek);
-  sunday.setHours(0, 0, 0, 0);
-  const saturday = new Date(sunday);
-  saturday.setDate(sunday.getDate() + 7);
-  return { start: sunday, end: saturday };
-}
-
-function getWeekDates() {
-  const { start } = getWeekBounds();
+  const yesterday = new Date(now);
+  yesterday.setDate(now.getDate() - 1);
+  yesterday.setHours(0, 0, 0, 0);
   return Array.from({length: 7}, (_, i) => {
-    const d = new Date(start);
+    const d = new Date(yesterday);
     d.setDate(d.getDate() + i);
     return d;
   });
@@ -849,7 +842,9 @@ async function fetchEvents() {
           if (eh === 0 && end.getDate() !== start.getDate()) eh = 24;
           return eh;
         })(),
-        dayIndex: start.getDay()
+        dayIndex: start.getDay(),
+        // Date key for matching to rolling window columns
+        dateKey: start.getFullYear() + '-' + String(start.getMonth()+1).padStart(2,'0') + '-' + String(start.getDate()).padStart(2,'0')
       };
     });
 
@@ -910,30 +905,37 @@ function buildLegend() {
 // ══════════════════════════════════════════════
 // RENDER CALENDAR
 // ══════════════════════════════════════════════
+function dateKey(d) {
+  return d.getFullYear() + '-' + String(d.getMonth()+1).padStart(2,'0') + '-' + String(d.getDate()).padStart(2,'0');
+}
+
 function buildCalendar() {
   const cal = document.getElementById('calendar');
   cal.innerHTML = '';
 
   const now = new Date();
-  const weekDates = getWeekDates();
+  const windowDates = getRollingWindowDates(); // yesterday, today, +5 days
 
-  // Week label
-  const ws = weekDates[0];
-  const we = weekDates[6];
-  document.getElementById('weekLabel').textContent =
-    `${MONTH_NAMES[ws.getMonth()]} ${ws.getDate()} – ${we.getDate()}, ${ws.getFullYear()}`;
+  // Week label — show date range
+  const ws = windowDates[0];
+  const we = windowDates[6];
+  const rangeLabel = ws.getMonth() === we.getMonth()
+    ? `${MONTH_NAMES[ws.getMonth()]} ${ws.getDate()} – ${we.getDate()}, ${ws.getFullYear()}`
+    : `${MONTH_NAMES[ws.getMonth()]} ${ws.getDate()} – ${MONTH_NAMES[we.getMonth()]} ${we.getDate()}, ${we.getFullYear()}`;
+  document.getElementById('weekLabel').textContent = rangeLabel;
 
   // Header row
   const timeCorner = document.createElement('div');
   timeCorner.className = 'time-header';
   cal.appendChild(timeCorner);
 
-  weekDates.forEach((d, i) => {
+  windowDates.forEach((d, i) => {
     const hdr = document.createElement('div');
     const isToday = isSameDay(d, now);
     const isPast = d < now && !isToday;
     hdr.className = 'day-header' + (isToday ? ' today' : '') + (isPast ? ' past' : '');
-    hdr.innerHTML = `${DAYS[i]}<span class="date-num">${d.getDate()}</span>`;
+    const dayName = isToday ? 'TODAY' : DAYS[d.getDay()];
+    hdr.innerHTML = `${dayName}<span class="date-num">${d.getDate()}</span>`;
     cal.appendChild(hdr);
   });
 
@@ -951,13 +953,15 @@ function buildCalendar() {
   }
   cal.appendChild(timeCol);
 
-  // Day columns
-  for (let dayIdx = 0; dayIdx < 7; dayIdx++) {
+  // Day columns — matched by date key, not day-of-week index
+  for (let colIdx = 0; colIdx < 7; colIdx++) {
+    const colDate = windowDates[colIdx];
+    const colKey = dateKey(colDate);
     const col = document.createElement('div');
     col.className = 'day-column';
 
-    const isToday = isSameDay(weekDates[dayIdx], now);
-    const isPast = weekDates[dayIdx] < now && !isToday;
+    const isToday = isSameDay(colDate, now);
+    const isPast = colDate < now && !isToday;
     if (isToday) col.classList.add('today-col');
     if (isPast) col.classList.add('past-col');
 
@@ -970,8 +974,8 @@ function buildCalendar() {
       col.appendChild(line);
     }
 
-    // Events for this day
-    const dayEvents = currentEvents.filter(e => e.dayIndex === dayIdx);
+    // Events for this day — match by date, not day-of-week
+    const dayEvents = currentEvents.filter(e => e.dateKey === colKey);
     dayEvents.forEach(ev => {
       const topPct = ((ev.startHour - CONFIG.HOUR_START) / TOTAL_HOURS) * 100;
       const heightPct = ((ev.endHour - ev.startHour) / TOTAL_HOURS) * 100;
@@ -1024,7 +1028,7 @@ function buildMobileView() {
   container.innerHTML = '';
 
   const now = new Date();
-  const weekDates = getWeekDates();
+  const windowDates = getRollingWindowDates(); // yesterday, today, +5 days
   const FULL_DAYS = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
 
   // Mobile legend
@@ -1035,25 +1039,30 @@ function buildMobileView() {
   }
   container.appendChild(legend);
 
-  // Render each day, starting with today and wrapping around
-  const todayIdx = now.getDay();
-  for (let offset = 0; offset < 7; offset++) {
-    const dayIdx = (todayIdx + offset) % 7;
-    const date = weekDates[dayIdx];
+  // On mobile, start with today (skip yesterday) for a cleaner view
+  // but still show yesterday at the bottom if user scrolls
+  const todayFirst = [
+    ...windowDates.slice(1),  // today + 5 future days
+    windowDates[0]            // yesterday at bottom
+  ];
+
+  todayFirst.forEach(date => {
     const isToday = isSameDay(date, now);
     const isPast = date < now && !isToday;
+    const colKey = dateKey(date);
 
     const section = document.createElement('div');
     section.className = 'm-day' + (isToday ? ' m-today' : '') + (isPast ? ' m-past' : '');
 
+    const dayLabel = isToday ? 'Today' : (isPast ? 'Yesterday' : FULL_DAYS[date.getDay()]);
     const dateStr = `${MONTH_NAMES[date.getMonth()]} ${date.getDate()}`;
     section.innerHTML = `<div class="m-day-header">
-      <span class="m-day-name">${isToday ? 'Today' : FULL_DAYS[dayIdx]}</span>
+      <span class="m-day-name">${dayLabel}</span>
       <span class="m-day-date">${dateStr}</span>
     </div>`;
 
     const dayEvents = currentEvents
-      .filter(e => e.dayIndex === dayIdx)
+      .filter(e => e.dateKey === colKey)
       .sort((a, b) => a.startHour - b.startHour);
 
     if (dayEvents.length === 0) {
@@ -1076,7 +1085,7 @@ function buildMobileView() {
     }
 
     container.appendChild(section);
-  }
+  });
 }
 
 // ══════════════════════════════════════════════
