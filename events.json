@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-16T01:28:22.359101+00:00",
+  "fetchedAt": "2026-05-16T01:29:07.137637+00:00",
   "windowStart": "2026-05-14T00:00:00-04:00",
   "events": [
     {
@@ -42,6 +42,34 @@
       "space": "Primary Kitchen",
       "startMs": 1778887800000,
       "endMs": 1778895000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1778925600000,
+      "endMs": 1778936400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1778936400000,
+      "endMs": 1778947200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1778947200000,
+      "endMs": 1778961600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1778961600000,
+      "endMs": 1778968800000,
       "color": "#A45EBF"
     },
     {
