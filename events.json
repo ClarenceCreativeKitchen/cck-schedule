@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-16T01:26:09.273069+00:00",
+  "fetchedAt": "2026-05-16T01:27:24.232748+00:00",
   "windowStart": "2026-05-14T00:00:00-04:00",
   "events": [
     {
@@ -98,27 +98,6 @@
       "space": "Primary Kitchen",
       "startMs": 1779138000000,
       "endMs": 1779148800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1779184800000,
-      "endMs": 1779206400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1779217200000,
-      "endMs": 1779224400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1779224400000,
-      "endMs": 1779233400000,
       "color": "#A45EBF"
     },
     {
