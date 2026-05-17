@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-05-17T15:55:10.741666+00:00",
+    "type": "added",
+    "description": "Booking added: Great Lakes Dried Fruit (Wed May 20 10:00 AM \u2013 Wed May 20 11:00 AM)",
+    "event": {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1779285600000,
+      "endMs": 1779289200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-14T22:13:14.709593+00:00",
     "type": "removed",
     "description": "Booking removed: BowlsRx (Thu May 14 6:30 PM \u2013 Thu May 14 10:30 PM)",
