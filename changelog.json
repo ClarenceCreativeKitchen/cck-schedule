@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-05-18T19:43:09.285544+00:00",
+    "type": "added",
+    "description": "Booking added: Heritage Kaphi (Fri May 22 8:00 PM \u2013 Fri May 22 11:00 PM)",
+    "event": {
+      "title": "Heritage Kaphi",
+      "space": "Primary Kitchen",
+      "startMs": 1779494400000,
+      "endMs": 1779505200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-05-18T19:43:09.285544+00:00",
+    "type": "removed",
+    "description": "Booking removed: Heritage Kaphi (Sat May 23 8:00 PM \u2013 Sat May 23 11:00 PM)",
+    "event": {
+      "title": "Heritage Kaphi",
+      "space": "Primary Kitchen",
+      "startMs": 1779580800000,
+      "endMs": 1779591600000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-18T02:10:09.953963+00:00",
     "type": "added",
     "description": "Booking added: Natalies Tamales (Thu May 21 9:30 AM \u2013 Thu May 21 11:30 AM)",

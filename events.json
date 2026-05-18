@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-18T19:42:10.075157+00:00",
+  "fetchedAt": "2026-05-18T19:43:09.285544+00:00",
   "windowStart": "2026-05-17T00:00:00-04:00",
   "events": [
     {
@@ -122,6 +122,13 @@
       "color": "#A45EBF"
     },
     {
+      "title": "Heritage Kaphi",
+      "space": "Primary Kitchen",
+      "startMs": 1779494400000,
+      "endMs": 1779505200000,
+      "color": "#A45EBF"
+    },
+    {
       "title": "GLCR",
       "space": "Primary Kitchen",
       "startMs": 1779530400000,
@@ -147,13 +154,6 @@
       "space": "Primary Kitchen",
       "startMs": 1779570000000,
       "endMs": 1779579000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Heritage Kaphi",
-      "space": "Primary Kitchen",
-      "startMs": 1779580800000,
-      "endMs": 1779591600000,
       "color": "#A45EBF"
     }
   ]
