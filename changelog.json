@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-05-20T20:30:12.952679+00:00",
+    "type": "added",
+    "description": "Booking added: Vinegars Etc (Mon May 25 4:00 PM \u2013 Mon May 25 5:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1779739200000,
+      "endMs": 1779742800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-20T20:29:08.885430+00:00",
     "type": "added",
     "description": "Booking added: Vinegars Etc (Mon May 25 9:30 AM \u2013 Mon May 25 10:30 AM)",
