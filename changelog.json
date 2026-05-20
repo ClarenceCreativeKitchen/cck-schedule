@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-05-20T20:29:08.885430+00:00",
+    "type": "added",
+    "description": "Booking added: Vinegars Etc (Mon May 25 9:30 AM \u2013 Mon May 25 10:30 AM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1779715800000,
+      "endMs": 1779719400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-19T19:42:13.672014+00:00",
     "type": "added",
     "description": "Booking added: Great Lakes Dried Fruit (Thu May 21 4:00 PM \u2013 Thu May 21 5:30 PM)",
