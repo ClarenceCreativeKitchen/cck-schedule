@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-05-20T03:59:08.291138+00:00",
-  "windowStart": "2026-05-18T00:00:00-04:00",
+  "fetchedAt": "2026-05-20T04:00:13.018648+00:00",
+  "windowStart": "2026-05-19T00:00:00-04:00",
   "events": [
-    {
-      "title": "Global Warming Peppers",
-      "space": "Primary Kitchen",
-      "startMs": 1779102000000,
-      "endMs": 1779120000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1779138000000,
-      "endMs": 1779148800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -154,6 +140,20 @@
       "space": "Primary Kitchen",
       "startMs": 1779656400000,
       "endMs": 1779665400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Heritage Kaphi",
+      "space": "Primary Kitchen",
+      "startMs": 1779721200000,
+      "endMs": 1779739200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1779742800000,
+      "endMs": 1779751800000,
       "color": "#A45EBF"
     }
   ]
