@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-21T15:14:11.718904+00:00",
+  "fetchedAt": "2026-05-21T15:15:14.465230+00:00",
   "windowStart": "2026-05-20T00:00:00-04:00",
   "events": [
     {
@@ -122,24 +122,10 @@
       "color": "#A45EBF"
     },
     {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1779715800000,
-      "endMs": 1779719400000,
-      "color": "#A45EBF"
-    },
-    {
       "title": "Heritage Kaphi",
       "space": "Primary Kitchen",
       "startMs": 1779721200000,
       "endMs": 1779739200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1779739200000,
-      "endMs": 1779742800000,
       "color": "#A45EBF"
     },
     {
