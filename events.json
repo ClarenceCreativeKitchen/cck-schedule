@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-05-21T03:59:08.913601+00:00",
-  "windowStart": "2026-05-19T00:00:00-04:00",
+  "fetchedAt": "2026-05-21T04:00:12.517593+00:00",
+  "windowStart": "2026-05-20T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1779184800000,
-      "endMs": 1779206400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1779217200000,
-      "endMs": 1779224400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1779224400000,
-      "endMs": 1779233400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -168,6 +147,27 @@
       "space": "Primary Kitchen",
       "startMs": 1779742800000,
       "endMs": 1779751800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1779789600000,
+      "endMs": 1779811200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1779818400000,
+      "endMs": 1779825600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Blended & Baked LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1779829200000,
+      "endMs": 1779840000000,
       "color": "#A45EBF"
     }
   ]
