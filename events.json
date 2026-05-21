@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-21T23:13:11.457328+00:00",
+  "fetchedAt": "2026-05-21T23:14:24.829072+00:00",
   "windowStart": "2026-05-20T00:00:00-04:00",
   "events": [
     {
@@ -49,34 +49,6 @@
       "space": "Primary Kitchen",
       "startMs": 1779400800000,
       "endMs": 1779415200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1779444000000,
-      "endMs": 1779465600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sweet Ren LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1779465600000,
-      "endMs": 1779472800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1779483600000,
-      "endMs": 1779492600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Heritage Kaphi",
-      "space": "Primary Kitchen",
-      "startMs": 1779494400000,
-      "endMs": 1779505200000,
       "color": "#A45EBF"
     },
     {
