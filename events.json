@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-05-22T03:59:09.631004+00:00",
-  "windowStart": "2026-05-20T00:00:00-04:00",
+  "fetchedAt": "2026-05-22T04:00:15.607769+00:00",
+  "windowStart": "2026-05-21T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1779271200000,
-      "endMs": 1779285600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1779285600000,
-      "endMs": 1779289200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1779303600000,
-      "endMs": 1779310800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1779314400000,
-      "endMs": 1779328800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Natalies Tamales",
       "space": "Primary Kitchen",
@@ -196,6 +168,20 @@
       "space": "Primary Kitchen",
       "startMs": 1779829200000,
       "endMs": 1779840000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1779876000000,
+      "endMs": 1779890400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1779919200000,
+      "endMs": 1779933600000,
       "color": "#A45EBF"
     }
   ]
