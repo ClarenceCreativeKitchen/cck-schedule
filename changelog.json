@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-05-22T02:30:13.265486+00:00",
+    "type": "added",
+    "description": "Booking added: Flame N Spice (Fri May 22 11:30 PM \u2013 Sat May 23 12:00 AM)",
+    "event": {
+      "title": "Flame N Spice",
+      "space": "Primary Kitchen",
+      "startMs": 1779507000000,
+      "endMs": 1779508800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-05-22T02:30:13.265486+00:00",
+    "type": "added",
+    "description": "Booking added: Flame N Spice (Sat May 23 12:00 AM \u2013 Sat May 23 4:00 AM)",
+    "event": {
+      "title": "Flame N Spice",
+      "space": "Primary Kitchen",
+      "startMs": 1779508800000,
+      "endMs": 1779523200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-22T00:41:08.991123+00:00",
     "type": "added",
     "description": "Booking added: THE HDC (Thu May 21 10:00 PM \u2013 Thu May 21 11:00 PM)",
