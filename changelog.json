@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-05-22T00:41:08.991123+00:00",
+    "type": "added",
+    "description": "Booking added: THE HDC (Thu May 21 10:00 PM \u2013 Thu May 21 11:00 PM)",
+    "event": {
+      "title": "THE HDC",
+      "space": "Primary Kitchen",
+      "startMs": 1779415200000,
+      "endMs": 1779418800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-21T15:51:12.746057+00:00",
     "type": "added",
     "description": "Booking added: Vinegars Etc (Tue May 26 2:00 PM \u2013 Tue May 26 4:00 PM)",

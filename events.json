@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-22T00:40:12.840709+00:00",
+  "fetchedAt": "2026-05-22T00:41:08.991123+00:00",
   "windowStart": "2026-05-20T00:00:00-04:00",
   "events": [
     {
@@ -49,6 +49,13 @@
       "space": "Primary Kitchen",
       "startMs": 1779400800000,
       "endMs": 1779415200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "THE HDC",
+      "space": "Primary Kitchen",
+      "startMs": 1779415200000,
+      "endMs": 1779418800000,
       "color": "#A45EBF"
     },
     {
