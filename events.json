@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-23T13:27:07.196312+00:00",
+  "fetchedAt": "2026-05-23T13:28:07.345703+00:00",
   "windowStart": "2026-05-22T00:00:00-04:00",
   "events": [
     {
@@ -150,24 +150,10 @@
       "color": "#A45EBF"
     },
     {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1779919200000,
-      "endMs": 1779933600000,
-      "color": "#A45EBF"
-    },
-    {
       "title": "The Divided Cup",
       "space": "Primary Kitchen",
       "startMs": 1779976800000,
       "endMs": 1779984000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1780005600000,
-      "endMs": 1780020000000,
       "color": "#A45EBF"
     }
   ]
