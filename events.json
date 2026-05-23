@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-05-23T03:59:08.797676+00:00",
-  "windowStart": "2026-05-21T00:00:00-04:00",
+  "fetchedAt": "2026-05-23T04:00:14.242487+00:00",
+  "windowStart": "2026-05-22T00:00:00-04:00",
   "events": [
-    {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1779370200000,
-      "endMs": 1779377400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1779391800000,
-      "endMs": 1779399000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1779400800000,
-      "endMs": 1779415200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "THE HDC",
-      "space": "Primary Kitchen",
-      "startMs": 1779415200000,
-      "endMs": 1779418800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -175,6 +147,20 @@
       "space": "Primary Kitchen",
       "startMs": 1779919200000,
       "endMs": 1779933600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "The Divided Cup",
+      "space": "Primary Kitchen",
+      "startMs": 1779976800000,
+      "endMs": 1779984000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1780005600000,
+      "endMs": 1780020000000,
       "color": "#A45EBF"
     }
   ]
