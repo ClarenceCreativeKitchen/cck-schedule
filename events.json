@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-23T18:09:11.104962+00:00",
+  "fetchedAt": "2026-05-23T18:10:09.955460+00:00",
   "windowStart": "2026-05-22T00:00:00-04:00",
   "events": [
     {
@@ -98,6 +98,13 @@
       "space": "Primary Kitchen",
       "startMs": 1779616800000,
       "endMs": 1779638400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "DJs Backyard Barbeque",
+      "space": "Primary Kitchen",
+      "startMs": 1779640200000,
+      "endMs": 1779651000000,
       "color": "#A45EBF"
     },
     {
