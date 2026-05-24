@@ -1,42 +1,7 @@
 {
-  "fetchedAt": "2026-05-24T03:59:07.402447+00:00",
-  "windowStart": "2026-05-22T00:00:00-04:00",
+  "fetchedAt": "2026-05-24T04:00:13.037214+00:00",
+  "windowStart": "2026-05-23T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1779444000000,
-      "endMs": 1779465600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sweet Ren LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1779465600000,
-      "endMs": 1779472800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1779483600000,
-      "endMs": 1779492600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Heritage Kaphi",
-      "space": "Primary Kitchen",
-      "startMs": 1779494400000,
-      "endMs": 1779505200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1779507000000,
-      "endMs": 1779508800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Flame N Spice",
       "space": "Primary Kitchen",
@@ -175,6 +140,41 @@
       "space": "Primary Kitchen",
       "startMs": 1780002000000,
       "endMs": 1780011000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "The Divided Cup",
+      "space": "Primary Kitchen",
+      "startMs": 1780027200000,
+      "endMs": 1780038000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1780048800000,
+      "endMs": 1780070400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1780070400000,
+      "endMs": 1780084800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1780090200000,
+      "endMs": 1780097400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1780097400000,
+      "endMs": 1780110000000,
       "color": "#A45EBF"
     }
   ]
