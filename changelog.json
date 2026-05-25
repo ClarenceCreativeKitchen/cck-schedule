@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-05-25T04:51:10.521678+00:00",
+    "type": "added",
+    "description": "Booking added: Vinegars Etc (Tue May 26 2:00 PM \u2013 Tue May 26 4:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1779818400000,
+      "endMs": 1779825600000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-05-25T04:51:10.521678+00:00",
+    "type": "removed",
+    "description": "Booking removed: Vinegars Etc (Tue May 26 2:00 PM \u2013 Tue May 26 5:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1779818400000,
+      "endMs": 1779829200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-25T00:03:09.340296+00:00",
     "type": "added",
     "description": "Booking added: Flame N Spice (Sun May 24 8:00 PM \u2013 Sun May 24 11:00 PM)",
