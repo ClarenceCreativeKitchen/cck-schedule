@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-05-25T00:03:09.340296+00:00",
+    "type": "added",
+    "description": "Booking added: Flame N Spice (Sun May 24 8:00 PM \u2013 Sun May 24 11:00 PM)",
+    "event": {
+      "title": "Flame N Spice",
+      "space": "Primary Kitchen",
+      "startMs": 1779667200000,
+      "endMs": 1779678000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-23T18:10:09.955460+00:00",
     "type": "added",
     "description": "Booking added: DJs Backyard Barbeque (Sun May 24 12:30 PM \u2013 Sun May 24 3:30 PM)",
