@@ -1,56 +1,7 @@
 {
-  "fetchedAt": "2026-05-25T03:59:07.465147+00:00",
-  "windowStart": "2026-05-23T00:00:00-04:00",
+  "fetchedAt": "2026-05-25T04:00:12.472656+00:00",
+  "windowStart": "2026-05-24T00:00:00-04:00",
   "events": [
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1779508800000,
-      "endMs": 1779523200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1779530400000,
-      "endMs": 1779541200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1779541200000,
-      "endMs": 1779552000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "DJs Backyard Barbeque",
-      "space": "Primary Kitchen",
-      "startMs": 1779552000000,
-      "endMs": 1779562800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1779562800000,
-      "endMs": 1779570000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1779570000000,
-      "endMs": 1779579000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1779579000000,
-      "endMs": 1779595200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Flame N Spice",
       "space": "Primary Kitchen",
@@ -182,6 +133,41 @@
       "space": "Primary Kitchen",
       "startMs": 1780097400000,
       "endMs": 1780110000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "The Divided Cup",
+      "space": "Primary Kitchen",
+      "startMs": 1780113600000,
+      "endMs": 1780124400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1780135200000,
+      "endMs": 1780146000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1780146000000,
+      "endMs": 1780156800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1780173000000,
+      "endMs": 1780178400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1780183800000,
+      "endMs": 1780200000000,
       "color": "#A45EBF"
     }
   ]
