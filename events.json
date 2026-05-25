@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-25T14:51:08.548147+00:00",
+  "fetchedAt": "2026-05-25T14:52:11.362020+00:00",
   "windowStart": "2026-05-24T00:00:00-04:00",
   "events": [
     {
@@ -70,6 +70,13 @@
       "space": "Primary Kitchen",
       "startMs": 1779829200000,
       "endMs": 1779840000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1779840000000,
+      "endMs": 1779847200000,
       "color": "#A45EBF"
     },
     {
