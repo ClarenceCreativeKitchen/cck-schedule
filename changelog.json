@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-05-26T18:39:08.485918+00:00",
+    "type": "added",
+    "description": "Booking added: EasyMeals (Sat May 30 12:00 PM \u2013 Sat May 30 4:30 PM)",
+    "event": {
+      "title": "EasyMeals",
+      "space": "Primary Kitchen",
+      "startMs": 1780156800000,
+      "endMs": 1780173000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-26T17:45:11.064163+00:00",
     "type": "added",
     "description": "Booking added: Great Lakes Dried Fruit (Sun May 31 5:00 PM \u2013 Sun May 31 7:30 PM)",
