@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-05-26T19:58:10.694628+00:00",
+    "type": "added",
+    "description": "Booking added: PNM Foods (Tue May 26 4:30 PM \u2013 Tue May 26 5:00 PM)",
+    "event": {
+      "title": "PNM Foods",
+      "space": "Primary Kitchen",
+      "startMs": 1779827400000,
+      "endMs": 1779829200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-05-26T19:58:10.694628+00:00",
+    "type": "removed",
+    "description": "Booking removed: PNM Foods (Tue May 26 4:00 PM \u2013 Tue May 26 5:00 PM)",
+    "event": {
+      "title": "PNM Foods",
+      "space": "Primary Kitchen",
+      "startMs": 1779825600000,
+      "endMs": 1779829200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-26T19:35:11.210093+00:00",
     "type": "added",
     "description": "Booking added: PNM Foods (Tue May 26 4:00 PM \u2013 Tue May 26 5:00 PM)",
