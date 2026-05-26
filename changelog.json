@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-05-26T17:45:11.064163+00:00",
+    "type": "added",
+    "description": "Booking added: Great Lakes Dried Fruit (Sun May 31 5:00 PM \u2013 Sun May 31 7:30 PM)",
+    "event": {
+      "title": "Great Lakes Dried Fruit",
+      "space": "Primary Kitchen",
+      "startMs": 1780261200000,
+      "endMs": 1780270200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-26T17:40:12.142410+00:00",
     "type": "added",
     "description": "Booking added: Great Lakes Dried Fruit (Sat May 30 4:30 PM \u2013 Sat May 30 7:00 PM)",
