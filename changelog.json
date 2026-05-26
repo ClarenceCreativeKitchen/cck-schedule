@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-05-26T14:05:14.936792+00:00",
+    "type": "added",
+    "description": "Booking added: Sweet Ren LLC (Thu May 28 12:30 PM \u2013 Thu May 28 2:30 PM)",
+    "event": {
+      "title": "Sweet Ren LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1779985800000,
+      "endMs": 1779993000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-25T14:52:11.362020+00:00",
     "type": "added",
     "description": "Booking added: Great Lakes Dried Fruit (Tue May 26 8:00 PM \u2013 Tue May 26 10:00 PM)",
