@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-05-26T17:28:10.412634+00:00",
+    "type": "added",
+    "description": "Booking added: Natalies Tamales (Thu May 28 2:30 PM \u2013 Thu May 28 4:30 PM)",
+    "event": {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1779993000000,
+      "endMs": 1780000200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-26T14:05:14.936792+00:00",
     "type": "added",
     "description": "Booking added: Sweet Ren LLC (Thu May 28 12:30 PM \u2013 Thu May 28 2:30 PM)",
