@@ -1,42 +1,7 @@
 {
-  "fetchedAt": "2026-05-26T03:59:07.804219+00:00",
-  "windowStart": "2026-05-24T00:00:00-04:00",
+  "fetchedAt": "2026-05-26T04:00:14.776287+00:00",
+  "windowStart": "2026-05-25T00:00:00-04:00",
   "events": [
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1779595200000,
-      "endMs": 1779598800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1779616800000,
-      "endMs": 1779638400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "DJs Backyard Barbeque",
-      "space": "Primary Kitchen",
-      "startMs": 1779640200000,
-      "endMs": 1779651000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1779656400000,
-      "endMs": 1779665400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1779667200000,
-      "endMs": 1779678000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Heritage Kaphi",
       "space": "Primary Kitchen",
@@ -175,6 +140,13 @@
       "space": "Primary Kitchen",
       "startMs": 1780183800000,
       "endMs": 1780200000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1780221600000,
+      "endMs": 1780243200000,
       "color": "#A45EBF"
     }
   ]
