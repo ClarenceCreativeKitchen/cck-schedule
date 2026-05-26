@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-26T19:34:13.018966+00:00",
+  "fetchedAt": "2026-05-26T19:35:11.210093+00:00",
   "windowStart": "2026-05-25T00:00:00-04:00",
   "events": [
     {
@@ -28,6 +28,13 @@
       "space": "Primary Kitchen",
       "startMs": 1779818400000,
       "endMs": 1779825600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "PNM Foods",
+      "space": "Primary Kitchen",
+      "startMs": 1779825600000,
+      "endMs": 1779829200000,
       "color": "#A45EBF"
     },
     {
