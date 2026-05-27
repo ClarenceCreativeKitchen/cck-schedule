@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-05-27T20:00:17.097300+00:00",
+    "type": "added",
+    "description": "Booking added: PNM Foods (Wed May 27 8:00 PM \u2013 Thu May 28 12:00 AM)",
+    "event": {
+      "title": "PNM Foods",
+      "space": "Primary Kitchen",
+      "startMs": 1779926400000,
+      "endMs": 1779940800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-27T15:44:12.599006+00:00",
     "type": "added",
     "description": "Booking added: The Divided Cup (Thu May 28 9:00 PM \u2013 Fri May 29 12:00 AM)",
