@@ -721,8 +721,8 @@ const CONFIG = {
   // from TFC's public ganttdata API — no auth, no Google Calendar needed
   DATA_URL: 'events.json',
   TIMEZONE: 'America/New_York',
-  HOUR_START: 5,    // 5 AM
-  HOUR_END: 23,     // 11 PM
+  HOUR_START_DEFAULT: 5,  // 5 AM default — adjusts earlier if bookings exist
+  HOUR_END_DEFAULT: 23,  // 11 PM default — adjusts later if bookings exist
   REFRESH_INTERVAL: 5 * 60 * 1000,
 
   CLIENT_COLORS: {
@@ -755,7 +755,23 @@ let lastFetchedAt = null;
 
 const DAYS = ['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT'];
 const MONTH_NAMES = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-const TOTAL_HOURS = CONFIG.HOUR_END - CONFIG.HOUR_START;
+
+// Dynamic hour range — adjusts if bookings fall outside default range
+let activeHourStart = CONFIG.HOUR_START_DEFAULT;
+let activeHourEnd = CONFIG.HOUR_END_DEFAULT;
+let activeTotalHours = activeHourEnd - activeHourStart;
+
+function computeHourRange() {
+  let earliest = CONFIG.HOUR_START_DEFAULT;
+  let latest = CONFIG.HOUR_END_DEFAULT;
+  currentEvents.forEach(ev => {
+    if (ev.startHour < earliest) earliest = Math.floor(ev.startHour);
+    if (ev.endHour > latest) latest = Math.ceil(ev.endHour);
+  });
+  activeHourStart = earliest;
+  activeHourEnd = latest;
+  activeTotalHours = activeHourEnd - activeHourStart;
+}
 
 // ══════════════════════════════════════════════
 // HELPERS
@@ -954,8 +970,8 @@ function buildCalendar() {
   const timeCol = document.createElement('div');
   timeCol.className = 'time-labels';
   timeCol.style.position = 'relative';
-  for (let h = CONFIG.HOUR_START; h <= CONFIG.HOUR_END; h++) {
-    const pct = ((h - CONFIG.HOUR_START) / TOTAL_HOURS) * 100;
+  for (let h = activeHourStart; h <= activeHourEnd; h++) {
+    const pct = ((h - activeHourStart) / activeTotalHours) * 100;
     const lbl = document.createElement('div');
     lbl.className = 'time-label';
     lbl.style.top = pct + '%';
@@ -977,8 +993,8 @@ function buildCalendar() {
     if (isPast) col.classList.add('past-col');
 
     // Hour grid lines
-    for (let h = CONFIG.HOUR_START; h <= CONFIG.HOUR_END; h++) {
-      const pct = ((h - CONFIG.HOUR_START) / TOTAL_HOURS) * 100;
+    for (let h = activeHourStart; h <= activeHourEnd; h++) {
+      const pct = ((h - activeHourStart) / activeTotalHours) * 100;
       const line = document.createElement('div');
       line.className = 'hour-line-marker';
       line.style.top = pct + '%';
@@ -988,8 +1004,8 @@ function buildCalendar() {
     // Events for this day — match by date, not day-of-week
     const dayEvents = currentEvents.filter(e => e.dateKey === colKey);
     dayEvents.forEach(ev => {
-      const topPct = ((ev.startHour - CONFIG.HOUR_START) / TOTAL_HOURS) * 100;
-      const heightPct = ((ev.endHour - ev.startHour) / TOTAL_HOURS) * 100;
+      const topPct = ((ev.startHour - activeHourStart) / activeTotalHours) * 100;
+      const heightPct = ((ev.endHour - ev.startHour) / activeTotalHours) * 100;
 
       const colorInfo = getClientColorInfo(ev.title);
       const duration = ev.endHour - ev.startHour;
@@ -1010,8 +1026,8 @@ function buildCalendar() {
     // Now indicator
     if (isToday) {
       const nowH = now.getHours() + now.getMinutes() / 60;
-      if (nowH >= CONFIG.HOUR_START && nowH <= CONFIG.HOUR_END) {
-        const nowPct = ((nowH - CONFIG.HOUR_START) / TOTAL_HOURS) * 100;
+      if (nowH >= activeHourStart && nowH <= activeHourEnd) {
+        const nowPct = ((nowH - activeHourStart) / activeTotalHours) * 100;
         const nowLine = document.createElement('div');
         nowLine.className = 'now-line';
         nowLine.style.top = nowPct + '%';
@@ -1190,6 +1206,7 @@ function updateClock() {
 // ══════════════════════════════════════════════
 async function init() {
   await fetchEvents();
+  computeHourRange();
   buildLegend();
   buildCalendar();
   autoSizeClientNames();
@@ -1209,6 +1226,7 @@ async function init() {
   // Re-fetch events.json at the configured interval
   setInterval(async () => {
     await fetchEvents();
+    computeHourRange();
     buildLegend();
     buildCalendar();
     autoSizeClientNames();
