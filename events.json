@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-05-27T03:59:08.162819+00:00",
-  "windowStart": "2026-05-25T00:00:00-04:00",
+  "fetchedAt": "2026-05-27T04:00:15.160760+00:00",
+  "windowStart": "2026-05-26T00:00:00-04:00",
   "events": [
-    {
-      "title": "Heritage Kaphi",
-      "space": "Primary Kitchen",
-      "startMs": 1779721200000,
-      "endMs": 1779739200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1779742800000,
-      "endMs": 1779751800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -189,6 +175,20 @@
       "space": "Primary Kitchen",
       "startMs": 1780261200000,
       "endMs": 1780270200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1780315200000,
+      "endMs": 1780322400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1780340400000,
+      "endMs": 1780347600000,
       "color": "#A45EBF"
     }
   ]
