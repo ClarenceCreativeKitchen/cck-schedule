@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-05-28T13:49:15.278712+00:00",
+    "type": "added",
+    "description": "Booking added: Hungry Bee (Thu May 28 7:30 PM \u2013 Thu May 28 8:30 PM)",
+    "event": {
+      "title": "Hungry Bee",
+      "space": "Primary Kitchen",
+      "startMs": 1780011000000,
+      "endMs": 1780014600000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-27T20:00:17.097300+00:00",
     "type": "added",
     "description": "Booking added: PNM Foods (Wed May 27 8:00 PM \u2013 Thu May 28 12:00 AM)",
