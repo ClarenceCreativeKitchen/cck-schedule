@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-29T08:50:10.990736+00:00",
+  "fetchedAt": "2026-05-29T08:51:09.445477+00:00",
   "windowStart": "2026-05-28T00:00:00-04:00",
   "events": [
     {
@@ -157,17 +157,17 @@
       "color": "#A45EBF"
     },
     {
-      "title": "BowlsRx",
-      "space": "Primary Kitchen",
-      "startMs": 1780349400000,
-      "endMs": 1780363800000,
-      "color": "#A45EBF"
-    },
-    {
       "title": "GLCR",
       "space": "Primary Kitchen",
       "startMs": 1780394400000,
       "endMs": 1780416000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BowlsRx",
+      "space": "Primary Kitchen",
+      "startMs": 1780435800000,
+      "endMs": 1780450200000,
       "color": "#A45EBF"
     },
     {
