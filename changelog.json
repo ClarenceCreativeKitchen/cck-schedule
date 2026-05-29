@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-05-29T08:10:10.896276+00:00",
+    "type": "added",
+    "description": "Booking added: BowlsRx (Sun May 31 8:00 PM \u2013 Mon Jun 01 12:00 AM)",
+    "event": {
+      "title": "BowlsRx",
+      "space": "Primary Kitchen",
+      "startMs": 1780272000000,
+      "endMs": 1780286400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-29T03:58:11.893457+00:00",
     "type": "added",
     "description": "Booking added: The Divided Cup (Fri May 29 12:00 AM \u2013 Fri May 29 2:00 AM)",
