@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-05-29T03:59:08.322095+00:00",
-  "windowStart": "2026-05-27T00:00:00-04:00",
+  "fetchedAt": "2026-05-29T04:00:14.282903+00:00",
+  "windowStart": "2026-05-28T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1779876000000,
-      "endMs": 1779890400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1779894000000,
-      "endMs": 1779897600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1779915600000,
-      "endMs": 1779924600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "PNM Foods",
-      "space": "Primary Kitchen",
-      "startMs": 1779926400000,
-      "endMs": 1779940800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "The Divided Cup",
       "space": "Primary Kitchen",
@@ -182,6 +154,20 @@
       "space": "Primary Kitchen",
       "startMs": 1780394400000,
       "endMs": 1780416000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1780480800000,
+      "endMs": 1780495200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1780524000000,
+      "endMs": 1780538400000,
       "color": "#A45EBF"
     }
   ]
