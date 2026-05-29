@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-29T08:15:12.373549+00:00",
+  "fetchedAt": "2026-05-29T08:16:10.048221+00:00",
   "windowStart": "2026-05-28T00:00:00-04:00",
   "events": [
     {
@@ -154,6 +154,13 @@
       "space": "Primary Kitchen",
       "startMs": 1780340400000,
       "endMs": 1780347600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BowlsRx",
+      "space": "Primary Kitchen",
+      "startMs": 1780349400000,
+      "endMs": 1780363800000,
       "color": "#A45EBF"
     },
     {
