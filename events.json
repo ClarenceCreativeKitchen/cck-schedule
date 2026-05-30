@@ -1,42 +1,7 @@
 {
-  "fetchedAt": "2026-05-30T03:59:10.888728+00:00",
-  "windowStart": "2026-05-28T00:00:00-04:00",
+  "fetchedAt": "2026-05-30T04:00:11.928541+00:00",
+  "windowStart": "2026-05-29T00:00:00-04:00",
   "events": [
-    {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1779976800000,
-      "endMs": 1779984000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sweet Ren LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1779985800000,
-      "endMs": 1779993000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1779993000000,
-      "endMs": 1780000200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1780002000000,
-      "endMs": 1780011000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1780016400000,
-      "endMs": 1780027200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "The Divided Cup",
       "space": "Primary Kitchen",
@@ -182,6 +147,20 @@
       "space": "Primary Kitchen",
       "startMs": 1780524000000,
       "endMs": 1780538400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1780588800000,
+      "endMs": 1780603200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1780610400000,
+      "endMs": 1780624800000,
       "color": "#A45EBF"
     }
   ]
