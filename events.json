@@ -1,42 +1,7 @@
 {
-  "fetchedAt": "2026-05-31T03:59:09.555612+00:00",
-  "windowStart": "2026-05-29T00:00:00-04:00",
+  "fetchedAt": "2026-05-31T04:00:14.725164+00:00",
+  "windowStart": "2026-05-30T00:00:00-04:00",
   "events": [
-    {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1780027200000,
-      "endMs": 1780034400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1780048800000,
-      "endMs": 1780070400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1780070400000,
-      "endMs": 1780084800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1780090200000,
-      "endMs": 1780097400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1780097400000,
-      "endMs": 1780110000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "The Divided Cup",
       "space": "Primary Kitchen",
@@ -147,6 +112,34 @@
       "space": "Primary Kitchen",
       "startMs": 1780610400000,
       "endMs": 1780624800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1780653600000,
+      "endMs": 1780675200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1780675200000,
+      "endMs": 1780682400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Flame N Spice",
+      "space": "Primary Kitchen",
+      "startMs": 1780684200000,
+      "endMs": 1780700400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1780702200000,
+      "endMs": 1780716600000,
       "color": "#A45EBF"
     }
   ]
