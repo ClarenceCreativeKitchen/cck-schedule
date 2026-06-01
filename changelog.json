@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-06-01T23:45:10.344377+00:00",
+    "type": "added",
+    "description": "Booking added: The Divided Cup (Wed Jun 03 11:00 AM \u2013 Wed Jun 03 1:00 PM)",
+    "event": {
+      "title": "The Divided Cup",
+      "space": "Primary Kitchen",
+      "startMs": 1780498800000,
+      "endMs": 1780506000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-06-01T23:45:10.344377+00:00",
+    "type": "added",
+    "description": "Booking added: The Divided Cup (Thu Jun 04 9:00 AM \u2013 Thu Jun 04 11:00 AM)",
+    "event": {
+      "title": "The Divided Cup",
+      "space": "Primary Kitchen",
+      "startMs": 1780578000000,
+      "endMs": 1780585200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-01T04:49:08.363331+00:00",
     "type": "added",
     "description": "Booking added: BowlsRx (Mon Jun 01 12:00 AM \u2013 Mon Jun 01 3:30 AM)",
