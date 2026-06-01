@@ -1,49 +1,7 @@
 {
-  "fetchedAt": "2026-06-01T03:59:07.490150+00:00",
-  "windowStart": "2026-05-30T00:00:00-04:00",
+  "fetchedAt": "2026-06-01T04:00:14.451623+00:00",
+  "windowStart": "2026-05-31T00:00:00-04:00",
   "events": [
-    {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1780113600000,
-      "endMs": 1780124400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1780135200000,
-      "endMs": 1780146000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1780146000000,
-      "endMs": 1780156800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "EasyMeals",
-      "space": "Primary Kitchen",
-      "startMs": 1780156800000,
-      "endMs": 1780173000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1780173000000,
-      "endMs": 1780182000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1780183800000,
-      "endMs": 1780200000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -140,6 +98,20 @@
       "space": "Primary Kitchen",
       "startMs": 1780702200000,
       "endMs": 1780716600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1780740000000,
+      "endMs": 1780750800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1780750800000,
+      "endMs": 1780761600000,
       "color": "#A45EBF"
     }
   ]
