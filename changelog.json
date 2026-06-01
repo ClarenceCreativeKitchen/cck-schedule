@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-06-01T01:37:08.216381+00:00",
+    "type": "removed",
+    "description": "Booking removed: BowlsRx (Tue Jun 02 5:00 PM \u2013 Tue Jun 02 7:00 PM)",
+    "event": {
+      "title": "BowlsRx",
+      "space": "Primary Kitchen",
+      "startMs": 1780434000000,
+      "endMs": 1780441200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-01T01:35:10.252414+00:00",
     "type": "added",
     "description": "Booking added: BowlsRx (Tue Jun 02 5:00 PM \u2013 Tue Jun 02 7:00 PM)",
