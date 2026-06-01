@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-06-01T01:35:10.252414+00:00",
+    "type": "added",
+    "description": "Booking added: BowlsRx (Tue Jun 02 5:00 PM \u2013 Tue Jun 02 7:00 PM)",
+    "event": {
+      "title": "BowlsRx",
+      "space": "Primary Kitchen",
+      "startMs": 1780434000000,
+      "endMs": 1780441200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-06-01T01:35:10.252414+00:00",
+    "type": "removed",
+    "description": "Booking removed: BowlsRx (Tue Jun 02 5:30 PM \u2013 Tue Jun 02 9:30 PM)",
+    "event": {
+      "title": "BowlsRx",
+      "space": "Primary Kitchen",
+      "startMs": 1780435800000,
+      "endMs": 1780450200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-05-30T21:50:09.005463+00:00",
     "type": "removed",
     "description": "Booking removed: Vinegars Etc (Mon Jun 01 9:00 AM \u2013 Mon Jun 01 10:00 AM)",
