@@ -1,14 +1,7 @@
 {
-  "fetchedAt": "2026-06-03T03:59:06.938992+00:00",
-  "windowStart": "2026-06-01T00:00:00-04:00",
+  "fetchedAt": "2026-06-03T04:00:14.607987+00:00",
+  "windowStart": "2026-06-02T00:00:00-04:00",
   "events": [
-    {
-      "title": "BowlsRx",
-      "space": "Primary Kitchen",
-      "startMs": 1780286400000,
-      "endMs": 1780299000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
