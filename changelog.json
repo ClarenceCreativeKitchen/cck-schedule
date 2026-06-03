@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-06-03T15:54:15.874738+00:00",
+    "type": "removed",
+    "description": "Booking removed: Delgato\u2019s Dozens (Thu Jun 04 12:00 PM \u2013 Thu Jun 04 4:00 PM)",
+    "event": {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1780588800000,
+      "endMs": 1780603200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-03T10:48:10.477052+00:00",
     "type": "added",
     "description": "Booking added: Simply Loaded (Thu Jun 04 4:00 PM \u2013 Thu Jun 04 6:00 PM)",
