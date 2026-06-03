@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-06-03T16:42:11.633096+00:00",
+    "type": "added",
+    "description": "Booking added: Delgato\u2019s Dozens (Thu Jun 04 10:00 PM \u2013 Fri Jun 05 12:00 AM)",
+    "event": {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1780624800000,
+      "endMs": 1780632000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-06-03T16:42:11.633096+00:00",
+    "type": "added",
+    "description": "Booking added: Delgato\u2019s Dozens (Fri Jun 05 12:00 AM \u2013 Fri Jun 05 2:00 AM)",
+    "event": {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1780632000000,
+      "endMs": 1780639200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-03T15:54:15.874738+00:00",
     "type": "removed",
     "description": "Booking removed: Delgato\u2019s Dozens (Thu Jun 04 12:00 PM \u2013 Thu Jun 04 4:00 PM)",
