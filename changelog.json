@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-06-05T20:09:11.013477+00:00",
+    "type": "added",
+    "description": "Booking added: Flame N Spice (Sat Jun 06 9:00 AM \u2013 Sat Jun 06 3:00 PM)",
+    "event": {
+      "title": "Flame N Spice",
+      "space": "Primary Kitchen",
+      "startMs": 1780750800000,
+      "endMs": 1780772400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-05T20:08:08.760143+00:00",
     "type": "removed",
     "description": "Booking removed: BTBW (Sat Jun 06 9:00 AM \u2013 Sat Jun 06 12:00 PM)",

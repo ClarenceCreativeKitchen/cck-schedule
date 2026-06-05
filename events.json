@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-05T20:08:08.760143+00:00",
+  "fetchedAt": "2026-06-05T20:09:11.013477+00:00",
   "windowStart": "2026-06-04T00:00:00-04:00",
   "events": [
     {
@@ -63,6 +63,13 @@
       "space": "Primary Kitchen",
       "startMs": 1780740000000,
       "endMs": 1780750800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Flame N Spice",
+      "space": "Primary Kitchen",
+      "startMs": 1780750800000,
+      "endMs": 1780772400000,
       "color": "#A45EBF"
     },
     {
