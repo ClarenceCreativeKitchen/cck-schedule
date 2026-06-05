@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-06-05T21:26:09.018478+00:00",
+    "type": "removed",
+    "description": "Booking removed: Vinegars Etc (Sun Jun 07 1:00 PM \u2013 Sun Jun 07 4:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1780851600000,
+      "endMs": 1780862400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-05T20:37:09.628382+00:00",
     "type": "added",
     "description": "Booking added: Flame N Spice (Fri Jun 05 11:30 PM \u2013 Sat Jun 06 12:00 AM)",
