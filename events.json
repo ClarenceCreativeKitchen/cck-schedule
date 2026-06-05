@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-06-05T03:59:07.894407+00:00",
-  "windowStart": "2026-06-03T00:00:00-04:00",
+  "fetchedAt": "2026-06-05T04:00:12.468074+00:00",
+  "windowStart": "2026-06-04T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1780480800000,
-      "endMs": 1780495200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1780498800000,
-      "endMs": 1780506000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1780524000000,
-      "endMs": 1780538400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "The Divided Cup",
       "space": "Primary Kitchen",
@@ -119,6 +98,20 @@
       "space": "Primary Kitchen",
       "startMs": 1781035200000,
       "endMs": 1781042400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1781085600000,
+      "endMs": 1781100000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1781128800000,
+      "endMs": 1781143200000,
       "color": "#A45EBF"
     }
   ]
