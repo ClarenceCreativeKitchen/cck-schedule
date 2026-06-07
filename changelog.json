@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-06-07T21:48:07.235319+00:00",
+    "type": "removed",
+    "description": "Booking removed: Simply Loaded (Tue Jun 09 4:00 PM \u2013 Tue Jun 09 6:00 PM)",
+    "event": {
+      "title": "Simply Loaded",
+      "space": "Primary Kitchen",
+      "startMs": 1781035200000,
+      "endMs": 1781042400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-07T16:15:09.858241+00:00",
     "type": "added",
     "description": "Booking added: Natalies Tamales (Wed Jun 10 10:30 AM \u2013 Wed Jun 10 1:30 PM)",
