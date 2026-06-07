@@ -1,49 +1,7 @@
 {
-  "fetchedAt": "2026-06-07T03:59:07.719280+00:00",
-  "windowStart": "2026-06-05T00:00:00-04:00",
+  "fetchedAt": "2026-06-07T04:00:11.958715+00:00",
+  "windowStart": "2026-06-06T00:00:00-04:00",
   "events": [
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1780632000000,
-      "endMs": 1780639200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1780653600000,
-      "endMs": 1780675200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1780675200000,
-      "endMs": 1780682400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1780684200000,
-      "endMs": 1780700400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1780702200000,
-      "endMs": 1780716600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1780716600000,
-      "endMs": 1780718400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Flame N Spice",
       "space": "Primary Kitchen",
@@ -133,6 +91,27 @@
       "space": "Primary Kitchen",
       "startMs": 1781215200000,
       "endMs": 1781229600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1781258400000,
+      "endMs": 1781280000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Heritage Kaphi",
+      "space": "Primary Kitchen",
+      "startMs": 1781287200000,
+      "endMs": 1781301600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1781307000000,
+      "endMs": 1781321400000,
       "color": "#A45EBF"
     }
   ]
