@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-06-09T14:41:13.618232+00:00",
+    "type": "added",
+    "description": "Booking added: BTBW (Wed Jun 10 5:00 PM \u2013 Wed Jun 10 9:00 PM)",
+    "event": {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1781125200000,
+      "endMs": 1781139600000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-06-09T14:41:13.618232+00:00",
+    "type": "removed",
+    "description": "Booking removed: BTBW (Wed Jun 10 6:00 PM \u2013 Wed Jun 10 10:00 PM)",
+    "event": {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1781128800000,
+      "endMs": 1781143200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-08T00:51:09.270046+00:00",
     "type": "added",
     "description": "Booking added: Delgato\u2019s Dozens (Fri Jun 12 7:30 PM \u2013 Fri Jun 12 11:00 PM)",
