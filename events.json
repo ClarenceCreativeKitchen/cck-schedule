@@ -1,14 +1,7 @@
 {
-  "fetchedAt": "2026-06-09T03:59:07.461842+00:00",
-  "windowStart": "2026-06-07T00:00:00-04:00",
+  "fetchedAt": "2026-06-09T04:00:20.218261+00:00",
+  "windowStart": "2026-06-08T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1780826400000,
-      "endMs": 1780848000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -98,6 +91,27 @@
       "space": "Primary Kitchen",
       "startMs": 1781355600000,
       "endMs": 1781366400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1781431200000,
+      "endMs": 1781452800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1781452800000,
+      "endMs": 1781460000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1781460000000,
+      "endMs": 1781470800000,
       "color": "#A45EBF"
     }
   ]
