@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-10T01:09:25.693658+00:00",
+  "fetchedAt": "2026-06-10T01:10:11.903627+00:00",
   "windowStart": "2026-06-08T00:00:00-04:00",
   "events": [
     {
@@ -56,6 +56,27 @@
       "space": "Primary Kitchen",
       "startMs": 1781215200000,
       "endMs": 1781229600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1781258400000,
+      "endMs": 1781280000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Heritage Kaphi",
+      "space": "Primary Kitchen",
+      "startMs": 1781287200000,
+      "endMs": 1781301600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1781307000000,
+      "endMs": 1781319600000,
       "color": "#A45EBF"
     },
     {
