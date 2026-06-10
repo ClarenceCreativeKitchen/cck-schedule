@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-10T03:59:07.725023+00:00",
-  "windowStart": "2026-06-08T00:00:00-04:00",
+  "fetchedAt": "2026-06-10T04:00:15.336597+00:00",
+  "windowStart": "2026-06-09T00:00:00-04:00",
   "events": [
     {
       "title": "GLCR",
@@ -112,6 +112,20 @@
       "space": "Primary Kitchen",
       "startMs": 1781460000000,
       "endMs": 1781470800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1781528400000,
+      "endMs": 1781539200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Simply Loaded",
+      "space": "Primary Kitchen",
+      "startMs": 1781553600000,
+      "endMs": 1781560800000,
       "color": "#A45EBF"
     }
   ]
