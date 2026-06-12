@@ -1,5 +1,41 @@
 [
   {
+    "time": "2026-06-12T18:13:09.176771+00:00",
+    "type": "added",
+    "description": "Booking added: Simply Loaded (Mon Jun 15 4:00 PM \u2013 Mon Jun 15 8:00 PM)",
+    "event": {
+      "title": "Simply Loaded",
+      "space": "Primary Kitchen",
+      "startMs": 1781553600000,
+      "endMs": 1781568000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-06-12T18:13:09.176771+00:00",
+    "type": "removed",
+    "description": "Booking removed: Simply Loaded (Mon Jun 15 4:00 PM \u2013 Mon Jun 15 6:00 PM)",
+    "event": {
+      "title": "Simply Loaded",
+      "space": "Primary Kitchen",
+      "startMs": 1781553600000,
+      "endMs": 1781560800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-06-12T18:13:09.176771+00:00",
+    "type": "removed",
+    "description": "Booking removed: Simply Loaded (Tue Jun 16 4:00 PM \u2013 Tue Jun 16 6:00 PM)",
+    "event": {
+      "title": "Simply Loaded",
+      "space": "Primary Kitchen",
+      "startMs": 1781640000000,
+      "endMs": 1781647200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-10T17:54:13.303740+00:00",
     "type": "added",
     "description": "Booking added: PNM Foods (Wed Jun 10 2:30 PM \u2013 Wed Jun 10 3:30 PM)",
