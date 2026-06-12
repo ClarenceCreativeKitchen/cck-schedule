@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-12T17:14:11.733007+00:00",
+  "fetchedAt": "2026-06-12T17:15:14.872850+00:00",
   "windowStart": "2026-06-11T00:00:00-04:00",
   "events": [
     {
@@ -49,20 +49,6 @@
       "space": "Primary Kitchen",
       "startMs": 1781307000000,
       "endMs": 1781319600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1781344800000,
-      "endMs": 1781355600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1781355600000,
-      "endMs": 1781366400000,
       "color": "#A45EBF"
     },
     {
