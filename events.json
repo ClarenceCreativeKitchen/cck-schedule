@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-06-12T03:59:12.148506+00:00",
-  "windowStart": "2026-06-10T00:00:00-04:00",
+  "fetchedAt": "2026-06-12T04:00:16.926867+00:00",
+  "windowStart": "2026-06-11T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1781085600000,
-      "endMs": 1781100000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1781101800000,
-      "endMs": 1781112600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "PNM Foods",
-      "space": "Primary Kitchen",
-      "startMs": 1781116200000,
-      "endMs": 1781119800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1781125200000,
-      "endMs": 1781139600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Delgato\u2019s Dozens",
       "space": "Primary Kitchen",
@@ -140,6 +112,20 @@
       "space": "Primary Kitchen",
       "startMs": 1781640000000,
       "endMs": 1781647200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1781690400000,
+      "endMs": 1781704800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1781733600000,
+      "endMs": 1781748000000,
       "color": "#A45EBF"
     }
   ]
