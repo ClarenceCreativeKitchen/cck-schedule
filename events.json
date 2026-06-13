@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-06-13T03:59:07.680734+00:00",
-  "windowStart": "2026-06-11T00:00:00-04:00",
+  "fetchedAt": "2026-06-13T04:00:14.882599+00:00",
+  "windowStart": "2026-06-12T00:00:00-04:00",
   "events": [
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1781181000000,
-      "endMs": 1781188200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sweet Ren LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1781188200000,
-      "endMs": 1781202600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1781202600000,
-      "endMs": 1781209800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1781215200000,
-      "endMs": 1781229600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -119,6 +91,27 @@
       "space": "Primary Kitchen",
       "startMs": 1781733600000,
       "endMs": 1781748000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "The Divided Cup",
+      "space": "Primary Kitchen",
+      "startMs": 1781787600000,
+      "endMs": 1781794800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1781798400000,
+      "endMs": 1781812800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1781820000000,
+      "endMs": 1781834400000,
       "color": "#A45EBF"
     }
   ]
