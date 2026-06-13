@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-06-13T18:00:19.187662+00:00",
+    "type": "added",
+    "description": "Booking added: Vinegars Etc (Sun Jun 14 2:00 PM \u2013 Sun Jun 14 4:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1781460000000,
+      "endMs": 1781467200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-06-13T18:00:19.187662+00:00",
+    "type": "removed",
+    "description": "Booking removed: Vinegars Etc (Sun Jun 14 2:00 PM \u2013 Sun Jun 14 5:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1781460000000,
+      "endMs": 1781470800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-12T18:13:09.176771+00:00",
     "type": "added",
     "description": "Booking added: Simply Loaded (Mon Jun 15 4:00 PM \u2013 Mon Jun 15 8:00 PM)",
