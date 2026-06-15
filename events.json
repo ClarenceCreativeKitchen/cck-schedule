@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T04:20:11.088141+00:00",
+  "fetchedAt": "2026-06-15T04:21:23.982731+00:00",
   "windowStart": "2026-06-14T00:00:00-04:00",
   "events": [
     {
@@ -21,20 +21,6 @@
       "space": "Primary Kitchen",
       "startMs": 1781460000000,
       "endMs": 1781467200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1781528400000,
-      "endMs": 1781539200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Simply Loaded",
-      "space": "Primary Kitchen",
-      "startMs": 1781553600000,
-      "endMs": 1781568000000,
       "color": "#A45EBF"
     },
     {
