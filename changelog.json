@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-06-15T20:02:21.414997+00:00",
+    "type": "added",
+    "description": "Booking added: The Divided Cup (Sat Jun 20 12:30 PM \u2013 Sat Jun 20 2:30 PM)",
+    "event": {
+      "title": "The Divided Cup",
+      "space": "Primary Kitchen",
+      "startMs": 1781973000000,
+      "endMs": 1781980200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-06-15T20:02:21.414997+00:00",
+    "type": "removed",
+    "description": "Booking removed: The Divided Cup (Fri Jun 19 3:30 PM \u2013 Fri Jun 19 5:30 PM)",
+    "event": {
+      "title": "The Divided Cup",
+      "space": "Primary Kitchen",
+      "startMs": 1781897400000,
+      "endMs": 1781904600000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-15T19:56:18.632870+00:00",
     "type": "added",
     "description": "Booking added: Sugar Baby Waffle Company (Fri Jun 19 5:30 PM \u2013 Fri Jun 19 7:30 PM)",

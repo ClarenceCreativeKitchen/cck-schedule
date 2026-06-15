@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T20:01:16.844827+00:00",
+  "fetchedAt": "2026-06-15T20:02:21.414997+00:00",
   "windowStart": "2026-06-14T00:00:00-04:00",
   "events": [
     {
@@ -94,13 +94,6 @@
       "color": "#A45EBF"
     },
     {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1781897400000,
-      "endMs": 1781904600000,
-      "color": "#A45EBF"
-    },
-    {
       "title": "Sugar Baby Waffle Company",
       "space": "Primary Kitchen",
       "startMs": 1781904600000,
@@ -126,6 +119,13 @@
       "space": "Primary Kitchen",
       "startMs": 1781960400000,
       "endMs": 1781971200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "The Divided Cup",
+      "space": "Primary Kitchen",
+      "startMs": 1781973000000,
+      "endMs": 1781980200000,
       "color": "#A45EBF"
     }
   ]
