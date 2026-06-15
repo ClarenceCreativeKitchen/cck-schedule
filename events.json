@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T19:55:19.135142+00:00",
+  "fetchedAt": "2026-06-15T19:56:18.632870+00:00",
   "windowStart": "2026-06-14T00:00:00-04:00",
   "events": [
     {
@@ -98,6 +98,13 @@
       "space": "Primary Kitchen",
       "startMs": 1781897400000,
       "endMs": 1781904600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sugar Baby Waffle Company",
+      "space": "Primary Kitchen",
+      "startMs": 1781904600000,
+      "endMs": 1781911800000,
       "color": "#A45EBF"
     },
     {

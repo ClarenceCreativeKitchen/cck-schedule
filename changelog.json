@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-06-15T19:56:18.632870+00:00",
+    "type": "added",
+    "description": "Booking added: Sugar Baby Waffle Company (Fri Jun 19 5:30 PM \u2013 Fri Jun 19 7:30 PM)",
+    "event": {
+      "title": "Sugar Baby Waffle Company",
+      "space": "Primary Kitchen",
+      "startMs": 1781904600000,
+      "endMs": 1781911800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-13T18:00:19.187662+00:00",
     "type": "added",
     "description": "Booking added: Vinegars Etc (Sun Jun 14 2:00 PM \u2013 Sun Jun 14 4:00 PM)",
