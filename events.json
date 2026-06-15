@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T20:05:21.716472+00:00",
+  "fetchedAt": "2026-06-15T20:06:09.204480+00:00",
   "windowStart": "2026-06-14T00:00:00-04:00",
   "events": [
     {
@@ -112,13 +112,6 @@
       "space": "Primary Kitchen",
       "startMs": 1781960400000,
       "endMs": 1781971200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1781973000000,
-      "endMs": 1781980200000,
       "color": "#A45EBF"
     }
   ]
