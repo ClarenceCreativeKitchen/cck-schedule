@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T22:16:10.320061+00:00",
+  "fetchedAt": "2026-06-15T22:17:14.552896+00:00",
   "windowStart": "2026-06-14T00:00:00-04:00",
   "events": [
     {
@@ -33,8 +33,8 @@
     {
       "title": "Simply Loaded",
       "space": "Primary Kitchen",
-      "startMs": 1781553600000,
-      "endMs": 1781568000000,
+      "startMs": 1781559000000,
+      "endMs": 1781573400000,
       "color": "#A45EBF"
     },
     {

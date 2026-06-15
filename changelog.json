@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-06-15T22:17:14.552896+00:00",
+    "type": "added",
+    "description": "Booking added: Simply Loaded (Mon Jun 15 5:30 PM \u2013 Mon Jun 15 9:30 PM)",
+    "event": {
+      "title": "Simply Loaded",
+      "space": "Primary Kitchen",
+      "startMs": 1781559000000,
+      "endMs": 1781573400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-06-15T22:17:14.552896+00:00",
+    "type": "removed",
+    "description": "Booking removed: Simply Loaded (Mon Jun 15 4:00 PM \u2013 Mon Jun 15 8:00 PM)",
+    "event": {
+      "title": "Simply Loaded",
+      "space": "Primary Kitchen",
+      "startMs": 1781553600000,
+      "endMs": 1781568000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-15T20:08:10.006021+00:00",
     "type": "added",
     "description": "Booking added: The Divided Cup (Fri Jun 19 11:00 PM \u2013 Sat Jun 20 12:00 AM)",
