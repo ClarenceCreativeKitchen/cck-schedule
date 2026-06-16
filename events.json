@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-06-16T03:59:14.792949+00:00",
-  "windowStart": "2026-06-14T00:00:00-04:00",
+  "fetchedAt": "2026-06-16T04:00:15.807371+00:00",
+  "windowStart": "2026-06-15T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1781431200000,
-      "endMs": 1781452800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1781452800000,
-      "endMs": 1781460000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1781460000000,
-      "endMs": 1781467200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Vinegars Etc",
       "space": "Primary Kitchen",
@@ -126,6 +105,20 @@
       "space": "Primary Kitchen",
       "startMs": 1781960400000,
       "endMs": 1781971200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1782036000000,
+      "endMs": 1782057600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "DJs Backyard Barbeque",
+      "space": "Primary Kitchen",
+      "startMs": 1782057600000,
+      "endMs": 1782072000000,
       "color": "#A45EBF"
     }
   ]
