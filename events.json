@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-06-16T09:18:22.894354+00:00",
+  "fetchedAt": "2026-06-16T09:19:11.927624+00:00",
   "windowStart": "2026-06-15T00:00:00-04:00",
   "events": [
-    {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1781528400000,
-      "endMs": 1781539200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Simply Loaded",
-      "space": "Primary Kitchen",
-      "startMs": 1781559000000,
-      "endMs": 1781573400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
