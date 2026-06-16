@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-16T17:24:13.596360+00:00",
+  "fetchedAt": "2026-06-16T17:25:13.089193+00:00",
   "windowStart": "2026-06-15T00:00:00-04:00",
   "events": [
     {
@@ -7,6 +7,13 @@
       "space": "Primary Kitchen",
       "startMs": 1781528400000,
       "endMs": 1781539200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Hold for Cleaning",
+      "space": "Primary Kitchen",
+      "startMs": 1781539200000,
+      "endMs": 1781559000000,
       "color": "#A45EBF"
     },
     {
@@ -24,17 +31,17 @@
       "color": "#A45EBF"
     },
     {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1781629200000,
-      "endMs": 1781632800000,
-      "color": "#A45EBF"
-    },
-    {
       "title": "GLCR",
       "space": "Primary Kitchen",
       "startMs": 1781690400000,
       "endMs": 1781704800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Hold for cleaning",
+      "space": "Primary Kitchen",
+      "startMs": 1781704800000,
+      "endMs": 1781733600000,
       "color": "#A45EBF"
     },
     {
