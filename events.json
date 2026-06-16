@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-16T18:21:19.733677+00:00",
+  "fetchedAt": "2026-06-16T18:22:10.688527+00:00",
   "windowStart": "2026-06-15T00:00:00-04:00",
   "events": [
     {
@@ -28,6 +28,20 @@
       "space": "Primary Kitchen",
       "startMs": 1781604000000,
       "endMs": 1781625600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Hold for cleaning",
+      "space": "Primary Kitchen",
+      "startMs": 1781634600000,
+      "endMs": 1781668800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Hold for cleaning",
+      "space": "Primary Kitchen",
+      "startMs": 1781668800000,
+      "endMs": 1781690400000,
       "color": "#A45EBF"
     },
     {
