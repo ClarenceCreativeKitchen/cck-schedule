@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-06-16T16:59:20.847850+00:00",
+    "type": "added",
+    "description": "Booking added: Vinegars Etc (Tue Jun 16 1:00 PM \u2013 Tue Jun 16 2:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1781629200000,
+      "endMs": 1781632800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-16T15:46:13.173220+00:00",
     "type": "added",
     "description": "Booking added: Natalies Tamales (Thu Jun 18 9:30 AM \u2013 Thu Jun 18 11:30 AM)",
