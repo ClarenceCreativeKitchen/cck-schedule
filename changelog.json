@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-06-17T18:44:19.153093+00:00",
+    "type": "added",
+    "description": "Booking added: PNM Foods (Thu Jun 18 4:00 PM \u2013 Thu Jun 18 6:00 PM)",
+    "event": {
+      "title": "PNM Foods",
+      "space": "Primary Kitchen",
+      "startMs": 1781812800000,
+      "endMs": 1781820000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-17T03:59:07.930666+00:00",
     "type": "removed",
     "description": "Booking removed: Natalies Tamales (Thu Jun 18 9:30 AM \u2013 Thu Jun 18 11:30 AM)",
