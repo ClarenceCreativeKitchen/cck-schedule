@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-06-17T03:59:07.930666+00:00",
+    "type": "removed",
+    "description": "Booking removed: Natalies Tamales (Thu Jun 18 9:30 AM \u2013 Thu Jun 18 11:30 AM)",
+    "event": {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1781789400000,
+      "endMs": 1781796600000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-16T18:40:16.435399+00:00",
     "type": "removed",
     "description": "Booking removed: GLCR (Sat Jun 20 6:00 AM \u2013 Sat Jun 20 9:00 AM)",
