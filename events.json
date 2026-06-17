@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-06-17T03:59:07.930666+00:00",
-  "windowStart": "2026-06-15T00:00:00-04:00",
+  "fetchedAt": "2026-06-17T04:00:16.271433+00:00",
+  "windowStart": "2026-06-16T00:00:00-04:00",
   "events": [
-    {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1781528400000,
-      "endMs": 1781539200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Hold for Cleaning",
-      "space": "Primary Kitchen",
-      "startMs": 1781539200000,
-      "endMs": 1781559000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Simply Loaded",
-      "space": "Primary Kitchen",
-      "startMs": 1781559000000,
-      "endMs": 1781573400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -140,6 +119,13 @@
       "space": "Primary Kitchen",
       "startMs": 1782057600000,
       "endMs": 1782072000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Global Warming Peppers",
+      "space": "Primary Kitchen",
+      "startMs": 1782133200000,
+      "endMs": 1782151200000,
       "color": "#A45EBF"
     }
   ]
