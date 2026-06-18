@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-06-18T03:59:07.924503+00:00",
-  "windowStart": "2026-06-16T00:00:00-04:00",
+  "fetchedAt": "2026-06-18T04:00:14.354505+00:00",
+  "windowStart": "2026-06-17T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1781604000000,
-      "endMs": 1781625600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Hold for cleaning",
-      "space": "Primary Kitchen",
-      "startMs": 1781634600000,
-      "endMs": 1781668800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Hold for cleaning",
       "space": "Primary Kitchen",
@@ -133,6 +119,27 @@
       "space": "Primary Kitchen",
       "startMs": 1782133200000,
       "endMs": 1782151200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1782208800000,
+      "endMs": 1782230400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Simply Loaded",
+      "space": "Primary Kitchen",
+      "startMs": 1782234000000,
+      "endMs": 1782241200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Blended & Baked LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1782244800000,
+      "endMs": 1782255600000,
       "color": "#A45EBF"
     }
   ]
