@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-06-19T03:59:08.958469+00:00",
-  "windowStart": "2026-06-17T00:00:00-04:00",
+  "fetchedAt": "2026-06-19T04:00:14.517248+00:00",
+  "windowStart": "2026-06-18T00:00:00-04:00",
   "events": [
-    {
-      "title": "Hold for cleaning",
-      "space": "Primary Kitchen",
-      "startMs": 1781668800000,
-      "endMs": 1781690400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1781690400000,
-      "endMs": 1781704800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Hold for cleaning",
-      "space": "Primary Kitchen",
-      "startMs": 1781704800000,
-      "endMs": 1781733600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1781733600000,
-      "endMs": 1781748000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Natalies Tamales",
       "space": "Primary Kitchen",
@@ -147,6 +119,20 @@
       "space": "Primary Kitchen",
       "startMs": 1782244800000,
       "endMs": 1782255600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1782295200000,
+      "endMs": 1782309600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1782338400000,
+      "endMs": 1782352800000,
       "color": "#A45EBF"
     }
   ]
