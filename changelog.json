@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-06-19T14:48:11.894374+00:00",
+    "type": "added",
+    "description": "Booking added: Global Warming Peppers (Mon Jun 22 10:00 AM \u2013 Mon Jun 22 3:00 PM)",
+    "event": {
+      "title": "Global Warming Peppers",
+      "space": "Primary Kitchen",
+      "startMs": 1782136800000,
+      "endMs": 1782154800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-06-19T14:48:11.894374+00:00",
+    "type": "removed",
+    "description": "Booking removed: Global Warming Peppers (Mon Jun 22 9:00 AM \u2013 Mon Jun 22 2:00 PM)",
+    "event": {
+      "title": "Global Warming Peppers",
+      "space": "Primary Kitchen",
+      "startMs": 1782133200000,
+      "endMs": 1782151200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-18T14:28:15.873122+00:00",
     "type": "added",
     "description": "Booking added: Vinegars Etc (Thu Jun 18 10:30 AM \u2013 Thu Jun 18 11:30 AM)",
