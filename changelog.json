@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-06-20T13:11:11.906487+00:00",
+    "type": "removed",
+    "description": "Booking removed: Global Warming Peppers (Mon Jun 22 10:00 AM \u2013 Mon Jun 22 3:00 PM)",
+    "event": {
+      "title": "Global Warming Peppers",
+      "space": "Primary Kitchen",
+      "startMs": 1782136800000,
+      "endMs": 1782154800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-19T14:52:10.688018+00:00",
     "type": "added",
     "description": "Booking added: Papa's BBQ (Mon Jun 22 8:00 AM \u2013 Mon Jun 22 10:00 AM)",
