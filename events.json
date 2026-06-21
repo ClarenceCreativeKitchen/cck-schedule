@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-06-21T00:56:12.186356+00:00",
+  "fetchedAt": "2026-06-21T00:57:28.996646+00:00",
   "windowStart": "2026-06-19T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1781863200000,
-      "endMs": 1781884800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sweet Ren LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1781884800000,
-      "endMs": 1781897400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1781911800000,
-      "endMs": 1781924400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1781924400000,
-      "endMs": 1781928000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "The Divided Cup",
       "space": "Primary Kitchen",
