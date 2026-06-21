@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-06-21T03:59:08.923959+00:00",
-  "windowStart": "2026-06-19T00:00:00-04:00",
+  "fetchedAt": "2026-06-21T04:00:16.465175+00:00",
+  "windowStart": "2026-06-20T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1781863200000,
-      "endMs": 1781884800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sweet Ren LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1781884800000,
-      "endMs": 1781897400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1781911800000,
-      "endMs": 1781924400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1781924400000,
-      "endMs": 1781928000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "The Divided Cup",
       "space": "Primary Kitchen",
@@ -112,6 +84,34 @@
       "space": "Primary Kitchen",
       "startMs": 1782424800000,
       "endMs": 1782439200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1782468000000,
+      "endMs": 1782489600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1782489600000,
+      "endMs": 1782504000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Heritage Kaphi",
+      "space": "Primary Kitchen",
+      "startMs": 1782504000000,
+      "endMs": 1782516600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1782516600000,
+      "endMs": 1782529200000,
       "color": "#A45EBF"
     }
   ]
