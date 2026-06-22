@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-06-22T13:16:13.013987+00:00",
+    "type": "added",
+    "description": "Booking added: Natalies Tamales (Thu Jun 25 4:00 PM \u2013 Thu Jun 25 6:00 PM)",
+    "event": {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1782417600000,
+      "endMs": 1782424800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-20T13:11:11.906487+00:00",
     "type": "removed",
     "description": "Booking removed: Global Warming Peppers (Mon Jun 22 10:00 AM \u2013 Mon Jun 22 3:00 PM)",

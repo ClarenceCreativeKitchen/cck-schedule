@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-22T13:15:15.988076+00:00",
+  "fetchedAt": "2026-06-22T13:16:13.013987+00:00",
   "windowStart": "2026-06-21T00:00:00-04:00",
   "events": [
     {
@@ -63,6 +63,13 @@
       "space": "Primary Kitchen",
       "startMs": 1782403200000,
       "endMs": 1782417600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1782417600000,
+      "endMs": 1782424800000,
       "color": "#A45EBF"
     },
     {
