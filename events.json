@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-06-22T03:59:14.891181+00:00",
-  "windowStart": "2026-06-20T00:00:00-04:00",
+  "fetchedAt": "2026-06-22T04:00:14.497516+00:00",
+  "windowStart": "2026-06-21T00:00:00-04:00",
   "events": [
-    {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1781928000000,
-      "endMs": 1781938800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1781960400000,
-      "endMs": 1781971200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -112,6 +98,20 @@
       "space": "Primary Kitchen",
       "startMs": 1782516600000,
       "endMs": 1782529200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1782565200000,
+      "endMs": 1782576000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Global Warming Peppers",
+      "space": "Primary Kitchen",
+      "startMs": 1782579600000,
+      "endMs": 1782597600000,
       "color": "#A45EBF"
     }
   ]
