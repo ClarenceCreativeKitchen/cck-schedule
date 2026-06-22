@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-22T15:18:17.003529+00:00",
+  "fetchedAt": "2026-06-22T15:19:14.211268+00:00",
   "windowStart": "2026-06-21T00:00:00-04:00",
   "events": [
     {
@@ -14,6 +14,13 @@
       "space": "Primary Kitchen",
       "startMs": 1782057600000,
       "endMs": 1782072000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Kitchen Cleaning",
+      "space": "Primary Kitchen",
+      "startMs": 1782142200000,
+      "endMs": 1782147600000,
       "color": "#A45EBF"
     },
     {
