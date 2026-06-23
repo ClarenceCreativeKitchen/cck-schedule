@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-06-23T03:59:09.801732+00:00",
-  "windowStart": "2026-06-21T00:00:00-04:00",
+  "fetchedAt": "2026-06-23T04:00:16.576989+00:00",
+  "windowStart": "2026-06-22T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1782036000000,
-      "endMs": 1782057600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "DJs Backyard Barbeque",
-      "space": "Primary Kitchen",
-      "startMs": 1782057600000,
-      "endMs": 1782072000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Kitchen Cleaning",
       "space": "Primary Kitchen",
@@ -112,6 +98,13 @@
       "space": "Primary Kitchen",
       "startMs": 1782579600000,
       "endMs": 1782597600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1782640800000,
+      "endMs": 1782662400000,
       "color": "#A45EBF"
     }
   ]
