@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-24T22:43:09.730501+00:00",
+  "fetchedAt": "2026-06-24T22:44:23.835648+00:00",
   "windowStart": "2026-06-23T00:00:00-04:00",
   "events": [
     {
@@ -35,34 +35,6 @@
       "space": "Primary Kitchen",
       "startMs": 1782338400000,
       "endMs": 1782352800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Colibr\u00ed Panader\u00eda",
-      "space": "Primary Kitchen",
-      "startMs": 1782388800000,
-      "endMs": 1782403200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1782403200000,
-      "endMs": 1782417600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1782417600000,
-      "endMs": 1782424800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1782424800000,
-      "endMs": 1782439200000,
       "color": "#A45EBF"
     },
     {
