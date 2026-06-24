@@ -1,14 +1,7 @@
 {
-  "fetchedAt": "2026-06-24T03:59:11.309612+00:00",
-  "windowStart": "2026-06-22T00:00:00-04:00",
+  "fetchedAt": "2026-06-24T04:00:15.492885+00:00",
+  "windowStart": "2026-06-23T00:00:00-04:00",
   "events": [
-    {
-      "title": "Kitchen Cleaning",
-      "space": "Primary Kitchen",
-      "startMs": 1782142200000,
-      "endMs": 1782147600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -105,6 +98,20 @@
       "space": "Primary Kitchen",
       "startMs": 1782640800000,
       "endMs": 1782662400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Global Warming Peppers",
+      "space": "Primary Kitchen",
+      "startMs": 1782738000000,
+      "endMs": 1782748800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Simply Loaded",
+      "space": "Primary Kitchen",
+      "startMs": 1782763200000,
+      "endMs": 1782770400000,
       "color": "#A45EBF"
     }
   ]
