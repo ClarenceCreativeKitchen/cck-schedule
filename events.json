@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-24T16:25:11.001298+00:00",
+  "fetchedAt": "2026-06-24T16:26:09.292192+00:00",
   "windowStart": "2026-06-23T00:00:00-04:00",
   "events": [
     {
@@ -28,6 +28,13 @@
       "space": "Primary Kitchen",
       "startMs": 1782338400000,
       "endMs": 1782352800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1782388800000,
+      "endMs": 1782403200000,
       "color": "#A45EBF"
     },
     {
