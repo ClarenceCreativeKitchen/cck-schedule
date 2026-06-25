@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-06-25T05:00:17.316130+00:00",
+  "fetchedAt": "2026-06-25T05:01:23.311654+00:00",
   "windowStart": "2026-06-24T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1782295200000,
-      "endMs": 1782309600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1782331200000,
-      "endMs": 1782338400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1782338400000,
-      "endMs": 1782352800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Colibr\u00ed Panader\u00eda",
       "space": "Primary Kitchen",
