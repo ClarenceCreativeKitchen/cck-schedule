@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-06-25T02:41:10.286864+00:00",
+    "type": "added",
+    "description": "Booking added: PNM Foods (Thu Jun 25 10:00 PM \u2013 Fri Jun 26 12:00 AM)",
+    "event": {
+      "title": "PNM Foods",
+      "space": "Primary Kitchen",
+      "startMs": 1782439200000,
+      "endMs": 1782446400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-24T18:43:10.598770+00:00",
     "type": "added",
     "description": "Booking added: Great Lakes Dried Fruit (Wed Jun 24 4:00 PM \u2013 Wed Jun 24 6:00 PM)",
