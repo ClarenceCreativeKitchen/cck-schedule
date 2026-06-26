@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-06-26T03:59:09.993398+00:00",
-  "windowStart": "2026-06-24T00:00:00-04:00",
+  "fetchedAt": "2026-06-26T04:00:17.446398+00:00",
+  "windowStart": "2026-06-25T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1782295200000,
-      "endMs": 1782309600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1782331200000,
-      "endMs": 1782338400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1782338400000,
-      "endMs": 1782352800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Colibr\u00ed Panader\u00eda",
       "space": "Primary Kitchen",
@@ -140,6 +119,27 @@
       "space": "Primary Kitchen",
       "startMs": 1782813600000,
       "endMs": 1782835200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1782900000000,
+      "endMs": 1782914400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1782921600000,
+      "endMs": 1782932400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1782943200000,
+      "endMs": 1782957600000,
       "color": "#A45EBF"
     }
   ]
