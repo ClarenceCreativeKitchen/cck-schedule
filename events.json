@@ -1,42 +1,7 @@
 {
-  "fetchedAt": "2026-06-27T03:59:09.053725+00:00",
-  "windowStart": "2026-06-25T00:00:00-04:00",
+  "fetchedAt": "2026-06-27T04:00:17.533179+00:00",
+  "windowStart": "2026-06-26T00:00:00-04:00",
   "events": [
-    {
-      "title": "Colibr\u00ed Panader\u00eda",
-      "space": "Primary Kitchen",
-      "startMs": 1782388800000,
-      "endMs": 1782403200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1782403200000,
-      "endMs": 1782417600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1782417600000,
-      "endMs": 1782424800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1782424800000,
-      "endMs": 1782439200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "PNM Foods",
-      "space": "Primary Kitchen",
-      "startMs": 1782439200000,
-      "endMs": 1782446400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -140,6 +105,20 @@
       "space": "Primary Kitchen",
       "startMs": 1782943200000,
       "endMs": 1782957600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1783015200000,
+      "endMs": 1783026000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1783029600000,
+      "endMs": 1783044000000,
       "color": "#A45EBF"
     }
   ]
