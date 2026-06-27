@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-27T22:17:08.356955+00:00",
+  "fetchedAt": "2026-06-27T22:18:10.725959+00:00",
   "windowStart": "2026-06-26T00:00:00-04:00",
   "events": [
     {
@@ -59,13 +59,6 @@
       "color": "#A45EBF"
     },
     {
-      "title": "Global Warming Peppers",
-      "space": "Primary Kitchen",
-      "startMs": 1782738000000,
-      "endMs": 1782748800000,
-      "color": "#A45EBF"
-    },
-    {
       "title": "Vinegars Etc",
       "space": "Primary Kitchen",
       "startMs": 1782756000000,
@@ -84,6 +77,13 @@
       "space": "Primary Kitchen",
       "startMs": 1782813600000,
       "endMs": 1782835200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Global Warming Peppers",
+      "space": "Primary Kitchen",
+      "startMs": 1782838800000,
+      "endMs": 1782849600000,
       "color": "#A45EBF"
     },
     {
