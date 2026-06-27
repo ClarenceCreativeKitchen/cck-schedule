@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-06-27T17:32:10.894214+00:00",
+    "type": "added",
+    "description": "Booking added: Global Warming Peppers (Mon Jun 29 9:00 AM \u2013 Mon Jun 29 12:00 PM)",
+    "event": {
+      "title": "Global Warming Peppers",
+      "space": "Primary Kitchen",
+      "startMs": 1782738000000,
+      "endMs": 1782748800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-06-27T17:32:10.894214+00:00",
+    "type": "removed",
+    "description": "Booking removed: Global Warming Peppers (Mon Jun 29 9:00 AM \u2013 Mon Jun 29 1:00 PM)",
+    "event": {
+      "title": "Global Warming Peppers",
+      "space": "Primary Kitchen",
+      "startMs": 1782738000000,
+      "endMs": 1782752400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-25T23:32:09.783658+00:00",
     "type": "added",
     "description": "Booking added: Great Lakes Dried Fruit (Sat Jun 27 5:00 AM \u2013 Sat Jun 27 8:00 AM)",

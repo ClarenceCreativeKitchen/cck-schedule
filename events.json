@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-27T17:31:11.686571+00:00",
+  "fetchedAt": "2026-06-27T17:32:10.894214+00:00",
   "windowStart": "2026-06-26T00:00:00-04:00",
   "events": [
     {
@@ -62,7 +62,7 @@
       "title": "Global Warming Peppers",
       "space": "Primary Kitchen",
       "startMs": 1782738000000,
-      "endMs": 1782752400000,
+      "endMs": 1782748800000,
       "color": "#A45EBF"
     },
     {
