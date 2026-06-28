@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-06-28T03:59:10.694505+00:00",
-  "windowStart": "2026-06-26T00:00:00-04:00",
+  "fetchedAt": "2026-06-28T04:00:16.465121+00:00",
+  "windowStart": "2026-06-27T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1782468000000,
-      "endMs": 1782489600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Colibr\u00ed Panader\u00eda",
-      "space": "Primary Kitchen",
-      "startMs": 1782489600000,
-      "endMs": 1782504000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Heritage Kaphi",
-      "space": "Primary Kitchen",
-      "startMs": 1782504000000,
-      "endMs": 1782516600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1782516600000,
-      "endMs": 1782529200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Great Lakes Dried Fruit",
       "space": "Primary Kitchen",
@@ -119,6 +91,20 @@
       "space": "Primary Kitchen",
       "startMs": 1783029600000,
       "endMs": 1783044000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1783072800000,
+      "endMs": 1783094400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1783098000000,
+      "endMs": 1783112400000,
       "color": "#A45EBF"
     }
   ]
