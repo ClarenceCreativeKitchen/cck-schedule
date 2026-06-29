@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-06-29T03:59:10.404098+00:00",
-  "windowStart": "2026-06-27T00:00:00-04:00",
+  "fetchedAt": "2026-06-29T04:00:17.713523+00:00",
+  "windowStart": "2026-06-28T00:00:00-04:00",
   "events": [
-    {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1782550800000,
-      "endMs": 1782561600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1782565200000,
-      "endMs": 1782576000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Global Warming Peppers",
-      "space": "Primary Kitchen",
-      "startMs": 1782579600000,
-      "endMs": 1782597600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -112,6 +91,13 @@
       "space": "Primary Kitchen",
       "startMs": 1783098000000,
       "endMs": 1783112400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1783170000000,
+      "endMs": 1783180800000,
       "color": "#A45EBF"
     }
   ]
