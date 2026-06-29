@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-06-29T20:56:08.997886+00:00",
+    "type": "removed",
+    "description": "Booking removed: Vinegars Etc (Thu Jul 02 2:00 PM \u2013 Thu Jul 02 5:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1783015200000,
+      "endMs": 1783026000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-29T00:01:09.568354+00:00",
     "type": "added",
     "description": "Booking added: Momma's Soft Pretzels (Thu Jul 02 9:00 AM \u2013 Thu Jul 02 11:00 AM)",
