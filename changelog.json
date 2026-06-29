@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-06-29T00:01:09.568354+00:00",
+    "type": "added",
+    "description": "Booking added: Momma's Soft Pretzels (Thu Jul 02 9:00 AM \u2013 Thu Jul 02 11:00 AM)",
+    "event": {
+      "title": "Momma's Soft Pretzels",
+      "space": "Primary Kitchen",
+      "startMs": 1782997200000,
+      "endMs": 1783004400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-27T22:18:10.725959+00:00",
     "type": "added",
     "description": "Booking added: Global Warming Peppers (Tue Jun 30 1:00 PM \u2013 Tue Jun 30 4:00 PM)",

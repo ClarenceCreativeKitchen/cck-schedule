@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-29T00:00:16.844743+00:00",
+  "fetchedAt": "2026-06-29T00:01:09.568354+00:00",
   "windowStart": "2026-06-27T00:00:00-04:00",
   "events": [
     {
@@ -77,6 +77,13 @@
       "space": "Primary Kitchen",
       "startMs": 1782943200000,
       "endMs": 1782957600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Momma's Soft Pretzels",
+      "space": "Primary Kitchen",
+      "startMs": 1782997200000,
+      "endMs": 1783004400000,
       "color": "#A45EBF"
     },
     {
