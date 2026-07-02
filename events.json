@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-07-02T03:59:09.675360+00:00",
-  "windowStart": "2026-06-30T00:00:00-04:00",
+  "fetchedAt": "2026-07-02T04:00:18.874969+00:00",
+  "windowStart": "2026-07-01T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1782813600000,
-      "endMs": 1782835200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Global Warming Peppers",
-      "space": "Primary Kitchen",
-      "startMs": 1782838800000,
-      "endMs": 1782849600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -98,6 +84,13 @@
       "space": "Primary Kitchen",
       "startMs": 1783360800000,
       "endMs": 1783371600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1783418400000,
+      "endMs": 1783440000000,
       "color": "#A45EBF"
     }
   ]
