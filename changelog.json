@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-07-02T12:05:11.210024+00:00",
+    "type": "removed",
+    "description": "Booking removed: Vinegars Etc (Fri Jul 03 1:00 PM \u2013 Fri Jul 03 5:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1783098000000,
+      "endMs": 1783112400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-06-30T15:01:52.743627+00:00",
     "type": "added",
     "description": "Booking added: Natalies Tamales (Fri Jul 03 5:00 PM \u2013 Fri Jul 03 8:00 PM)",
