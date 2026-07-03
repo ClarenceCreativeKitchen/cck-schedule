@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-07-03T21:16:08.703148+00:00",
+    "type": "added",
+    "description": "Booking added: Milk Tearapy (Wed Jul 08 1:00 PM \u2013 Wed Jul 08 6:00 PM)",
+    "event": {
+      "title": "Milk Tearapy",
+      "space": "Primary Kitchen",
+      "startMs": 1783530000000,
+      "endMs": 1783548000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-07-03T19:11:08.357785+00:00",
     "type": "added",
     "description": "Booking added: Vinegars Etc (Sun Jul 05 4:00 PM \u2013 Sun Jul 05 5:30 PM)",

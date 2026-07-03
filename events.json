@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-03T21:15:12.165005+00:00",
+  "fetchedAt": "2026-07-03T21:16:08.703148+00:00",
   "windowStart": "2026-07-02T00:00:00-04:00",
   "events": [
     {
@@ -91,6 +91,13 @@
       "space": "Primary Kitchen",
       "startMs": 1783521000000,
       "endMs": 1783528200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Milk Tearapy",
+      "space": "Primary Kitchen",
+      "startMs": 1783530000000,
+      "endMs": 1783548000000,
       "color": "#A45EBF"
     },
     {
