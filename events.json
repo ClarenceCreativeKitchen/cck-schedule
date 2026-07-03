@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-07-03T03:59:09.265795+00:00",
-  "windowStart": "2026-07-01T00:00:00-04:00",
+  "fetchedAt": "2026-07-03T04:00:18.725873+00:00",
+  "windowStart": "2026-07-02T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1782900000000,
-      "endMs": 1782914400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1782914400000,
-      "endMs": 1782936000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1782943200000,
-      "endMs": 1782957600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Momma's Soft Pretzels",
       "space": "Primary Kitchen",
@@ -84,6 +63,27 @@
       "space": "Primary Kitchen",
       "startMs": 1783418400000,
       "endMs": 1783440000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1783504800000,
+      "endMs": 1783519200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "The Divided Cup",
+      "space": "Primary Kitchen",
+      "startMs": 1783521000000,
+      "endMs": 1783528200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1783548000000,
+      "endMs": 1783562400000,
       "color": "#A45EBF"
     }
   ]
