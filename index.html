@@ -298,6 +298,23 @@
     color: #f8f4f0;
   }
 
+  /* ── AMERICA 250 LOGO ── */
+  .america250-logo {
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
+  }
+  .america250-logo svg {
+    filter: drop-shadow(0 0 6px rgba(255,255,255,0.3));
+  }
+
+  /* Ensure all content sits above fireworks canvas */
+  .header, .legend, .status-bar, .calendar, .mobile-view, .footer,
+  .loading-overlay, .changelog-overlay {
+    position: relative;
+    z-index: 1;
+  }
+
   /* ── NOW INDICATOR ── */
   .now-line {
     position: absolute;
@@ -676,7 +693,15 @@
 <div class="header">
   <div class="header-left">
     <h1>CCK Weekly Live Schedule</h1>
-    <span class="subtitle">Updated every 60 seconds; Check TFC for most up-to-date status</span>
+    <span class="subtitle" id="subtitleText">Updated every 60 seconds; Check TFC for most up-to-date status</span>
+    <span class="america250-logo" id="america250Logo" style="display:none;">
+      <svg width="120" height="84" viewBox="0 0 600 420" xmlns="http://www.w3.org/2000/svg">
+        <path d="m206.74 246.71c-8.0796 8.5981-13.452 17.715-15.094 25.953 0 0 82.107-6.553 112.43 39.613 0 0 10.168-4.5727 19.177-12.991-24.016-56.824-111.16-52.87-116.51-52.575m182.3 43.453c0-55.96 33.5-81.444 33.752-81.639-9.3758-2.0379-18.874-3.4565-28.372-4.1262 0 0-33.536 28.416-33.536 85.967 0 75.237 51.07 114.29 103.69 114.29 18.118 0 35.566-5.4944 51.293-14.172-0.31685 0.0864-8.7637 2.2684-21.222 2.2684-45.576 0-105.6-33.651-105.6-102.59m-28.153-122.38c-127.45 0-166.22 49.961-167.56 51.74l-1.6418 32.657c25.838-37.086 75.576-57.746 168.76-57.746 105.06 0 164.69 39.678 164.69 101.97 0 32.333-20.991 49.472-20.991 49.472 10.614 1.397 21.877-0.15842 32.635-4.1334 0.36005-0.45367 16.044-20.242 16.044-53.886 0-62.239-63.564-120.08-191.95-120.08m-175.77 213.3c-88.466 0-173.94-18.802-173.94-18.802v27.998s85.081 18.86 180.69 18.86c56.637 0 112.06-11.176 135.37-37.813 9.7071-11.097 14.805-22.842 16.699-37.885-17.643 29.633-77.174 47.642-158.82 47.642m-104.22-55.736c12.112 1.505 24.052 2.6788 35.89 3.4277 18.068-9.7935 45.979-35.905 52.438-53.252 0.86413-10.859 1.5122-20.977 1.8651-30.374-17.16 38.447-89.711 79.925-90.194 80.199m-0.40535-143.98c-35.473 0-69.246 22.928-69.303 22.972v25.931s30.741-23.692 65.674-23.692c38.094 0 55.773 22.849 55.773 22.849s10.19-8.2813 18.456-19.961c-0.0144-0.0144-21.164-28.099-70.6-28.099" fill="#3250ff"/>
+        <path d="m331.62 289.35c-26.212-58.134-107.51-54.952-111.1-54.779-5.1704 3.8094-9.8079 7.914-13.783 12.148 5.3504-0.30245 92.498-4.2486 116.51 52.575 3.0749-2.8804 6.0129-6.2002 8.3677-9.9447m166.47 90.95c-48.175 0-94.169-39.008-94.169-92.649 0-51.43 35.696-74.546 35.933-74.697-5.6241-1.6923-11.32-3.1757-17.067-4.4215-0.25204 0.19443-33.752 25.672-33.752 81.639 0 68.936 60.028 102.59 105.6 102.59 12.458 0 20.905-2.1891 21.222-2.2684 12.818-7.0787 24.491-16.274 34.457-26.356-1.3826 1.2242-18.924 16.166-52.23 16.166m-141.39-226.87c-115.68 0-161.39 46.281-162.43 47.34l-0.94334 18.766c1.3394-1.7787 40.11-51.74 167.56-51.74 128.38 0 191.95 57.846 191.95 120.08 0 33.644-15.684 53.432-16.044 53.886 7.9572-2.938 15.634-7.2155 22.568-12.616 0.53288-0.95055 9.1598-16.591 9.1598-49.666 0-60.057-66.337-126.05-211.81-126.05m-11.932 160.99c-0.97935 2.9668-19.609 53.202-153.08 53.202-86.888 0-177.36-18.147-180.51-18.788v13.452s85.47 18.802 173.93 18.802c81.646 0 141.18-18.01 158.82-47.642 0.72731-5.7969 0.98655-12.091 0.84253-19.025m-173.39-87.508c-0.41046 1.0082-17.009 40.197-112.68 95.357 7.4747 1.145 14.863 2.1747 22.187 3.0821 0.48247-0.27364 73.026-41.745 90.194-80.199 0.24483-6.4234 0.34565-12.487 0.30244-18.24m-86.917-59.122c-40.29 0-73.149 20.912-73.293 21.006v15.547c0.05761-0.036 33.831-22.964 69.303-22.964 49.436 0 70.592 28.084 70.6 28.099 2.5204-3.5645 4.8607-7.4459 6.6754-11.5-0.20163-0.28084-22.626-30.187-73.286-30.187" fill="#fff"/>
+        <path d="m344.77 314.42c-0.17283-8.5621-0.95055-18.096-2.1747-28.912-18.478 40.225-74.69 54.001-161.72 54.001-99.966 0-169.69-17.506-169.69-17.506v26.831c3.1541 0.64089 93.621 18.788 180.51 18.788 133.47 0 152.1-50.235 153.08-53.202m-13.147-25.074c3.1325-4.976 5.228-10.694 5.228-17.095 0-25.369-28.884-54.642-70.045-57.998-17.477 3.2909-33.507 10.91-46.281 20.314 3.5934-0.17282 84.887-3.3557 111.1 54.779m72.292-1.6987c0 53.641 45.993 92.649 94.169 92.649 33.312 0 50.854-14.942 52.23-16.166 13.048-13.2 23.166-27.904 29.056-41.342 0 0-25.845 32.477-67.085 32.477-40.859 0-79.867-29.344-79.867-71.529 0-42.4 31.022-62.318 31.022-62.318-7.662-3.2117-15.554-6.0489-23.591-8.4685-0.23043 0.15123-35.933 23.26-35.933 74.697m186.08-18.963c0-77.707-78.521-141.17-225.74-141.17-116.51 0-168.42 42.047-168.42 42.047l-1.5698 31.202c1.037-1.0586 46.75-47.34 162.43-47.34 145.48 0 211.81 65.991 211.81 126.06 0 33.067-8.6269 48.715-9.1598 49.659 17.78-13.869 30.648-35.156 30.648-60.453m-418.61-41.772c-0.0936-12.66-0.93614-23.735-2.7652-33.24-11.01 49.126-147.33 122.18-147.33 122.18 12.768 2.3836 25.211 4.5439 37.417 6.4162 95.674-55.16 112.27-94.349 112.68-95.357m-13.628-28.936c2.2395-4.9976 3.6942-10.269 3.6942-15.547 0-20.653-30.057-40.11-72.011-40.11-41.939 0-78.254 20.206-78.254 20.206l-0.0072 26.27c0.13682-0.0864 33.003-21.006 73.293-21.006 50.66 0 73.077 29.913 73.286 30.187" fill="#f90000"/>
+        <path d="m457.67 94.2c14.284 0 21.085-2.612 26.631-5.937v-20.827h-2.6562s-3.388 23.048-22.656 23.048c-14.997 0-25.792-12.631-26.032-37.899 0.23975-25.029 10.562-38.019 24.473-38.019 19.268 0 23.849 23.887 23.849 23.887h2.6625v-21.193c-6.7193-3.4764-15.237-6.4101-26.511-6.4101-24.234 0-43.426 15.508-43.426 41.735 0 27.186 19.552 41.615 43.666 41.615m-183.37-22.042h-2.2335c-8.1893 11.407-21.704 16.959-28.303 16.959-6.5931 0-8.2209-3.06-8.2209-10.606v-25.388l7.9117 0.59937c7.6783 0.59937 11.281 5.3881 13.918 11.375h1.4385v-26.947h-1.4385c-2.5174 6.2272-6.1199 11.136-13.792 11.735l-8.0379 0.71925v-34.732s24.145 0.10095 33.943 16.398h2.6625l-5.3944-20.107h-53.527v1.5584c2.877 1.6719 5.041 5.1483 5.041 13.407v50.783c0 8.2651-2.1641 11.735-5.041 13.413v1.5584h55.508zm53.557 4.9458c8.9464 12.221 15.111 17.098 24.114 17.098 4.795 0 7.4386-1.0789 10.316-3.1167l0.35963-1.5521c-6.5994-4.1956-14.158-12.94-23.874-25.514l-7.3187-9.3376c9.9559-1.6782 20.751-7.4259 20.751-20.839 0-13.174-10.069-21.672-32.625-21.672h-30.227v1.5521c2.877 1.6782 5.0347 5.1483 5.0347 13.413v50.776c0 8.0253-1.918 11.622-5.0347 13.413v1.5521h27.35v-1.5521c-2.7634-1.6719-5.041-5.1483-5.041-13.413v-62.032h3.7224c12.953 0 17.994 7.4259 17.994 17.962 0 11.016-5.6404 19.281-19.079 21.678v1.4322c0.92114 1.4574 9.0663 14.013 13.558 20.152m-132.28-63.382v-1.5521h-21.306l-21.962 58-25.565-58h-23.136v1.5521c5.0158 3.3565 7.8676 7.9117 7.6341 19.76l-0.56782 37.723c-0.22083 11.502-3.8738 18.088-8.0947 20.12v1.5584h20.978v-1.5584c-4.2208-2.0316-7.8613-8.5048-8.2083-20.24l0.58676-41.559 29.048 64.676h3.5268l25.76-69.338v53.054c0 8.019-1.8234 11.615-4.7887 13.407v1.5584h26.095v-1.5584c-2.7319-1.7918-4.9022-5.3881-4.9022-13.407v-50.783c0-8.0253 1.8297-11.615 4.9022-13.413m315.13 51.74 13.439-31.849 13.432 31.849zm47.502 6.8202-26.025-61.433h-2.1641l-27.59 62.272c-4.082 9.4638-9.9559 15.811-15.117 18.202v1.5584h24.719v-1.5584c-5.6404-3.2303-7.6846-9.5711-4.2019-18.562l1.4448-3.5899h29.861l1.3249 3.3565c4.5616 10.896 2.7571 17.363-1.918 18.795v1.5584h33.224v-1.5584c-5.5206-3.4701-9.2304-8.8644-13.558-19.041m-524.81-6.8202 13.439-31.849 13.432 31.849zm47.502 6.8202-26.032-61.433h-2.1514l-27.596 62.272c-4.0821 9.4638-9.9559 15.811-15.117 18.202v1.5584h24.719v-1.5584c-5.6404-3.2303-7.6783-9.5711-4.2019-18.562l1.4448-3.5899h29.861l1.3249 3.3565c4.5616 10.896 2.7571 17.363-1.918 18.795v1.5584h33.224v-1.5584c-5.5206-3.4701-9.2304-8.8644-13.558-19.041m292.2-58.558c2.877 1.6782 5.0347 5.1483 5.0347 13.413v50.776c0 8.0253-2.1577 11.735-5.0347 13.413v1.5584h27.35v-1.5584c-2.8833-1.7981-5.0347-5.3881-5.0347-13.413v-50.776c0-8.2651 2.2776-11.735 5.0347-13.413v-1.5584h-27.35z"/>
+      </svg>
+    </span>
   </div>
   <div class="header-center">
     <div class="week-label" id="weekLabel"></div>
@@ -686,6 +711,9 @@
     <button class="changelog-btn" onclick="toggleChangelog()">Change Log</button>
   </div>
 </div>
+
+<!-- Fireworks canvas (July 4th week only) -->
+<canvas id="fireworksCanvas" style="display:none; position:fixed; inset:0; z-index:0; pointer-events:none;"></canvas>
 
 <div class="changelog-overlay" id="changelogOverlay" onclick="if(event.target===this)toggleChangelog()">
   <div class="changelog-panel">
@@ -1233,6 +1261,156 @@ async function init() {
     buildMobileView();
   }, CONFIG.REFRESH_INTERVAL);
 }
+
+// ══════════════════════════════════════════════
+// JULY 4TH CELEBRATION (temporary: Jul 3–10, 2026)
+// ══════════════════════════════════════════════
+function isJuly4thWeek() {
+  const now = new Date();
+  const start = new Date(2026, 6, 3);  // Jul 3
+  const end   = new Date(2026, 6, 11); // Jul 11 00:00 (so Jul 10 is last day)
+  return now >= start && now < end;
+}
+
+function initJuly4th() {
+  if (!isJuly4thWeek()) return;
+
+  // Swap subtitle for logo
+  document.getElementById('subtitleText').style.display = 'none';
+  document.getElementById('america250Logo').style.display = 'inline-flex';
+
+  // Show and size the fireworks canvas
+  const canvas = document.getElementById('fireworksCanvas');
+  canvas.style.display = 'block';
+  const ctx = canvas.getContext('2d');
+
+  function resizeCanvas() {
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+  }
+  resizeCanvas();
+  window.addEventListener('resize', resizeCanvas);
+
+  // Firework particle system
+  const fireworks = [];
+  const particles = [];
+  const COLORS = [
+    '#ff4444', '#ff6644', '#ff2222',  // reds
+    '#4488ff', '#2266ff', '#66aaff',  // blues
+    '#ffffff', '#ffffcc', '#ffddaa',  // whites/golds
+    '#ff4444', '#ff6644',             // more reds
+    '#4488ff', '#2266ff',             // more blues
+  ];
+
+  class Firework {
+    constructor() {
+      this.x = Math.random() * canvas.width;
+      this.y = canvas.height;
+      this.targetY = canvas.height * (0.15 + Math.random() * 0.45);
+      this.speed = 3 + Math.random() * 3;
+      this.trail = [];
+      this.done = false;
+    }
+    update() {
+      this.trail.push({ x: this.x, y: this.y });
+      if (this.trail.length > 8) this.trail.shift();
+      this.y -= this.speed;
+      if (this.y <= this.targetY) {
+        this.explode();
+        this.done = true;
+      }
+    }
+    draw() {
+      // Trail
+      for (let i = 0; i < this.trail.length; i++) {
+        const alpha = i / this.trail.length * 0.6;
+        ctx.beginPath();
+        ctx.arc(this.trail[i].x, this.trail[i].y, 2, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(255,220,180,${alpha})`;
+        ctx.fill();
+      }
+      // Head
+      ctx.beginPath();
+      ctx.arc(this.x, this.y, 3, 0, Math.PI * 2);
+      ctx.fillStyle = '#ffe8cc';
+      ctx.fill();
+    }
+    explode() {
+      const count = 60 + Math.floor(Math.random() * 40);
+      const color = COLORS[Math.floor(Math.random() * COLORS.length)];
+      for (let i = 0; i < count; i++) {
+        const angle = (Math.PI * 2 / count) * i + (Math.random() - 0.5) * 0.3;
+        const speed = 1.5 + Math.random() * 4;
+        particles.push(new Particle(this.x, this.y, angle, speed, color));
+      }
+    }
+  }
+
+  class Particle {
+    constructor(x, y, angle, speed, color) {
+      this.x = x;
+      this.y = y;
+      this.vx = Math.cos(angle) * speed;
+      this.vy = Math.sin(angle) * speed;
+      this.alpha = 1;
+      this.decay = 0.008 + Math.random() * 0.012;
+      this.color = color;
+      this.size = 1.5 + Math.random() * 1.5;
+    }
+    update() {
+      this.x += this.vx;
+      this.y += this.vy;
+      this.vy += 0.04; // gravity
+      this.vx *= 0.99;
+      this.vy *= 0.99;
+      this.alpha -= this.decay;
+    }
+    draw() {
+      ctx.save();
+      ctx.globalAlpha = Math.max(0, this.alpha);
+      ctx.beginPath();
+      ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+      ctx.fillStyle = this.color;
+      ctx.fill();
+      ctx.restore();
+    }
+  }
+
+  let frameCount = 0;
+  function animate() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    frameCount++;
+
+    // Launch a new firework periodically (every ~90 frames = ~1.5s)
+    if (frameCount % 90 === 0 || (frameCount % 50 === 0 && Math.random() > 0.5)) {
+      fireworks.push(new Firework());
+    }
+
+    // Update & draw fireworks (rising)
+    for (let i = fireworks.length - 1; i >= 0; i--) {
+      fireworks[i].update();
+      fireworks[i].draw();
+      if (fireworks[i].done) fireworks.splice(i, 1);
+    }
+
+    // Update & draw particles (explosions)
+    for (let i = particles.length - 1; i >= 0; i--) {
+      particles[i].update();
+      particles[i].draw();
+      if (particles[i].alpha <= 0) particles.splice(i, 1);
+    }
+
+    requestAnimationFrame(animate);
+  }
+
+  // Kick off with a few fireworks right away
+  fireworks.push(new Firework());
+  setTimeout(() => fireworks.push(new Firework()), 400);
+  setTimeout(() => fireworks.push(new Firework()), 900);
+  animate();
+}
+
+initJuly4th();
 
 init();
 </script>
