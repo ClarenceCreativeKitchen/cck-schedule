@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-04T11:12:17.046801+00:00",
+  "fetchedAt": "2026-07-04T11:13:10.956889+00:00",
   "windowStart": "2026-07-03T00:00:00-04:00",
   "events": [
     {
@@ -98,6 +98,27 @@
       "space": "Primary Kitchen",
       "startMs": 1783548000000,
       "endMs": 1783562400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "The Divided Cup",
+      "space": "Primary Kitchen",
+      "startMs": 1783602000000,
+      "endMs": 1783609200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1783612800000,
+      "endMs": 1783627200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1783634400000,
+      "endMs": 1783648800000,
       "color": "#A45EBF"
     }
   ]
