@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-07-06T03:59:12.275871+00:00",
-  "windowStart": "2026-07-04T00:00:00-04:00",
+  "fetchedAt": "2026-07-06T04:00:31.171497+00:00",
+  "windowStart": "2026-07-05T00:00:00-04:00",
   "events": [
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1783170000000,
-      "endMs": 1783180800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1783184400000,
-      "endMs": 1783191600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -133,6 +119,20 @@
       "space": "Primary Kitchen",
       "startMs": 1783737000000,
       "endMs": 1783742400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Milk Tearapy",
+      "space": "Primary Kitchen",
+      "startMs": 1783742400000,
+      "endMs": 1783747800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1783774800000,
+      "endMs": 1783785600000,
       "color": "#A45EBF"
     }
   ]
