@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-07T23:40:41.387449+00:00",
+  "fetchedAt": "2026-07-07T23:41:09.648706+00:00",
   "windowStart": "2026-07-06T00:00:00-04:00",
   "events": [
     {
@@ -77,6 +77,41 @@
       "space": "Primary Kitchen",
       "startMs": 1783634400000,
       "endMs": 1783648800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1783677600000,
+      "endMs": 1783699200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sweet Ren LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1783702800000,
+      "endMs": 1783713600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "The Divided Cup",
+      "space": "Primary Kitchen",
+      "startMs": 1783713600000,
+      "endMs": 1783724400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1783724400000,
+      "endMs": 1783737000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Milk Tearapy",
+      "space": "Primary Kitchen",
+      "startMs": 1783737000000,
+      "endMs": 1783742400000,
       "color": "#A45EBF"
     },
     {
