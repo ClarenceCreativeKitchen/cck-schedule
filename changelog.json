@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-07-08T19:40:32.197940+00:00",
+    "type": "removed",
+    "description": "Booking removed: Vinegars Etc (Thu Jul 09 4:00 PM \u2013 Thu Jul 09 6:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1783627200000,
+      "endMs": 1783634400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-07-07T21:45:11.846980+00:00",
     "type": "added",
     "description": "Booking added: Simply Loaded (Tue Jul 07 8:00 PM \u2013 Tue Jul 07 10:00 PM)",
