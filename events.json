@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-07-09T03:59:10.893791+00:00",
-  "windowStart": "2026-07-07T00:00:00-04:00",
+  "fetchedAt": "2026-07-09T04:03:10.779556+00:00",
+  "windowStart": "2026-07-08T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1783418400000,
-      "endMs": 1783440000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1783454400000,
-      "endMs": 1783461600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Simply Loaded",
-      "space": "Primary Kitchen",
-      "startMs": 1783468800000,
-      "endMs": 1783476000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -126,6 +105,13 @@
       "space": "Primary Kitchen",
       "startMs": 1783947600000,
       "endMs": 1783954800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1784023200000,
+      "endMs": 1784044800000,
       "color": "#A45EBF"
     }
   ]
