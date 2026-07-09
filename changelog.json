@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-07-09T13:40:17.091793+00:00",
+    "type": "added",
+    "description": "Booking added: Hungry Bee (Thu Jul 09 10:00 PM \u2013 Fri Jul 10 12:00 AM)",
+    "event": {
+      "title": "Hungry Bee",
+      "space": "Primary Kitchen",
+      "startMs": 1783648800000,
+      "endMs": 1783656000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-07-08T19:40:32.197940+00:00",
     "type": "removed",
     "description": "Booking removed: Vinegars Etc (Thu Jul 09 4:00 PM \u2013 Thu Jul 09 6:00 PM)",
