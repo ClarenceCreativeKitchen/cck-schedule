@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-07-10T03:59:09.949632+00:00",
-  "windowStart": "2026-07-08T00:00:00-04:00",
+  "fetchedAt": "2026-07-10T04:00:19.897593+00:00",
+  "windowStart": "2026-07-09T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1783504800000,
-      "endMs": 1783519200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1783521000000,
-      "endMs": 1783528200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Milk Tearapy",
-      "space": "Primary Kitchen",
-      "startMs": 1783530000000,
-      "endMs": 1783548000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1783548000000,
-      "endMs": 1783562400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Delgato\u2019s Dozens",
       "space": "Primary Kitchen",
@@ -119,6 +91,20 @@
       "space": "Primary Kitchen",
       "startMs": 1784023200000,
       "endMs": 1784044800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1784109600000,
+      "endMs": 1784124000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1784152800000,
+      "endMs": 1784167200000,
       "color": "#A45EBF"
     }
   ]
