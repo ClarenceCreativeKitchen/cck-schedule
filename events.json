@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T20:23:08.601597+00:00",
+  "fetchedAt": "2026-07-10T20:24:11.236813+00:00",
   "windowStart": "2026-07-09T00:00:00-04:00",
   "events": [
     {
@@ -98,6 +98,13 @@
       "space": "Primary Kitchen",
       "startMs": 1784109600000,
       "endMs": 1784124000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "The Bookmark Bakery LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1784124000000,
+      "endMs": 1784138400000,
       "color": "#A45EBF"
     },
     {
