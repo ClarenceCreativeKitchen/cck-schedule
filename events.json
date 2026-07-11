@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-11T13:59:23.824766+00:00",
+  "fetchedAt": "2026-07-11T14:00:21.987370+00:00",
   "windowStart": "2026-07-10T00:00:00-04:00",
   "events": [
     {
@@ -49,6 +49,13 @@
       "space": "Primary Kitchen",
       "startMs": 1783774800000,
       "endMs": 1783785600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1783850400000,
+      "endMs": 1783872000000,
       "color": "#A45EBF"
     },
     {
