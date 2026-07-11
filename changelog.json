@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-07-11T21:09:09.486478+00:00",
+    "type": "added",
+    "description": "Booking added: Delgato\u2019s Dozens (Thu Jul 16 12:00 PM \u2013 Thu Jul 16 4:30 PM)",
+    "event": {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1784217600000,
+      "endMs": 1784233800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-07-11T21:09:09.486478+00:00",
+    "type": "removed",
+    "description": "Booking removed: Delgato\u2019s Dozens (Thu Jul 16 12:00 PM \u2013 Thu Jul 16 4:00 PM)",
+    "event": {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1784217600000,
+      "endMs": 1784232000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-07-10T20:24:11.236813+00:00",
     "type": "added",
     "description": "Booking added: The Bookmark Bakery LLC (Wed Jul 15 10:00 AM \u2013 Wed Jul 15 2:00 PM)",
