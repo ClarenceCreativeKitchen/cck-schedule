@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-07-11T03:59:08.508792+00:00",
-  "windowStart": "2026-07-09T00:00:00-04:00",
+  "fetchedAt": "2026-07-11T04:00:20.949613+00:00",
+  "windowStart": "2026-07-10T00:00:00-04:00",
   "events": [
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1783612800000,
-      "endMs": 1783627200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1783634400000,
-      "endMs": 1783648800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Hungry Bee",
-      "space": "Primary Kitchen",
-      "startMs": 1783648800000,
-      "endMs": 1783656000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -112,6 +91,20 @@
       "space": "Primary Kitchen",
       "startMs": 1784152800000,
       "endMs": 1784167200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1784217600000,
+      "endMs": 1784232000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1784239200000,
+      "endMs": 1784253600000,
       "color": "#A45EBF"
     }
   ]
