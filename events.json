@@ -1,42 +1,7 @@
 {
-  "fetchedAt": "2026-07-12T03:59:07.252969+00:00",
-  "windowStart": "2026-07-10T00:00:00-04:00",
+  "fetchedAt": "2026-07-12T04:00:23.921151+00:00",
+  "windowStart": "2026-07-11T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1783677600000,
-      "endMs": 1783699200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sweet Ren LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1783702800000,
-      "endMs": 1783713600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1783713600000,
-      "endMs": 1783724400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1783724400000,
-      "endMs": 1783737000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Milk Tearapy",
-      "space": "Primary Kitchen",
-      "startMs": 1783737000000,
-      "endMs": 1783742400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Milk Tearapy",
       "space": "Primary Kitchen",
@@ -105,6 +70,41 @@
       "space": "Primary Kitchen",
       "startMs": 1784239200000,
       "endMs": 1784253600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1784282400000,
+      "endMs": 1784304000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sweet Ren LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1784307600000,
+      "endMs": 1784318400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "The Divided Cup",
+      "space": "Primary Kitchen",
+      "startMs": 1784318400000,
+      "endMs": 1784329200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Momma's Soft Pretzels",
+      "space": "Primary Kitchen",
+      "startMs": 1784329200000,
+      "endMs": 1784331000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1784331000000,
+      "endMs": 1784341800000,
       "color": "#A45EBF"
     }
   ]
