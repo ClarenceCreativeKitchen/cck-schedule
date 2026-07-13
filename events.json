@@ -1,14 +1,7 @@
 {
-  "fetchedAt": "2026-07-13T06:58:09.836048+00:00",
+  "fetchedAt": "2026-07-13T06:59:24.341094+00:00",
   "windowStart": "2026-07-12T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1783850400000,
-      "endMs": 1783872000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Papa's BBQ",
       "space": "Primary Kitchen",
