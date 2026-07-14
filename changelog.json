@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-07-14T16:19:11.340820+00:00",
+    "type": "added",
+    "description": "Booking added: Natalies Tamales (Thu Jul 16 8:00 AM \u2013 Thu Jul 16 11:00 AM)",
+    "event": {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1784203200000,
+      "endMs": 1784214000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-07-14T15:24:12.740112+00:00",
     "type": "added",
     "description": "Booking added: Delgato\u2019s Dozens (Fri Jul 17 7:30 PM \u2013 Fri Jul 17 11:00 PM)",
