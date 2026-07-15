@@ -1,14 +1,7 @@
 {
-  "fetchedAt": "2026-07-15T03:59:10.649740+00:00",
-  "windowStart": "2026-07-13T00:00:00-04:00",
+  "fetchedAt": "2026-07-15T04:00:27.707338+00:00",
+  "windowStart": "2026-07-14T00:00:00-04:00",
   "events": [
-    {
-      "title": "Papa's BBQ",
-      "space": "Primary Kitchen",
-      "startMs": 1783947600000,
-      "endMs": 1783954800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -133,6 +126,13 @@
       "space": "Primary Kitchen",
       "startMs": 1784455200000,
       "endMs": 1784476800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Momma's Soft Pretzels",
+      "space": "Primary Kitchen",
+      "startMs": 1784552400000,
+      "endMs": 1784566800000,
       "color": "#A45EBF"
     }
   ]
