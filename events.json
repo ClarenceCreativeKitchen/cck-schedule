@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-17T01:38:11.368161+00:00",
+  "fetchedAt": "2026-07-17T01:39:08.266243+00:00",
   "windowStart": "2026-07-15T00:00:00-04:00",
   "events": [
     {
@@ -119,6 +119,13 @@
       "space": "Primary Kitchen",
       "startMs": 1784552400000,
       "endMs": 1784566800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Daughter\u2019s Dumplings LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1784577600000,
+      "endMs": 1784592000000,
       "color": "#A45EBF"
     },
     {
