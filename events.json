@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-07-17T03:59:11.110867+00:00",
-  "windowStart": "2026-07-15T00:00:00-04:00",
+  "fetchedAt": "2026-07-17T04:00:16.879359+00:00",
+  "windowStart": "2026-07-16T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1784109600000,
-      "endMs": 1784124000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "The Bookmark Bakery LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1784124000000,
-      "endMs": 1784138400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1784152800000,
-      "endMs": 1784167200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "PNM Foods",
-      "space": "Primary Kitchen",
-      "startMs": 1784167200000,
-      "endMs": 1784174400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Natalies Tamales",
       "space": "Primary Kitchen",
@@ -133,6 +105,27 @@
       "space": "Primary Kitchen",
       "startMs": 1784628000000,
       "endMs": 1784649600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1784714400000,
+      "endMs": 1784728800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1784746800000,
+      "endMs": 1784754000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1784757600000,
+      "endMs": 1784772000000,
       "color": "#A45EBF"
     }
   ]
