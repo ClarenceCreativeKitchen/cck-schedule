@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-18T08:51:10.284274+00:00",
+  "fetchedAt": "2026-07-18T08:52:10.136420+00:00",
   "windowStart": "2026-07-17T00:00:00-04:00",
   "events": [
     {
@@ -35,6 +35,13 @@
       "space": "Primary Kitchen",
       "startMs": 1784331000000,
       "endMs": 1784343600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Hungry Bee",
+      "space": "Primary Kitchen",
+      "startMs": 1784368800000,
+      "endMs": 1784376000000,
       "color": "#A45EBF"
     },
     {
