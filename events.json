@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-07-18T03:59:07.604666+00:00",
-  "windowStart": "2026-07-16T00:00:00-04:00",
+  "fetchedAt": "2026-07-18T04:00:11.878410+00:00",
+  "windowStart": "2026-07-17T00:00:00-04:00",
   "events": [
-    {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1784203200000,
-      "endMs": 1784215800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1784217600000,
-      "endMs": 1784233800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1784239200000,
-      "endMs": 1784253600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -126,6 +105,20 @@
       "space": "Primary Kitchen",
       "startMs": 1784757600000,
       "endMs": 1784772000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1784808000000,
+      "endMs": 1784829600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1784844000000,
+      "endMs": 1784858400000,
       "color": "#A45EBF"
     }
   ]
