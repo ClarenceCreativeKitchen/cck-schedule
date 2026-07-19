@@ -1,42 +1,7 @@
 {
-  "fetchedAt": "2026-07-19T03:59:10.439301+00:00",
-  "windowStart": "2026-07-17T00:00:00-04:00",
+  "fetchedAt": "2026-07-19T04:00:15.463038+00:00",
+  "windowStart": "2026-07-18T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1784282400000,
-      "endMs": 1784304000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sweet Ren LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1784307600000,
-      "endMs": 1784318400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1784318400000,
-      "endMs": 1784329200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Momma's Soft Pretzels",
-      "space": "Primary Kitchen",
-      "startMs": 1784329200000,
-      "endMs": 1784331000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1784331000000,
-      "endMs": 1784343600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Hungry Bee",
       "space": "Primary Kitchen",
@@ -126,6 +91,27 @@
       "space": "Primary Kitchen",
       "startMs": 1784844000000,
       "endMs": 1784858400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1784887200000,
+      "endMs": 1784908800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sugar Baby Waffle Company",
+      "space": "Primary Kitchen",
+      "startMs": 1784910600000,
+      "endMs": 1784925000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Hold",
+      "space": "Primary Kitchen",
+      "startMs": 1784925000000,
+      "endMs": 1784939400000,
       "color": "#A45EBF"
     }
   ]
