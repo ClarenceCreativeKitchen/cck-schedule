@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-07-20T03:59:09.550018+00:00",
-  "windowStart": "2026-07-18T00:00:00-04:00",
+  "fetchedAt": "2026-07-20T04:00:16.299473+00:00",
+  "windowStart": "2026-07-19T00:00:00-04:00",
   "events": [
-    {
-      "title": "Hungry Bee",
-      "space": "Primary Kitchen",
-      "startMs": 1784368800000,
-      "endMs": 1784376000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Paillies Sweet Sips LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1784376000000,
-      "endMs": 1784377800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1784379600000,
-      "endMs": 1784390400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Momma's Soft Pretzels",
-      "space": "Primary Kitchen",
-      "startMs": 1784412000000,
-      "endMs": 1784415600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -119,6 +91,20 @@
       "space": "Primary Kitchen",
       "startMs": 1784925000000,
       "endMs": 1784939400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1784984400000,
+      "endMs": 1784995200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Element Catering LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1784995200000,
+      "endMs": 1785009600000,
       "color": "#A45EBF"
     }
   ]
