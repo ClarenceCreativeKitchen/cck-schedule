@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-21T02:21:07.238971+00:00",
+  "fetchedAt": "2026-07-21T02:22:26.126612+00:00",
   "windowStart": "2026-07-19T00:00:00-04:00",
   "events": [
     {
@@ -7,20 +7,6 @@
       "space": "Primary Kitchen",
       "startMs": 1784455200000,
       "endMs": 1784476800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Momma's Soft Pretzels",
-      "space": "Primary Kitchen",
-      "startMs": 1784552400000,
-      "endMs": 1784568600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Daughter\u2019s Dumplings LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1784577600000,
-      "endMs": 1784592000000,
       "color": "#A45EBF"
     },
     {
