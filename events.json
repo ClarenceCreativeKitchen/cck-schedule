@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-07-22T03:59:08.889933+00:00",
-  "windowStart": "2026-07-20T00:00:00-04:00",
+  "fetchedAt": "2026-07-22T04:00:14.611864+00:00",
+  "windowStart": "2026-07-21T00:00:00-04:00",
   "events": [
-    {
-      "title": "Momma's Soft Pretzels",
-      "space": "Primary Kitchen",
-      "startMs": 1784552400000,
-      "endMs": 1784568600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Daughter\u2019s Dumplings LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1784577600000,
-      "endMs": 1784592000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -105,6 +91,20 @@
       "space": "Primary Kitchen",
       "startMs": 1785060000000,
       "endMs": 1785081600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Papa's BBQ",
+      "space": "Primary Kitchen",
+      "startMs": 1785157200000,
+      "endMs": 1785164400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Heritage Kaphi",
+      "space": "Primary Kitchen",
+      "startMs": 1785189600000,
+      "endMs": 1785204000000,
       "color": "#A45EBF"
     }
   ]
