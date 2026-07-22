@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-07-22T17:44:14.641188+00:00",
+    "type": "added",
+    "description": "Booking added: Colibr\u00ed Panader\u00eda (Wed Jul 22 4:00 PM \u2013 Wed Jul 22 6:00 PM)",
+    "event": {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1784750400000,
+      "endMs": 1784757600000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-07-22T17:44:14.641188+00:00",
+    "type": "removed",
+    "description": "Booking removed: Colibr\u00ed Panader\u00eda (Wed Jul 22 3:00 PM \u2013 Wed Jul 22 5:00 PM)",
+    "event": {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1784746800000,
+      "endMs": 1784754000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-07-20T18:07:11.970971+00:00",
     "type": "added",
     "description": "Booking added: Momma's Soft Pretzels (Mon Jul 20 9:00 AM \u2013 Mon Jul 20 1:30 PM)",
@@ -2372,30 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1777921200000,
       "endMs": 1777932000000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-03T15:06:09.115722+00:00",
-    "type": "added",
-    "description": "Booking added: BowlsRx (Tue May 05 4:30 PM \u2013 Tue May 05 8:30 PM)",
-    "event": {
-      "title": "BowlsRx",
-      "space": "Primary Kitchen",
-      "startMs": 1778013000000,
-      "endMs": 1778027400000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-03T13:33:08.888134+00:00",
-    "type": "added",
-    "description": "Booking added: Great Lakes Dried Fruit (Sun May 03 6:00 PM \u2013 Sun May 03 8:00 PM)",
-    "event": {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1777845600000,
-      "endMs": 1777852800000,
       "color": "#A45EBF"
     }
   }
