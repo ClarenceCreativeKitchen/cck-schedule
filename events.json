@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-23T23:27:08.308755+00:00",
+  "fetchedAt": "2026-07-23T23:28:18.353891+00:00",
   "windowStart": "2026-07-22T00:00:00-04:00",
   "events": [
     {
@@ -21,27 +21,6 @@
       "space": "Primary Kitchen",
       "startMs": 1784757600000,
       "endMs": 1784772000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Colibr\u00ed Panader\u00eda",
-      "space": "Primary Kitchen",
-      "startMs": 1784808000000,
-      "endMs": 1784829600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1784829600000,
-      "endMs": 1784840400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1784844000000,
-      "endMs": 1784858400000,
       "color": "#A45EBF"
     },
     {
