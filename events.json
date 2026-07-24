@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-07-24T03:59:10.618026+00:00",
-  "windowStart": "2026-07-22T00:00:00-04:00",
+  "fetchedAt": "2026-07-24T04:00:15.666243+00:00",
+  "windowStart": "2026-07-23T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1784714400000,
-      "endMs": 1784728800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Colibr\u00ed Panader\u00eda",
-      "space": "Primary Kitchen",
-      "startMs": 1784750400000,
-      "endMs": 1784757600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1784757600000,
-      "endMs": 1784772000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Colibr\u00ed Panader\u00eda",
       "space": "Primary Kitchen",
@@ -105,6 +84,27 @@
       "space": "Primary Kitchen",
       "startMs": 1785232800000,
       "endMs": 1785254400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1785319200000,
+      "endMs": 1785333600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Mothers Hands",
+      "space": "Primary Kitchen",
+      "startMs": 1785344400000,
+      "endMs": 1785358800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1785362400000,
+      "endMs": 1785376800000,
       "color": "#A45EBF"
     }
   ]
