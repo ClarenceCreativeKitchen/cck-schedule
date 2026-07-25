@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-25T17:21:08.161334+00:00",
+  "fetchedAt": "2026-07-25T17:22:08.226422+00:00",
   "windowStart": "2026-07-24T00:00:00-04:00",
   "events": [
     {
@@ -35,6 +35,13 @@
       "space": "Primary Kitchen",
       "startMs": 1784995200000,
       "endMs": 1785009600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Hold",
+      "space": "Primary Kitchen",
+      "startMs": 1785009600000,
+      "endMs": 1785020400000,
       "color": "#A45EBF"
     },
     {
