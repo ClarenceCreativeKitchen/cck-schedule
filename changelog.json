@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-07-25T01:17:13.244592+00:00",
+    "type": "added",
+    "description": "Booking added: Natalies Tamales (Wed Jul 29 10:00 PM \u2013 Thu Jul 30 12:00 AM)",
+    "event": {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1785376800000,
+      "endMs": 1785384000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-07-22T17:44:14.641188+00:00",
     "type": "added",
     "description": "Booking added: Colibr\u00ed Panader\u00eda (Wed Jul 22 4:00 PM \u2013 Wed Jul 22 6:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1777914000000,
       "endMs": 1777921200000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-03T15:33:13.128070+00:00",
-    "type": "added",
-    "description": "Booking added: EasyMeals (Mon May 04 3:00 PM \u2013 Mon May 04 6:00 PM)",
-    "event": {
-      "title": "EasyMeals",
-      "space": "Primary Kitchen",
-      "startMs": 1777921200000,
-      "endMs": 1777932000000,
       "color": "#A45EBF"
     }
   }
