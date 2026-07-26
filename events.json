@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-26T19:19:11.051727+00:00",
+  "fetchedAt": "2026-07-26T19:20:12.542578+00:00",
   "windowStart": "2026-07-25T00:00:00-04:00",
   "events": [
     {
@@ -49,6 +49,13 @@
       "space": "Primary Kitchen",
       "startMs": 1785232800000,
       "endMs": 1785254400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1785254400000,
+      "endMs": 1785258000000,
       "color": "#A45EBF"
     },
     {

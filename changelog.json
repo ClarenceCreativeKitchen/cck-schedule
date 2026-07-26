@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-07-26T19:20:12.542578+00:00",
+    "type": "added",
+    "description": "Booking added: Vinegars Etc (Tue Jul 28 12:00 PM \u2013 Tue Jul 28 1:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1785254400000,
+      "endMs": 1785258000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-07-25T17:22:08.226422+00:00",
     "type": "added",
     "description": "Booking added: Hold (Sat Jul 25 4:00 PM \u2013 Sat Jul 25 7:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1778151600000,
       "endMs": 1778158800000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-04T00:57:08.983910+00:00",
-    "type": "added",
-    "description": "Booking added: Vinegars Etc (Wed May 06 2:00 PM \u2013 Wed May 06 4:00 PM)",
-    "event": {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1778090400000,
-      "endMs": 1778097600000,
       "color": "#A45EBF"
     }
   }
