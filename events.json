@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-07-26T03:59:11.736140+00:00",
-  "windowStart": "2026-07-24T00:00:00-04:00",
+  "fetchedAt": "2026-07-26T04:00:15.650695+00:00",
+  "windowStart": "2026-07-25T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1784887200000,
-      "endMs": 1784908800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sugar Baby Waffle Company",
-      "space": "Primary Kitchen",
-      "startMs": 1784910600000,
-      "endMs": 1784925000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Hold",
-      "space": "Primary Kitchen",
-      "startMs": 1784925000000,
-      "endMs": 1784939400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "BTBW",
       "space": "Primary Kitchen",
@@ -126,6 +105,34 @@
       "space": "Primary Kitchen",
       "startMs": 1785448800000,
       "endMs": 1785463200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1785492000000,
+      "endMs": 1785513600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sweet Ren LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1785517200000,
+      "endMs": 1785526200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Heritage Kaphi",
+      "space": "Primary Kitchen",
+      "startMs": 1785528000000,
+      "endMs": 1785537000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1785538800000,
+      "endMs": 1785551400000,
       "color": "#A45EBF"
     }
   ]
