@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-07-26T20:22:08.922295+00:00",
+    "type": "added",
+    "description": "Booking added: PNM Foods (Tue Jul 28 6:00 PM \u2013 Tue Jul 28 9:00 PM)",
+    "event": {
+      "title": "PNM Foods",
+      "space": "Primary Kitchen",
+      "startMs": 1785276000000,
+      "endMs": 1785286800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-07-26T20:21:07.846248+00:00",
     "type": "added",
     "description": "Booking added: PNM Foods (Tue Jul 28 3:00 PM \u2013 Tue Jul 28 5:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1777921200000,
       "endMs": 1777928400000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-04T18:19:09.927150+00:00",
-    "type": "removed",
-    "description": "Booking removed: EasyMeals (Mon May 04 3:00 PM \u2013 Mon May 04 6:00 PM)",
-    "event": {
-      "title": "EasyMeals",
-      "space": "Primary Kitchen",
-      "startMs": 1777921200000,
-      "endMs": 1777932000000,
       "color": "#A45EBF"
     }
   }
