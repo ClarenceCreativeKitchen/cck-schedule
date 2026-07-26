@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-26T17:17:22.962107+00:00",
+  "fetchedAt": "2026-07-26T17:18:11.928800+00:00",
   "windowStart": "2026-07-25T00:00:00-04:00",
   "events": [
     {
@@ -28,6 +28,20 @@
       "space": "Primary Kitchen",
       "startMs": 1785060000000,
       "endMs": 1785081600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Papa's BBQ",
+      "space": "Primary Kitchen",
+      "startMs": 1785157200000,
+      "endMs": 1785164400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Heritage Kaphi",
+      "space": "Primary Kitchen",
+      "startMs": 1785189600000,
+      "endMs": 1785204000000,
       "color": "#A45EBF"
     },
     {
