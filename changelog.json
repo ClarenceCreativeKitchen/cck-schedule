@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-07-26T19:25:11.245567+00:00",
+    "type": "removed",
+    "description": "Booking removed: Vinegars Etc (Sun Jul 26 5:00 PM \u2013 Sun Jul 26 7:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1785099600000,
+      "endMs": 1785106800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-07-26T19:24:10.761352+00:00",
     "type": "added",
     "description": "Booking added: Vinegars Etc (Thu Jul 30 5:00 PM \u2013 Thu Jul 30 6:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1778158800000,
       "endMs": 1778169600000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-04T14:10:17.030785+00:00",
-    "type": "added",
-    "description": "Booking added: Delgato\u2019s Dozens (Thu May 07 8:00 PM \u2013 Fri May 08 12:00 AM)",
-    "event": {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1778198400000,
-      "endMs": 1778212800000,
       "color": "#A45EBF"
     }
   }
