@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-27T20:33:08.172243+00:00",
+  "fetchedAt": "2026-07-27T20:34:10.404289+00:00",
   "windowStart": "2026-07-26T00:00:00-04:00",
   "events": [
     {
@@ -14,13 +14,6 @@
       "space": "Primary Kitchen",
       "startMs": 1785157200000,
       "endMs": 1785164400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Heritage Kaphi",
-      "space": "Primary Kitchen",
-      "startMs": 1785189600000,
-      "endMs": 1785204000000,
       "color": "#A45EBF"
     },
     {
