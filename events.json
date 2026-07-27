@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-07-27T03:59:08.142471+00:00",
-  "windowStart": "2026-07-25T00:00:00-04:00",
+  "fetchedAt": "2026-07-27T04:00:16.416640+00:00",
+  "windowStart": "2026-07-26T00:00:00-04:00",
   "events": [
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1784984400000,
-      "endMs": 1784995200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Element Catering LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1784995200000,
-      "endMs": 1785009600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Hold",
-      "space": "Primary Kitchen",
-      "startMs": 1785009600000,
-      "endMs": 1785020400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -168,6 +147,13 @@
       "space": "Primary Kitchen",
       "startMs": 1785538800000,
       "endMs": 1785551400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1785589200000,
+      "endMs": 1785600000000,
       "color": "#A45EBF"
     }
   ]
