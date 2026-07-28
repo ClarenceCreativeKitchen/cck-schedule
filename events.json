@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-28T22:17:10.834824+00:00",
+  "fetchedAt": "2026-07-28T22:18:10.025443+00:00",
   "windowStart": "2026-07-27T00:00:00-04:00",
   "events": [
     {
@@ -140,20 +140,6 @@
       "space": "Primary Kitchen",
       "startMs": 1785538800000,
       "endMs": 1785551400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1785589200000,
-      "endMs": 1785600000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "PNM Foods",
-      "space": "Primary Kitchen",
-      "startMs": 1785610800000,
-      "endMs": 1785621600000,
       "color": "#A45EBF"
     },
     {
