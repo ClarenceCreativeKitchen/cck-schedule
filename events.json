@@ -1,14 +1,7 @@
 {
-  "fetchedAt": "2026-07-28T03:59:13.815374+00:00",
-  "windowStart": "2026-07-26T00:00:00-04:00",
+  "fetchedAt": "2026-07-28T04:00:20.141915+00:00",
+  "windowStart": "2026-07-27T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1785060000000,
-      "endMs": 1785081600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Papa's BBQ",
       "space": "Primary Kitchen",
@@ -154,6 +147,27 @@
       "space": "Primary Kitchen",
       "startMs": 1785610800000,
       "endMs": 1785621600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1785664800000,
+      "endMs": 1785686400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sabor Criollo y mas",
+      "space": "Primary Kitchen",
+      "startMs": 1785686400000,
+      "endMs": 1785708000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Hold of Taste of Clarence",
+      "space": "Primary Kitchen",
+      "startMs": 1785708000000,
+      "endMs": 1785729600000,
       "color": "#A45EBF"
     }
   ]
