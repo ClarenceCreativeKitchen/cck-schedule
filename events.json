@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-29T16:35:16.019288+00:00",
+  "fetchedAt": "2026-07-29T16:36:18.306456+00:00",
   "windowStart": "2026-07-28T00:00:00-04:00",
   "events": [
     {
@@ -49,13 +49,6 @@
       "space": "Primary Kitchen",
       "startMs": 1785333600000,
       "endMs": 1785344400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Mothers Hands",
-      "space": "Primary Kitchen",
-      "startMs": 1785344400000,
-      "endMs": 1785358800000,
       "color": "#A45EBF"
     },
     {
