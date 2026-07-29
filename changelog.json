@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-07-29T15:41:11.808392+00:00",
+    "type": "added",
+    "description": "Booking added: Sabor Criollo y mas (Sat Aug 01 12:00 PM \u2013 Sat Aug 01 2:00 PM)",
+    "event": {
+      "title": "Sabor Criollo y mas",
+      "space": "Primary Kitchen",
+      "startMs": 1785600000000,
+      "endMs": 1785607200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-07-29T14:00:18.303287+00:00",
     "type": "added",
     "description": "Booking added: Hold (Sun Aug 02 12:00 PM \u2013 Sun Aug 02 6:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1778774400000,
       "endMs": 1778781600000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-11T15:18:18.006911+00:00",
-    "type": "added",
-    "description": "Booking added: Great Lakes Dried Fruit (Mon May 11 8:00 AM \u2013 Mon May 11 1:00 PM)",
-    "event": {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1778500800000,
-      "endMs": 1778518800000,
       "color": "#A45EBF"
     }
   }
