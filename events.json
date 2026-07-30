@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T18:06:16.496023+00:00",
+  "fetchedAt": "2026-07-30T18:07:11.196203+00:00",
   "windowStart": "2026-07-29T00:00:00-04:00",
   "events": [
     {
@@ -59,34 +59,6 @@
       "color": "#A45EBF"
     },
     {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1785492000000,
-      "endMs": 1785513600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sweet Ren LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1785517200000,
-      "endMs": 1785526200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Heritage Kaphi",
-      "space": "Primary Kitchen",
-      "startMs": 1785528000000,
-      "endMs": 1785537000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1785538800000,
-      "endMs": 1785551400000,
-      "color": "#A45EBF"
-    },
-    {
       "title": "BTBW",
       "space": "Primary Kitchen",
       "startMs": 1785589200000,
@@ -126,13 +98,6 @@
       "space": "Primary Kitchen",
       "startMs": 1785708000000,
       "endMs": 1785729600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Blocked for Taste of Clarence Prep",
-      "space": "Primary Kitchen",
-      "startMs": 1785729600000,
-      "endMs": 1785816000000,
       "color": "#A45EBF"
     },
     {
