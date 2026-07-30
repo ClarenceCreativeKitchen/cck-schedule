@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T04:00:34.068104+00:00",
+  "fetchedAt": "2026-07-30T04:01:10.810489+00:00",
   "windowStart": "2026-07-29T00:00:00-04:00",
   "events": [
     {
@@ -133,6 +133,20 @@
       "space": "Primary Kitchen",
       "startMs": 1785729600000,
       "endMs": 1785816000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1785837600000,
+      "endMs": 1785859200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Heritage Kaphi",
+      "space": "Primary Kitchen",
+      "startMs": 1785884400000,
+      "endMs": 1785895200000,
       "color": "#A45EBF"
     }
   ]
