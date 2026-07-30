@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T13:55:12.550954+00:00",
+  "fetchedAt": "2026-07-30T13:56:16.051744+00:00",
   "windowStart": "2026-07-29T00:00:00-04:00",
   "events": [
     {
@@ -115,14 +115,14 @@
       "color": "#A45EBF"
     },
     {
-      "title": "Hold",
+      "title": "Hold Taste of Clarence Prep",
       "space": "Primary Kitchen",
       "startMs": 1785686400000,
       "endMs": 1785708000000,
       "color": "#A45EBF"
     },
     {
-      "title": "Hold of Taste of Clarence",
+      "title": "Hold for Taste of Clarence",
       "space": "Primary Kitchen",
       "startMs": 1785708000000,
       "endMs": 1785729600000,
