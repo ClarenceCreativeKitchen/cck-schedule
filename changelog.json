@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-07-31T19:29:16.152875+00:00",
+    "type": "added",
+    "description": "Booking added: Sabor Criollo y mas (Sat Aug 01 12:00 PM \u2013 Sat Aug 01 3:00 PM)",
+    "event": {
+      "title": "Sabor Criollo y mas",
+      "space": "Primary Kitchen",
+      "startMs": 1785600000000,
+      "endMs": 1785610800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-07-31T19:29:16.152875+00:00",
+    "type": "removed",
+    "description": "Booking removed: Sabor Criollo y mas (Sat Aug 01 12:00 PM \u2013 Sat Aug 01 2:00 PM)",
+    "event": {
+      "title": "Sabor Criollo y mas",
+      "space": "Primary Kitchen",
+      "startMs": 1785600000000,
+      "endMs": 1785607200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-07-30T13:56:16.051744+00:00",
     "type": "added",
     "description": "Booking added: Hold Taste of Clarence Prep (Sun Aug 02 12:00 PM \u2013 Sun Aug 02 6:00 PM)",
@@ -2372,30 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1778772600000,
       "endMs": 1778774400000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-13T17:02:23.224087+00:00",
-    "type": "added",
-    "description": "Booking added: BowlsRx (Thu May 14 6:30 PM \u2013 Thu May 14 10:30 PM)",
-    "event": {
-      "title": "BowlsRx",
-      "space": "Primary Kitchen",
-      "startMs": 1778797800000,
-      "endMs": 1778812200000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-13T16:55:23.361901+00:00",
-    "type": "added",
-    "description": "Booking added: BowlsRx (Wed May 13 12:00 PM \u2013 Wed May 13 1:00 PM)",
-    "event": {
-      "title": "BowlsRx",
-      "space": "Primary Kitchen",
-      "startMs": 1778688000000,
-      "endMs": 1778691600000,
       "color": "#A45EBF"
     }
   }

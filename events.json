@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-31T19:26:18.286158+00:00",
+  "fetchedAt": "2026-07-31T19:29:16.152875+00:00",
   "windowStart": "2026-07-30T00:00:00-04:00",
   "events": [
     {
@@ -69,7 +69,7 @@
       "title": "Sabor Criollo y mas",
       "space": "Primary Kitchen",
       "startMs": 1785600000000,
-      "endMs": 1785607200000,
+      "endMs": 1785610800000,
       "color": "#A45EBF"
     },
     {
