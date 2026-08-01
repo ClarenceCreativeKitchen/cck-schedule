@@ -1,5 +1,125 @@
 {
-  "fetchedAt": "2026-08-01T08:59:16.235941+00:00",
+  "fetchedAt": "2026-08-01T09:00:15.908353+00:00",
   "windowStart": "2026-07-31T00:00:00-04:00",
-  "events": []
+  "events": [
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1785492000000,
+      "endMs": 1785513600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sweet Ren LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1785517200000,
+      "endMs": 1785526200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Heritage Kaphi",
+      "space": "Primary Kitchen",
+      "startMs": 1785528000000,
+      "endMs": 1785537000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1785538800000,
+      "endMs": 1785551400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1785589200000,
+      "endMs": 1785600000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sabor Criollo y mas",
+      "space": "Primary Kitchen",
+      "startMs": 1785600000000,
+      "endMs": 1785610800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "PNM Foods",
+      "space": "Primary Kitchen",
+      "startMs": 1785610800000,
+      "endMs": 1785621600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1785664800000,
+      "endMs": 1785686400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Hold Taste of Clarence Prep",
+      "space": "Primary Kitchen",
+      "startMs": 1785686400000,
+      "endMs": 1785708000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Hold for Taste of Clarence",
+      "space": "Primary Kitchen",
+      "startMs": 1785708000000,
+      "endMs": 1785729600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Blocked for Taste of Clarence Prep",
+      "space": "Primary Kitchen",
+      "startMs": 1785729600000,
+      "endMs": 1785816000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1785837600000,
+      "endMs": 1785859200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Heritage Kaphi",
+      "space": "Primary Kitchen",
+      "startMs": 1785884400000,
+      "endMs": 1785895200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1785924000000,
+      "endMs": 1785938400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Heritage Kaphi",
+      "space": "Primary Kitchen",
+      "startMs": 1785967200000,
+      "endMs": 1785981600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1786032000000,
+      "endMs": 1786046400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1786053600000,
+      "endMs": 1786068000000,
+      "color": "#A45EBF"
+    }
+  ]
 }
