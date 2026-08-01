@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-08-01T03:59:10.972201+00:00",
-  "windowStart": "2026-07-30T00:00:00-04:00",
+  "fetchedAt": "2026-08-01T04:00:15.409651+00:00",
+  "windowStart": "2026-07-31T00:00:00-04:00",
   "events": [
-    {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1785384000000,
-      "endMs": 1785387600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sabor Criollo y mas",
-      "space": "Primary Kitchen",
-      "startMs": 1785405600000,
-      "endMs": 1785427200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1785427200000,
-      "endMs": 1785441600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1785448800000,
-      "endMs": 1785463200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -133,6 +105,20 @@
       "space": "Primary Kitchen",
       "startMs": 1785967200000,
       "endMs": 1785981600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1786032000000,
+      "endMs": 1786046400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1786053600000,
+      "endMs": 1786068000000,
       "color": "#A45EBF"
     }
   ]
