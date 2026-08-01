@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-01T15:14:12.115169+00:00",
+  "fetchedAt": "2026-08-01T15:15:10.495927+00:00",
   "windowStart": "2026-07-31T00:00:00-04:00",
   "events": [
     {
@@ -49,6 +49,20 @@
       "space": "Primary Kitchen",
       "startMs": 1785610800000,
       "endMs": 1785621600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Soulfully Sweet Treats by Ashley",
+      "space": "Primary Kitchen",
+      "startMs": 1785632400000,
+      "endMs": 1785643200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Soulfully Sweet Treats by Ashley",
+      "space": "Primary Kitchen",
+      "startMs": 1785643200000,
+      "endMs": 1785646800000,
       "color": "#A45EBF"
     },
     {
