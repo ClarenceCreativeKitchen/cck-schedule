@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-08-02T03:59:14.546161+00:00",
-  "windowStart": "2026-07-31T00:00:00-04:00",
+  "fetchedAt": "2026-08-02T04:00:16.380025+00:00",
+  "windowStart": "2026-08-01T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1785492000000,
-      "endMs": 1785513600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sweet Ren LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1785517200000,
-      "endMs": 1785526200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Heritage Kaphi",
-      "space": "Primary Kitchen",
-      "startMs": 1785528000000,
-      "endMs": 1785537000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1785538800000,
-      "endMs": 1785551400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "BTBW",
       "space": "Primary Kitchen",
@@ -140,6 +112,27 @@
       "space": "Primary Kitchen",
       "startMs": 1786053600000,
       "endMs": 1786068000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1786096800000,
+      "endMs": 1786118400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sweet Ren LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1786122000000,
+      "endMs": 1786134600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1786143600000,
+      "endMs": 1786156200000,
       "color": "#A45EBF"
     }
   ]
