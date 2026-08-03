@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-08-03T14:26:09.438373+00:00",
+  "fetchedAt": "2026-08-03T14:27:30.013300+00:00",
   "windowStart": "2026-08-02T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1785664800000,
-      "endMs": 1785686400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Hold Taste of Clarence Prep",
-      "space": "Primary Kitchen",
-      "startMs": 1785686400000,
-      "endMs": 1785708000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Hold for Taste of Clarence",
-      "space": "Primary Kitchen",
-      "startMs": 1785708000000,
-      "endMs": 1785729600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Blocked for Taste of Clarence Prep",
       "space": "Primary Kitchen",
