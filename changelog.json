@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-08-04T18:33:09.001967+00:00",
+    "type": "added",
+    "description": "Booking added: Hold for Heritage Kalphi (Thu Aug 06 10:00 PM \u2013 Fri Aug 07 12:00 AM)",
+    "event": {
+      "title": "Hold for Heritage Kalphi",
+      "space": "Primary Kitchen",
+      "startMs": 1786068000000,
+      "endMs": 1786075200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-08-04T18:33:09.001967+00:00",
+    "type": "added",
+    "description": "Booking added: Hold for Heritage Kalphi (Fri Aug 07 12:00 AM \u2013 Fri Aug 07 4:00 AM)",
+    "event": {
+      "title": "Hold for Heritage Kalphi",
+      "space": "Primary Kitchen",
+      "startMs": 1786075200000,
+      "endMs": 1786089600000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-08-03T17:46:11.268300+00:00",
     "type": "added",
     "description": "Booking added: Momma's Soft Pretzels (Tue Aug 04 4:00 AM \u2013 Tue Aug 04 6:00 AM)",
@@ -2372,30 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1779393600000,
       "endMs": 1779399000000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-20T20:30:12.952679+00:00",
-    "type": "added",
-    "description": "Booking added: Vinegars Etc (Mon May 25 4:00 PM \u2013 Mon May 25 5:00 PM)",
-    "event": {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1779739200000,
-      "endMs": 1779742800000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-20T20:29:08.885430+00:00",
-    "type": "added",
-    "description": "Booking added: Vinegars Etc (Mon May 25 9:30 AM \u2013 Mon May 25 10:30 AM)",
-    "event": {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1779715800000,
-      "endMs": 1779719400000,
       "color": "#A45EBF"
     }
   }
