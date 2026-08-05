@@ -1,14 +1,7 @@
 {
-  "fetchedAt": "2026-08-05T03:59:07.870139+00:00",
-  "windowStart": "2026-08-03T00:00:00-04:00",
+  "fetchedAt": "2026-08-05T04:00:17.811553+00:00",
+  "windowStart": "2026-08-04T00:00:00-04:00",
   "events": [
-    {
-      "title": "Blocked for Taste of Clarence Prep",
-      "space": "Primary Kitchen",
-      "startMs": 1785729600000,
-      "endMs": 1785816000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Momma's Soft Pretzels",
       "space": "Primary Kitchen",
@@ -112,6 +105,20 @@
       "space": "Primary Kitchen",
       "startMs": 1786269600000,
       "endMs": 1786291200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Papa's BBQ",
+      "space": "Primary Kitchen",
+      "startMs": 1786366800000,
+      "endMs": 1786374000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sugar Baby Waffle Company",
+      "space": "Primary Kitchen",
+      "startMs": 1786397400000,
+      "endMs": 1786404600000,
       "color": "#A45EBF"
     }
   ]
