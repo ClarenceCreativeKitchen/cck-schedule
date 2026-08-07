@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-07T18:23:14.290036+00:00",
+  "fetchedAt": "2026-08-07T18:24:30.985015+00:00",
   "windowStart": "2026-08-06T00:00:00-04:00",
   "events": [
     {
@@ -56,20 +56,6 @@
       "space": "Primary Kitchen",
       "startMs": 1786143600000,
       "endMs": 1786156200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1786194000000,
-      "endMs": 1786204800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Global Warming Peppers",
-      "space": "Primary Kitchen",
-      "startMs": 1786208400000,
-      "endMs": 1786226400000,
       "color": "#A45EBF"
     },
     {
