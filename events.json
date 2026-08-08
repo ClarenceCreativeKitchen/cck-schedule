@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-08-08T03:59:09.754193+00:00",
-  "windowStart": "2026-08-06T00:00:00-04:00",
+  "fetchedAt": "2026-08-08T04:00:16.666975+00:00",
+  "windowStart": "2026-08-07T00:00:00-04:00",
   "events": [
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1786032000000,
-      "endMs": 1786046400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1786053600000,
-      "endMs": 1786068000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Hold for Heritage Kalphi",
-      "space": "Primary Kitchen",
-      "startMs": 1786068000000,
-      "endMs": 1786075200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Hold for Heritage Kalphi",
       "space": "Primary Kitchen",
@@ -112,6 +91,34 @@
       "space": "Primary Kitchen",
       "startMs": 1786572000000,
       "endMs": 1786586400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Simply Loaded",
+      "space": "Primary Kitchen",
+      "startMs": 1786624200000,
+      "endMs": 1786631400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1786636800000,
+      "endMs": 1786651200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1786654800000,
+      "endMs": 1786658400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1786658400000,
+      "endMs": 1786672800000,
       "color": "#A45EBF"
     }
   ]
