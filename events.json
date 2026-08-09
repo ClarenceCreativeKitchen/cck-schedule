@@ -1,42 +1,7 @@
 {
-  "fetchedAt": "2026-08-09T03:59:09.928465+00:00",
-  "windowStart": "2026-08-07T00:00:00-04:00",
+  "fetchedAt": "2026-08-09T04:00:20.735066+00:00",
+  "windowStart": "2026-08-08T00:00:00-04:00",
   "events": [
-    {
-      "title": "Hold for Heritage Kalphi",
-      "space": "Primary Kitchen",
-      "startMs": 1786075200000,
-      "endMs": 1786089600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1786096800000,
-      "endMs": 1786118400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sweet Ren LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1786122000000,
-      "endMs": 1786134600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "PNM Foods",
-      "space": "Primary Kitchen",
-      "startMs": 1786134600000,
-      "endMs": 1786143600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1786143600000,
-      "endMs": 1786156200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "BTBW",
       "space": "Primary Kitchen",
@@ -119,6 +84,27 @@
       "space": "Primary Kitchen",
       "startMs": 1786658400000,
       "endMs": 1786672800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1786701600000,
+      "endMs": 1786723200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1786737600000,
+      "endMs": 1786748400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1786748400000,
+      "endMs": 1786761000000,
       "color": "#A45EBF"
     }
   ]
