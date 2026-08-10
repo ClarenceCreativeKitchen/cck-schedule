@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-10T11:01:08.426280+00:00",
+  "fetchedAt": "2026-08-10T11:02:26.433653+00:00",
   "windowStart": "2026-08-09T00:00:00-04:00",
   "events": [
     {
@@ -7,20 +7,6 @@
       "space": "Primary Kitchen",
       "startMs": 1786269600000,
       "endMs": 1786291200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Papa's BBQ",
-      "space": "Primary Kitchen",
-      "startMs": 1786366800000,
-      "endMs": 1786374000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sugar Baby Waffle Company",
-      "space": "Primary Kitchen",
-      "startMs": 1786397400000,
-      "endMs": 1786404600000,
       "color": "#A45EBF"
     },
     {
