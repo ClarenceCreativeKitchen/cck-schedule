@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-08-10T22:28:11.706110+00:00",
+    "type": "added",
+    "description": "Booking added: Daughter\u2019s Dumplings LLC (Tue Aug 11 6:00 PM \u2013 Tue Aug 11 9:00 PM)",
+    "event": {
+      "title": "Daughter\u2019s Dumplings LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1786485600000,
+      "endMs": 1786496400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-08-10T14:53:19.098476+00:00",
     "type": "added",
     "description": "Booking added: Daughter\u2019s Dumplings LLC (Mon Aug 10 1:00 PM \u2013 Mon Aug 10 5:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1779415200000,
       "endMs": 1779418800000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-21T15:51:12.746057+00:00",
-    "type": "added",
-    "description": "Booking added: Vinegars Etc (Tue May 26 2:00 PM \u2013 Tue May 26 4:00 PM)",
-    "event": {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1779818400000,
-      "endMs": 1779825600000,
       "color": "#A45EBF"
     }
   }
