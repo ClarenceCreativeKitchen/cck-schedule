@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-08-10T03:59:09.536106+00:00",
-  "windowStart": "2026-08-08T00:00:00-04:00",
+  "fetchedAt": "2026-08-10T04:00:22.570452+00:00",
+  "windowStart": "2026-08-09T00:00:00-04:00",
   "events": [
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1786194000000,
-      "endMs": 1786204800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Global Warming Peppers",
-      "space": "Primary Kitchen",
-      "startMs": 1786208400000,
-      "endMs": 1786226400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -105,6 +91,20 @@
       "space": "Primary Kitchen",
       "startMs": 1786748400000,
       "endMs": 1786761000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1786784400000,
+      "endMs": 1786798800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1786798800000,
+      "endMs": 1786809600000,
       "color": "#A45EBF"
     }
   ]
