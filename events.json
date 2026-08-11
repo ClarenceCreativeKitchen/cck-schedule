@@ -1,14 +1,7 @@
 {
-  "fetchedAt": "2026-08-11T03:59:11.584624+00:00",
-  "windowStart": "2026-08-09T00:00:00-04:00",
+  "fetchedAt": "2026-08-11T04:00:13.235506+00:00",
+  "windowStart": "2026-08-10T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1786269600000,
-      "endMs": 1786291200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Papa's BBQ",
       "space": "Primary Kitchen",
@@ -133,6 +126,13 @@
       "space": "Primary Kitchen",
       "startMs": 1786798800000,
       "endMs": 1786809600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1786874400000,
+      "endMs": 1786896000000,
       "color": "#A45EBF"
     }
   ]
