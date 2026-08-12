@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-12T15:11:10.376117+00:00",
+  "fetchedAt": "2026-08-12T15:12:44.821721+00:00",
   "windowStart": "2026-08-11T00:00:00-04:00",
   "events": [
     {
@@ -42,13 +42,6 @@
       "space": "Primary Kitchen",
       "startMs": 1786624200000,
       "endMs": 1786631400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1786636800000,
-      "endMs": 1786651200000,
       "color": "#A45EBF"
     },
     {
