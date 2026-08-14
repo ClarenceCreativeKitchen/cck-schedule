@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-08-14T18:59:09.709938+00:00",
+    "type": "added",
+    "description": "Booking added: Vinegars Etc (Mon Aug 17 2:00 PM \u2013 Mon Aug 17 4:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1786989600000,
+      "endMs": 1786996800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-08-14T18:59:09.709938+00:00",
+    "type": "removed",
+    "description": "Booking removed: Vinegars Etc (Mon Aug 17 11:00 AM \u2013 Mon Aug 17 1:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1786978800000,
+      "endMs": 1786986000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-08-13T17:06:11.622887+00:00",
     "type": "added",
     "description": "Booking added: Natalies Tamales (Thu Aug 13 1:00 PM \u2013 Thu Aug 13 4:00 PM)",
@@ -2372,30 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1780002000000,
       "endMs": 1780011000000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-23T13:29:08.439926+00:00",
-    "type": "added",
-    "description": "Booking added: Great Lakes Dried Fruit (Wed May 27 5:00 PM \u2013 Wed May 27 7:30 PM)",
-    "event": {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1779915600000,
-      "endMs": 1779924600000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-23T13:28:07.345703+00:00",
-    "type": "removed",
-    "description": "Booking removed: BTBW (Wed May 27 6:00 PM \u2013 Wed May 27 10:00 PM)",
-    "event": {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1779919200000,
-      "endMs": 1779933600000,
       "color": "#A45EBF"
     }
   }
