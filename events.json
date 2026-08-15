@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-08-15T03:59:09.381108+00:00",
-  "windowStart": "2026-08-13T00:00:00-04:00",
+  "fetchedAt": "2026-08-15T04:00:17.081306+00:00",
+  "windowStart": "2026-08-14T00:00:00-04:00",
   "events": [
-    {
-      "title": "Simply Loaded",
-      "space": "Primary Kitchen",
-      "startMs": 1786624200000,
-      "endMs": 1786631400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1786640400000,
-      "endMs": 1786651200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1786660200000,
-      "endMs": 1786674600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -112,6 +91,20 @@
       "space": "Primary Kitchen",
       "startMs": 1787176800000,
       "endMs": 1787191200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1787241600000,
+      "endMs": 1787256000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1787263200000,
+      "endMs": 1787277600000,
       "color": "#A45EBF"
     }
   ]
