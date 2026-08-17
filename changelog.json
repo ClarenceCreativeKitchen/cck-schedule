@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-08-17T18:04:10.703401+00:00",
+    "type": "added",
+    "description": "Booking added: Vinegars Etc (Mon Aug 17 2:00 PM \u2013 Mon Aug 17 3:00 PM)",
+    "event": {
+      "title": "Vinegars Etc",
+      "space": "Primary Kitchen",
+      "startMs": 1786989600000,
+      "endMs": 1786993200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-08-15T21:27:12.555595+00:00",
     "type": "removed",
     "description": "Booking removed: Vinegars Etc (Mon Aug 17 12:00 PM \u2013 Mon Aug 17 2:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1779985800000,
       "endMs": 1779993000000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-25T14:52:11.362020+00:00",
-    "type": "added",
-    "description": "Booking added: Great Lakes Dried Fruit (Tue May 26 8:00 PM \u2013 Tue May 26 10:00 PM)",
-    "event": {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1779840000000,
-      "endMs": 1779847200000,
       "color": "#A45EBF"
     }
   }
