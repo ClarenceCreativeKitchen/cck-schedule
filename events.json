@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-08-17T03:59:10.883949+00:00",
-  "windowStart": "2026-08-15T00:00:00-04:00",
+  "fetchedAt": "2026-08-17T04:00:14.208986+00:00",
+  "windowStart": "2026-08-16T00:00:00-04:00",
   "events": [
-    {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1786770000000,
-      "endMs": 1786773600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1786798800000,
-      "endMs": 1786809600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Daughter\u2019s Dumplings LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1786827600000,
-      "endMs": 1786831200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -98,6 +77,20 @@
       "space": "Primary Kitchen",
       "startMs": 1787353200000,
       "endMs": 1787365800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1787403600000,
+      "endMs": 1787414400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1787436000000,
+      "endMs": 1787450400000,
       "color": "#A45EBF"
     }
   ]
