@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-17T23:55:10.961725+00:00",
+  "fetchedAt": "2026-08-17T23:56:10.336089+00:00",
   "windowStart": "2026-08-16T00:00:00-04:00",
   "events": [
     {
@@ -7,20 +7,6 @@
       "space": "Primary Kitchen",
       "startMs": 1786874400000,
       "endMs": 1786896000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Papa's BBQ",
-      "space": "Primary Kitchen",
-      "startMs": 1786971600000,
-      "endMs": 1786978800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1786989600000,
-      "endMs": 1786993200000,
       "color": "#A45EBF"
     },
     {
