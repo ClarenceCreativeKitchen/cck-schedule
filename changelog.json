@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-08-18T12:18:11.972161+00:00",
+    "type": "added",
+    "description": "Booking added: Natalies Tamales (Thu Aug 20 9:00 AM \u2013 Thu Aug 20 12:00 PM)",
+    "event": {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1787230800000,
+      "endMs": 1787241600000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-08-18T12:18:11.972161+00:00",
+    "type": "added",
+    "description": "Booking added: Natalies Tamales (Fri Aug 21 2:00 PM \u2013 Fri Aug 21 7:00 PM)",
+    "event": {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1787335200000,
+      "endMs": 1787353200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-08-17T21:54:08.362388+00:00",
     "type": "added",
     "description": "Booking added: Vinegars Etc (Tue Aug 18 12:30 PM \u2013 Tue Aug 18 2:30 PM)",
@@ -2372,30 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1780261200000,
       "endMs": 1780270200000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-26T17:40:12.142410+00:00",
-    "type": "added",
-    "description": "Booking added: Great Lakes Dried Fruit (Sat May 30 4:30 PM \u2013 Sat May 30 7:00 PM)",
-    "event": {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1780173000000,
-      "endMs": 1780182000000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-26T17:40:12.142410+00:00",
-    "type": "removed",
-    "description": "Booking removed: Great Lakes Dried Fruit (Sat May 30 4:30 PM \u2013 Sat May 30 6:00 PM)",
-    "event": {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1780173000000,
-      "endMs": 1780178400000,
       "color": "#A45EBF"
     }
   }

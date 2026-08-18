@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T12:17:10.182432+00:00",
+  "fetchedAt": "2026-08-18T12:18:11.972161+00:00",
   "windowStart": "2026-08-17T00:00:00-04:00",
   "events": [
     {
@@ -45,6 +45,13 @@
       "color": "#A45EBF"
     },
     {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1787230800000,
+      "endMs": 1787241600000,
+      "color": "#A45EBF"
+    },
+    {
       "title": "Delgato\u2019s Dozens",
       "space": "Primary Kitchen",
       "startMs": 1787241600000,
@@ -70,6 +77,13 @@
       "space": "Primary Kitchen",
       "startMs": 1787328000000,
       "endMs": 1787331600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1787335200000,
+      "endMs": 1787353200000,
       "color": "#A45EBF"
     },
     {
