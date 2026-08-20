@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-08-20T03:59:09.889362+00:00",
-  "windowStart": "2026-08-18T00:00:00-04:00",
+  "fetchedAt": "2026-08-20T04:00:14.215365+00:00",
+  "windowStart": "2026-08-19T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1787047200000,
-      "endMs": 1787068800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1787070600000,
-      "endMs": 1787077800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sabor Criollo y mas",
-      "space": "Primary Kitchen",
-      "startMs": 1787095800000,
-      "endMs": 1787110200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -119,6 +98,13 @@
       "space": "Primary Kitchen",
       "startMs": 1787576400000,
       "endMs": 1787583600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1787652000000,
+      "endMs": 1787673600000,
       "color": "#A45EBF"
     }
   ]
