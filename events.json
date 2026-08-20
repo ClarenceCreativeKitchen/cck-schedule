@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-08-20T18:14:09.280280+00:00",
+  "fetchedAt": "2026-08-20T18:15:51.585900+00:00",
   "windowStart": "2026-08-19T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1787133600000,
-      "endMs": 1787148000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1787176800000,
-      "endMs": 1787191200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Natalies Tamales",
       "space": "Primary Kitchen",
