@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-08-23T01:17:08.392688+00:00",
+    "type": "added",
+    "description": "Booking added: Natalies Tamales (Mon Aug 24 3:00 PM \u2013 Mon Aug 24 7:00 PM)",
+    "event": {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1787598000000,
+      "endMs": 1787612400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-08-18T22:57:08.219082+00:00",
     "type": "added",
     "description": "Booking added: Sabor Criollo y mas (Tue Aug 18 7:30 PM \u2013 Tue Aug 18 11:30 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1779894000000,
       "endMs": 1779897600000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-26T19:58:10.694628+00:00",
-    "type": "added",
-    "description": "Booking added: PNM Foods (Tue May 26 4:30 PM \u2013 Tue May 26 5:00 PM)",
-    "event": {
-      "title": "PNM Foods",
-      "space": "Primary Kitchen",
-      "startMs": 1779827400000,
-      "endMs": 1779829200000,
       "color": "#A45EBF"
     }
   }
