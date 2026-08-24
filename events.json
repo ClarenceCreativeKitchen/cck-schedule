@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T14:10:26.487386+00:00",
+  "fetchedAt": "2026-08-24T14:11:09.954078+00:00",
   "windowStart": "2026-08-23T00:00:00-04:00",
   "events": [
     {
@@ -84,6 +84,20 @@
       "space": "Primary Kitchen",
       "startMs": 1787868000000,
       "endMs": 1787882400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1787911200000,
+      "endMs": 1787932800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1787958000000,
+      "endMs": 1787970600000,
       "color": "#A45EBF"
     },
     {
