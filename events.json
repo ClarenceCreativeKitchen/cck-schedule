@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-08-24T03:59:11.587612+00:00",
-  "windowStart": "2026-08-22T00:00:00-04:00",
+  "fetchedAt": "2026-08-24T04:00:15.495978+00:00",
+  "windowStart": "2026-08-23T00:00:00-04:00",
   "events": [
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1787403600000,
-      "endMs": 1787414400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1787436000000,
-      "endMs": 1787450400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -105,6 +91,13 @@
       "space": "Primary Kitchen",
       "startMs": 1787958000000,
       "endMs": 1787970600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1788008400000,
+      "endMs": 1788019200000,
       "color": "#A45EBF"
     }
   ]
