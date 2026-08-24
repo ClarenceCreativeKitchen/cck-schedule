@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-08-24T18:11:10.256892+00:00",
+    "type": "added",
+    "description": "Booking added: PNM Foods (Tue Aug 25 12:00 PM \u2013 Tue Aug 25 2:30 PM)",
+    "event": {
+      "title": "PNM Foods",
+      "space": "Primary Kitchen",
+      "startMs": 1787673600000,
+      "endMs": 1787682600000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-08-24T18:11:10.256892+00:00",
+    "type": "removed",
+    "description": "Booking removed: PNM Foods (Tue Aug 25 2:00 PM \u2013 Tue Aug 25 4:30 PM)",
+    "event": {
+      "title": "PNM Foods",
+      "space": "Primary Kitchen",
+      "startMs": 1787680800000,
+      "endMs": 1787689800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-08-24T12:15:12.061788+00:00",
     "type": "added",
     "description": "Booking added: Natalies Tamales (Thu Aug 27 4:00 PM \u2013 Thu Aug 27 6:00 PM)",
@@ -2372,30 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1780011000000,
       "endMs": 1780014600000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-27T20:00:17.097300+00:00",
-    "type": "added",
-    "description": "Booking added: PNM Foods (Wed May 27 8:00 PM \u2013 Thu May 28 12:00 AM)",
-    "event": {
-      "title": "PNM Foods",
-      "space": "Primary Kitchen",
-      "startMs": 1779926400000,
-      "endMs": 1779940800000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-05-27T15:44:12.599006+00:00",
-    "type": "added",
-    "description": "Booking added: The Divided Cup (Thu May 28 9:00 PM \u2013 Fri May 29 12:00 AM)",
-    "event": {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1780016400000,
-      "endMs": 1780027200000,
       "color": "#A45EBF"
     }
   }
