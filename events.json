@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-08-26T03:59:11.077423+00:00",
-  "windowStart": "2026-08-24T00:00:00-04:00",
+  "fetchedAt": "2026-08-26T04:00:14.662010+00:00",
+  "windowStart": "2026-08-25T00:00:00-04:00",
   "events": [
-    {
-      "title": "Papa's BBQ",
-      "space": "Primary Kitchen",
-      "startMs": 1787576400000,
-      "endMs": 1787583600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1787598000000,
-      "endMs": 1787612400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -112,6 +98,13 @@
       "space": "Primary Kitchen",
       "startMs": 1788084000000,
       "endMs": 1788105600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Papa's BBQ",
+      "space": "Primary Kitchen",
+      "startMs": 1788181200000,
+      "endMs": 1788188400000,
       "color": "#A45EBF"
     }
   ]
