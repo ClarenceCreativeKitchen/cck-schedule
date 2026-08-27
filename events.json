@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-08-27T03:59:08.480366+00:00",
-  "windowStart": "2026-08-25T00:00:00-04:00",
+  "fetchedAt": "2026-08-27T04:00:17.489127+00:00",
+  "windowStart": "2026-08-26T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1787652000000,
-      "endMs": 1787673600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "PNM Foods",
-      "space": "Primary Kitchen",
-      "startMs": 1787673600000,
-      "endMs": 1787682600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -105,6 +91,13 @@
       "space": "Primary Kitchen",
       "startMs": 1788181200000,
       "endMs": 1788188400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1788256800000,
+      "endMs": 1788278400000,
       "color": "#A45EBF"
     }
   ]
