@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-08-31T21:44:09.525182+00:00",
+    "type": "added",
+    "description": "Booking added: Flame N Spice (Sat Sep 05 12:00 PM \u2013 Sat Sep 05 5:00 PM)",
+    "event": {
+      "title": "Flame N Spice",
+      "space": "Primary Kitchen",
+      "startMs": 1788624000000,
+      "endMs": 1788642000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-08-31T21:36:11.909324+00:00",
     "type": "added",
     "description": "Booking added: Flame N Spice (Thu Sep 03 6:00 PM \u2013 Thu Sep 03 10:00 PM)",
@@ -2379,18 +2391,6 @@
     "time": "2026-06-01T01:37:08.216381+00:00",
     "type": "removed",
     "description": "Booking removed: BowlsRx (Tue Jun 02 5:00 PM \u2013 Tue Jun 02 7:00 PM)",
-    "event": {
-      "title": "BowlsRx",
-      "space": "Primary Kitchen",
-      "startMs": 1780434000000,
-      "endMs": 1780441200000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-01T01:35:10.252414+00:00",
-    "type": "added",
-    "description": "Booking added: BowlsRx (Tue Jun 02 5:00 PM \u2013 Tue Jun 02 7:00 PM)",
     "event": {
       "title": "BowlsRx",
       "space": "Primary Kitchen",
