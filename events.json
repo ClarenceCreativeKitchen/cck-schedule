@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-08-31T03:59:10.238424+00:00",
-  "windowStart": "2026-08-29T00:00:00-04:00",
+  "fetchedAt": "2026-08-31T04:00:15.155780+00:00",
+  "windowStart": "2026-08-30T00:00:00-04:00",
   "events": [
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1788008400000,
-      "endMs": 1788019200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1788035400000,
-      "endMs": 1788042600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -126,6 +112,34 @@
       "space": "Primary Kitchen",
       "startMs": 1788575400000,
       "endMs": 1788580800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Flame N Spice",
+      "space": "Primary Kitchen",
+      "startMs": 1788580800000,
+      "endMs": 1788602400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1788602400000,
+      "endMs": 1788613200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1788613200000,
+      "endMs": 1788624000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sabor Criollo y mas",
+      "space": "Primary Kitchen",
+      "startMs": 1788624000000,
+      "endMs": 1788645600000,
       "color": "#A45EBF"
     }
   ]
