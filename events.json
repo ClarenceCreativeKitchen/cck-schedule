@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T21:34:09.728079+00:00",
+  "fetchedAt": "2026-08-31T21:35:11.522102+00:00",
   "windowStart": "2026-08-30T00:00:00-04:00",
   "events": [
     {
@@ -77,13 +77,6 @@
       "space": "Primary Kitchen",
       "startMs": 1788465600000,
       "endMs": 1788472800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1788472800000,
-      "endMs": 1788487200000,
       "color": "#A45EBF"
     },
     {
