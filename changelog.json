@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-08-31T21:57:07.623666+00:00",
+    "type": "removed",
+    "description": "Booking removed: Natalies Tamales (Wed Sep 02 3:30 PM \u2013 Wed Sep 02 6:00 PM)",
+    "event": {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1788377400000,
+      "endMs": 1788386400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-08-31T21:44:09.525182+00:00",
     "type": "added",
     "description": "Booking added: Flame N Spice (Sat Sep 05 12:00 PM \u2013 Sat Sep 05 5:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1780286400000,
       "endMs": 1780295400000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-01T01:37:08.216381+00:00",
-    "type": "removed",
-    "description": "Booking removed: BowlsRx (Tue Jun 02 5:00 PM \u2013 Tue Jun 02 7:00 PM)",
-    "event": {
-      "title": "BowlsRx",
-      "space": "Primary Kitchen",
-      "startMs": 1780434000000,
-      "endMs": 1780441200000,
       "color": "#A45EBF"
     }
   }
