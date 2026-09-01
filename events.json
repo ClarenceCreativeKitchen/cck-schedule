@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-09-01T03:59:09.063855+00:00",
-  "windowStart": "2026-08-30T00:00:00-04:00",
+  "fetchedAt": "2026-09-01T04:00:16.503482+00:00",
+  "windowStart": "2026-08-31T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1788084000000,
-      "endMs": 1788105600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Soulfully Sweet Treats by Ashley LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1788116400000,
-      "endMs": 1788130800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Papa's BBQ",
       "space": "Primary Kitchen",
@@ -140,6 +126,13 @@
       "space": "Primary Kitchen",
       "startMs": 1788624000000,
       "endMs": 1788642000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1788688800000,
+      "endMs": 1788710400000,
       "color": "#A45EBF"
     }
   ]
