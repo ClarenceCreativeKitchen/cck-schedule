@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-09-01T21:50:13.675864+00:00",
+    "type": "removed",
+    "description": "Booking removed: Cielito Lindo Taquer\u00eda (Wed Sep 02 10:00 AM \u2013 Wed Sep 02 4:30 PM)",
+    "event": {
+      "title": "Cielito Lindo Taquer\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1788357600000,
+      "endMs": 1788381000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-08-31T22:51:08.461843+00:00",
     "type": "added",
     "description": "Booking added: Cielito Lindo Taquer\u00eda (Wed Sep 02 10:00 AM \u2013 Wed Sep 02 4:30 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1780498800000,
       "endMs": 1780506000000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-01T23:45:10.344377+00:00",
-    "type": "added",
-    "description": "Booking added: The Divided Cup (Thu Jun 04 9:00 AM \u2013 Thu Jun 04 11:00 AM)",
-    "event": {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1780578000000,
-      "endMs": 1780585200000,
       "color": "#A45EBF"
     }
   }
