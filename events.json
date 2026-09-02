@@ -1,14 +1,7 @@
 {
-  "fetchedAt": "2026-09-02T03:59:09.871274+00:00",
-  "windowStart": "2026-08-31T00:00:00-04:00",
+  "fetchedAt": "2026-09-02T04:00:15.960422+00:00",
+  "windowStart": "2026-09-01T00:00:00-04:00",
   "events": [
-    {
-      "title": "Papa's BBQ",
-      "space": "Primary Kitchen",
-      "startMs": 1788181200000,
-      "endMs": 1788188400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -126,6 +119,13 @@
       "space": "Primary Kitchen",
       "startMs": 1788688800000,
       "endMs": 1788710400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Cielito Lindo Taquer\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1788786000000,
+      "endMs": 1788807600000,
       "color": "#A45EBF"
     }
   ]
