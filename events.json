@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-03T00:46:08.305854+00:00",
+  "fetchedAt": "2026-09-03T00:47:08.259974+00:00",
   "windowStart": "2026-09-01T00:00:00-04:00",
   "events": [
     {
@@ -126,13 +126,6 @@
       "space": "Primary Kitchen",
       "startMs": 1788688800000,
       "endMs": 1788710400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Cielito Lindo Taquer\u00eda",
-      "space": "Primary Kitchen",
-      "startMs": 1788786000000,
-      "endMs": 1788807600000,
       "color": "#A45EBF"
     }
   ]
