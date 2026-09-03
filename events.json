@@ -1,14 +1,7 @@
 {
-  "fetchedAt": "2026-09-03T03:59:11.294289+00:00",
-  "windowStart": "2026-09-01T00:00:00-04:00",
+  "fetchedAt": "2026-09-03T04:00:15.520452+00:00",
+  "windowStart": "2026-09-02T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1788256800000,
-      "endMs": 1788278400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -126,6 +119,13 @@
       "space": "Primary Kitchen",
       "startMs": 1788688800000,
       "endMs": 1788710400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1788861600000,
+      "endMs": 1788883200000,
       "color": "#A45EBF"
     }
   ]
