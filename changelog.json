@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-09-03T13:04:11.888551+00:00",
+    "type": "added",
+    "description": "Booking added: Flame N Spice (Fri Sep 04 12:00 PM \u2013 Fri Sep 04 6:00 PM)",
+    "event": {
+      "title": "Flame N Spice",
+      "space": "Primary Kitchen",
+      "startMs": 1788537600000,
+      "endMs": 1788559200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-09-03T13:02:16.205644+00:00",
     "type": "added",
     "description": "Booking added: Flame N Spice (Thu Sep 03 12:00 PM \u2013 Thu Sep 03 4:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1780603200000,
       "endMs": 1780610400000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-03T16:42:11.633096+00:00",
-    "type": "added",
-    "description": "Booking added: Delgato\u2019s Dozens (Thu Jun 04 10:00 PM \u2013 Fri Jun 05 12:00 AM)",
-    "event": {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1780624800000,
-      "endMs": 1780632000000,
       "color": "#A45EBF"
     }
   }
