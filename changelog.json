@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-09-04T15:00:17.173936+00:00",
+    "type": "added",
+    "description": "Booking added: Tanya\u2019s Banana Bread LLC (Sun Sep 06 6:00 PM \u2013 Sun Sep 06 7:30 PM)",
+    "event": {
+      "title": "Tanya\u2019s Banana Bread LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1788732000000,
+      "endMs": 1788737400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-09-03T13:04:11.888551+00:00",
     "type": "added",
     "description": "Booking added: Flame N Spice (Fri Sep 04 12:00 PM \u2013 Fri Sep 04 6:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1781038800000,
       "endMs": 1781046000000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-04T14:25:14.887824+00:00",
-    "type": "removed",
-    "description": "Booking removed: Simply Loaded (Thu Jun 04 4:00 PM \u2013 Thu Jun 04 6:00 PM)",
-    "event": {
-      "title": "Simply Loaded",
-      "space": "Primary Kitchen",
-      "startMs": 1780603200000,
-      "endMs": 1780610400000,
       "color": "#A45EBF"
     }
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T14:59:08.875716+00:00",
+  "fetchedAt": "2026-09-04T15:00:17.173936+00:00",
   "windowStart": "2026-09-03T00:00:00-04:00",
   "events": [
     {
@@ -105,6 +105,13 @@
       "space": "Primary Kitchen",
       "startMs": 1788688800000,
       "endMs": 1788710400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Tanya\u2019s Banana Bread LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1788732000000,
+      "endMs": 1788737400000,
       "color": "#A45EBF"
     },
     {
