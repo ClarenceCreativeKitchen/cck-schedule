@@ -1,7 +1,42 @@
 {
-  "fetchedAt": "2026-09-04T20:10:12.520988+00:00",
+  "fetchedAt": "2026-09-04T20:11:10.691060+00:00",
   "windowStart": "2026-09-03T00:00:00-04:00",
   "events": [
+    {
+      "title": "Flame N Spice",
+      "space": "Primary Kitchen",
+      "startMs": 1788429600000,
+      "endMs": 1788451200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Flame N Spice",
+      "space": "Primary Kitchen",
+      "startMs": 1788451200000,
+      "endMs": 1788465600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Flame N Spice",
+      "space": "Primary Kitchen",
+      "startMs": 1788465600000,
+      "endMs": 1788472800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Flame N Spice",
+      "space": "Primary Kitchen",
+      "startMs": 1788472800000,
+      "endMs": 1788487200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Flame N Spice",
+      "space": "Primary Kitchen",
+      "startMs": 1788487200000,
+      "endMs": 1788494400000,
+      "color": "#A45EBF"
+    },
     {
       "title": "Flame N Spice",
       "space": "Primary Kitchen",
@@ -35,6 +70,34 @@
       "space": "Primary Kitchen",
       "startMs": 1788575400000,
       "endMs": 1788580800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Flame N Spice",
+      "space": "Primary Kitchen",
+      "startMs": 1788580800000,
+      "endMs": 1788602400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1788602400000,
+      "endMs": 1788613200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1788613200000,
+      "endMs": 1788624000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Flame N Spice",
+      "space": "Primary Kitchen",
+      "startMs": 1788624000000,
+      "endMs": 1788642000000,
       "color": "#A45EBF"
     },
     {
