@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T21:43:07.728622+00:00",
+  "fetchedAt": "2026-09-04T21:44:10.094127+00:00",
   "windowStart": "2026-09-03T00:00:00-04:00",
   "events": [
     {
@@ -35,41 +35,6 @@
       "space": "Primary Kitchen",
       "startMs": 1788487200000,
       "endMs": 1788494400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1788494400000,
-      "endMs": 1788516000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1788516000000,
-      "endMs": 1788537600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1788537600000,
-      "endMs": 1788559200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1788562800000,
-      "endMs": 1788575400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1788575400000,
-      "endMs": 1788580800000,
       "color": "#A45EBF"
     },
     {
