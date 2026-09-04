@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-09-04T03:59:09.909777+00:00",
-  "windowStart": "2026-09-02T00:00:00-04:00",
+  "fetchedAt": "2026-09-04T04:00:15.041568+00:00",
+  "windowStart": "2026-09-03T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1788343200000,
-      "endMs": 1788357600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "PNM Foods",
-      "space": "Primary Kitchen",
-      "startMs": 1788364800000,
-      "endMs": 1788372000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1788375600000,
-      "endMs": 1788386400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1788386400000,
-      "endMs": 1788400800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Flame N Spice",
       "space": "Primary Kitchen",
@@ -140,6 +112,27 @@
       "space": "Primary Kitchen",
       "startMs": 1788861600000,
       "endMs": 1788883200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1788948000000,
+      "endMs": 1788962400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Cielito Lindo Taquer\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1788962400000,
+      "endMs": 1788982200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1788991200000,
+      "endMs": 1789005600000,
       "color": "#A45EBF"
     }
   ]
