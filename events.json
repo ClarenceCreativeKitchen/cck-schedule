@@ -1,42 +1,7 @@
 {
-  "fetchedAt": "2026-09-05T03:56:09.009091+00:00",
-  "windowStart": "2026-09-03T00:00:00-04:00",
+  "fetchedAt": "2026-09-05T04:03:09.461776+00:00",
+  "windowStart": "2026-09-04T00:00:00-04:00",
   "events": [
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1788429600000,
-      "endMs": 1788451200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1788451200000,
-      "endMs": 1788465600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1788465600000,
-      "endMs": 1788472800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1788472800000,
-      "endMs": 1788487200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1788487200000,
-      "endMs": 1788494400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Flame N Spice",
       "space": "Primary Kitchen",
@@ -140,6 +105,27 @@
       "space": "Primary Kitchen",
       "startMs": 1788991200000,
       "endMs": 1789005600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Cielito Lindo Taquer\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1789045200000,
+      "endMs": 1789056000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1789056000000,
+      "endMs": 1789070400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1789077600000,
+      "endMs": 1789092000000,
       "color": "#A45EBF"
     }
   ]
