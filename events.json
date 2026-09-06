@@ -1,42 +1,7 @@
 {
-  "fetchedAt": "2026-09-06T03:59:09.515985+00:00",
-  "windowStart": "2026-09-04T00:00:00-04:00",
+  "fetchedAt": "2026-09-06T04:00:15.045637+00:00",
+  "windowStart": "2026-09-05T00:00:00-04:00",
   "events": [
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1788494400000,
-      "endMs": 1788516000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1788516000000,
-      "endMs": 1788537600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1788537600000,
-      "endMs": 1788559200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1788562800000,
-      "endMs": 1788575400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1788575400000,
-      "endMs": 1788580800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Flame N Spice",
       "space": "Primary Kitchen",
@@ -133,6 +98,27 @@
       "space": "Primary Kitchen",
       "startMs": 1789077600000,
       "endMs": 1789092000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1789120800000,
+      "endMs": 1789142400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1789167600000,
+      "endMs": 1789180200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sweet Ren LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1789180200000,
+      "endMs": 1789185600000,
       "color": "#A45EBF"
     }
   ]
