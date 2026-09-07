@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-09-07T03:59:07.366699+00:00",
-  "windowStart": "2026-09-05T00:00:00-04:00",
+  "fetchedAt": "2026-09-07T04:00:14.746130+00:00",
+  "windowStart": "2026-09-06T00:00:00-04:00",
   "events": [
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1788580800000,
-      "endMs": 1788602400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1788602400000,
-      "endMs": 1788613200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1788613200000,
-      "endMs": 1788624000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1788624000000,
-      "endMs": 1788642000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -126,6 +98,34 @@
       "space": "Primary Kitchen",
       "startMs": 1789180200000,
       "endMs": 1789185600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sweet Ren LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1789185600000,
+      "endMs": 1789187400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1789207200000,
+      "endMs": 1789218000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1789218000000,
+      "endMs": 1789228800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Six Sense Kitchen",
+      "space": "Primary Kitchen",
+      "startMs": 1789243200000,
+      "endMs": 1789268400000,
       "color": "#A45EBF"
     }
   ]
