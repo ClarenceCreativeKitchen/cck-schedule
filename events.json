@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-09-08T03:59:09.388966+00:00",
-  "windowStart": "2026-09-06T00:00:00-04:00",
+  "fetchedAt": "2026-09-08T04:00:15.436711+00:00",
+  "windowStart": "2026-09-07T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1788688800000,
-      "endMs": 1788710400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Tanya\u2019s Banana Bread LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1788732000000,
-      "endMs": 1788737400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -133,6 +119,13 @@
       "space": "Primary Kitchen",
       "startMs": 1789243200000,
       "endMs": 1789268400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1789293600000,
+      "endMs": 1789315200000,
       "color": "#A45EBF"
     }
   ]
