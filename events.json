@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T15:40:14.605093+00:00",
+  "fetchedAt": "2026-09-08T15:41:10.562450+00:00",
   "windowStart": "2026-09-07T00:00:00-04:00",
   "events": [
     {
@@ -24,24 +24,10 @@
       "color": "#A45EBF"
     },
     {
-      "title": "Cielito Lindo Taquer\u00eda",
-      "space": "Primary Kitchen",
-      "startMs": 1788962400000,
-      "endMs": 1788982200000,
-      "color": "#A45EBF"
-    },
-    {
       "title": "BTBW",
       "space": "Primary Kitchen",
       "startMs": 1788991200000,
       "endMs": 1789005600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Cielito Lindo Taquer\u00eda",
-      "space": "Primary Kitchen",
-      "startMs": 1789045200000,
-      "endMs": 1789056000000,
       "color": "#A45EBF"
     },
     {

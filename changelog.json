@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-09-08T15:41:10.562450+00:00",
+    "type": "removed",
+    "description": "Booking removed: Cielito Lindo Taquer\u00eda (Wed Sep 09 10:00 AM \u2013 Wed Sep 09 3:30 PM)",
+    "event": {
+      "title": "Cielito Lindo Taquer\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1788962400000,
+      "endMs": 1788982200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-09-08T15:41:10.562450+00:00",
+    "type": "removed",
+    "description": "Booking removed: Cielito Lindo Taquer\u00eda (Thu Sep 10 9:00 AM \u2013 Thu Sep 10 12:00 PM)",
+    "event": {
+      "title": "Cielito Lindo Taquer\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1789045200000,
+      "endMs": 1789056000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-09-07T14:31:10.007012+00:00",
     "type": "added",
     "description": "Booking added: Momma's Soft Pretzels (Tue Sep 08 6:00 PM \u2013 Tue Sep 08 9:00 PM)",
@@ -2372,30 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1780772400000,
       "endMs": 1780776000000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-05T21:26:09.018478+00:00",
-    "type": "removed",
-    "description": "Booking removed: Vinegars Etc (Sun Jun 07 1:00 PM \u2013 Sun Jun 07 4:00 PM)",
-    "event": {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1780851600000,
-      "endMs": 1780862400000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-05T20:37:09.628382+00:00",
-    "type": "added",
-    "description": "Booking added: Flame N Spice (Fri Jun 05 11:30 PM \u2013 Sat Jun 06 12:00 AM)",
-    "event": {
-      "title": "Flame N Spice",
-      "space": "Primary Kitchen",
-      "startMs": 1780716600000,
-      "endMs": 1780718400000,
       "color": "#A45EBF"
     }
   }
