@@ -1,7 +1,28 @@
 {
-  "fetchedAt": "2026-09-09T04:05:24.372114+00:00",
+  "fetchedAt": "2026-09-09T04:06:10.509530+00:00",
   "windowStart": "2026-09-08T00:00:00-04:00",
   "events": [
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1788861600000,
+      "endMs": 1788883200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Momma's Soft Pretzels",
+      "space": "Primary Kitchen",
+      "startMs": 1788904800000,
+      "endMs": 1788915600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "PNM Foods",
+      "space": "Primary Kitchen",
+      "startMs": 1788915600000,
+      "endMs": 1788926400000,
+      "color": "#A45EBF"
+    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
