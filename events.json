@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T21:11:08.237863+00:00",
+  "fetchedAt": "2026-09-09T21:12:10.671467+00:00",
   "windowStart": "2026-09-08T00:00:00-04:00",
   "events": [
     {
@@ -105,13 +105,6 @@
       "space": "Primary Kitchen",
       "startMs": 1789218000000,
       "endMs": 1789228800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Six Sense Kitchen",
-      "space": "Primary Kitchen",
-      "startMs": 1789243200000,
-      "endMs": 1789268400000,
       "color": "#A45EBF"
     },
     {

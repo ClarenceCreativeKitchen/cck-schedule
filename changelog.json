@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-09-09T21:12:10.671467+00:00",
+    "type": "removed",
+    "description": "Booking removed: Six Sense Kitchen (Sat Sep 12 4:00 PM \u2013 Sat Sep 12 11:00 PM)",
+    "event": {
+      "title": "Six Sense Kitchen",
+      "space": "Primary Kitchen",
+      "startMs": 1789243200000,
+      "endMs": 1789268400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-09-08T16:34:10.647264+00:00",
     "type": "added",
     "description": "Booking added: PNM Foods (Tue Sep 08 9:00 PM \u2013 Wed Sep 09 12:00 AM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1781035200000,
       "endMs": 1781042400000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-07T16:15:09.858241+00:00",
-    "type": "added",
-    "description": "Booking added: Natalies Tamales (Wed Jun 10 10:30 AM \u2013 Wed Jun 10 1:30 PM)",
-    "event": {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1781101800000,
-      "endMs": 1781112600000,
       "color": "#A45EBF"
     }
   }
