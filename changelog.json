@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-09-10T15:55:11.254094+00:00",
+    "type": "added",
+    "description": "Booking added: Chiqi Foods LLC (Sat Sep 12 3:00 PM \u2013 Sat Sep 12 5:00 PM)",
+    "event": {
+      "title": "Chiqi Foods LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1789239600000,
+      "endMs": 1789246800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-09-09T21:12:10.671467+00:00",
     "type": "removed",
     "description": "Booking removed: Six Sense Kitchen (Sat Sep 12 4:00 PM \u2013 Sat Sep 12 11:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1781307000000,
       "endMs": 1781321400000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-07T21:48:07.235319+00:00",
-    "type": "removed",
-    "description": "Booking removed: Simply Loaded (Tue Jun 09 4:00 PM \u2013 Tue Jun 09 6:00 PM)",
-    "event": {
-      "title": "Simply Loaded",
-      "space": "Primary Kitchen",
-      "startMs": 1781035200000,
-      "endMs": 1781042400000,
       "color": "#A45EBF"
     }
   }
