@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-09-11T03:59:09.473674+00:00",
-  "windowStart": "2026-09-09T00:00:00-04:00",
+  "fetchedAt": "2026-09-11T04:00:15.211631+00:00",
+  "windowStart": "2026-09-10T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1788948000000,
-      "endMs": 1788962400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1788991200000,
-      "endMs": 1789005600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Delgato\u2019s Dozens",
       "space": "Primary Kitchen",
@@ -126,6 +112,20 @@
       "space": "Primary Kitchen",
       "startMs": 1789509600000,
       "endMs": 1789520400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1789552800000,
+      "endMs": 1789567200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1789596000000,
+      "endMs": 1789610400000,
       "color": "#A45EBF"
     }
   ]
