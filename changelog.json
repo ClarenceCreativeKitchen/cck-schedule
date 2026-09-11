@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-09-11T05:00:15.285675+00:00",
+    "type": "added",
+    "description": "Booking added: Natalies Tamales (Fri Sep 11 2:00 PM \u2013 Fri Sep 11 5:00 PM)",
+    "event": {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1789149600000,
+      "endMs": 1789160400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-09-11T02:36:10.362272+00:00",
     "type": "added",
     "description": "Booking added: Colibr\u00ed Panader\u00eda (Fri Sep 11 12:00 PM \u2013 Fri Sep 11 1:30 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1781128800000,
       "endMs": 1781143200000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-08T00:51:09.270046+00:00",
-    "type": "added",
-    "description": "Booking added: Delgato\u2019s Dozens (Fri Jun 12 7:30 PM \u2013 Fri Jun 12 11:00 PM)",
-    "event": {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1781307000000,
-      "endMs": 1781319600000,
       "color": "#A45EBF"
     }
   }
