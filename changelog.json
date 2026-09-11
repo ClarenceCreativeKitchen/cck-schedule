@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-09-11T21:08:10.144022+00:00",
+    "type": "added",
+    "description": "Booking added: Natalies Tamales (Fri Sep 11 5:00 PM \u2013 Fri Sep 11 6:00 PM)",
+    "event": {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1789160400000,
+      "endMs": 1789164000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-09-11T05:00:15.285675+00:00",
     "type": "added",
     "description": "Booking added: Natalies Tamales (Fri Sep 11 2:00 PM \u2013 Fri Sep 11 5:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1781125200000,
       "endMs": 1781139600000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-09T14:41:13.618232+00:00",
-    "type": "removed",
-    "description": "Booking removed: BTBW (Wed Jun 10 6:00 PM \u2013 Wed Jun 10 10:00 PM)",
-    "event": {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1781128800000,
-      "endMs": 1781143200000,
       "color": "#A45EBF"
     }
   }
