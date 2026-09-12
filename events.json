@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-09-12T03:59:07.992930+00:00",
-  "windowStart": "2026-09-10T00:00:00-04:00",
+  "fetchedAt": "2026-09-12T04:00:15.842121+00:00",
+  "windowStart": "2026-09-11T00:00:00-04:00",
   "events": [
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1789056000000,
-      "endMs": 1789070400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1789077600000,
-      "endMs": 1789092000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1789092000000,
-      "endMs": 1789099200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Natalies Tamales",
       "space": "Primary Kitchen",
@@ -140,6 +119,27 @@
       "space": "Primary Kitchen",
       "startMs": 1789596000000,
       "endMs": 1789610400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Natalies Tamales",
+      "space": "Primary Kitchen",
+      "startMs": 1789646400000,
+      "endMs": 1789657200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1789660800000,
+      "endMs": 1789675200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1789682400000,
+      "endMs": 1789696800000,
       "color": "#A45EBF"
     }
   ]
