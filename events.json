@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T09:25:08.456728+00:00",
+  "fetchedAt": "2026-09-12T09:26:09.119322+00:00",
   "windowStart": "2026-09-11T00:00:00-04:00",
   "events": [
     {
@@ -84,27 +84,6 @@
       "space": "Primary Kitchen",
       "startMs": 1789293600000,
       "endMs": 1789315200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Papa's BBQ",
-      "space": "Primary Kitchen",
-      "startMs": 1789390800000,
-      "endMs": 1789398000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1789466400000,
-      "endMs": 1789488000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Blended & Baked LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1789509600000,
-      "endMs": 1789520400000,
       "color": "#A45EBF"
     },
     {
