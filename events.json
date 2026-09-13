@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T05:35:08.968335+00:00",
+  "fetchedAt": "2026-09-13T05:36:08.632347+00:00",
   "windowStart": "2026-09-12T00:00:00-04:00",
   "events": [
     {
@@ -35,13 +35,6 @@
       "space": "Primary Kitchen",
       "startMs": 1789293600000,
       "endMs": 1789315200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Papa's BBQ",
-      "space": "Primary Kitchen",
-      "startMs": 1789390800000,
-      "endMs": 1789398000000,
       "color": "#A45EBF"
     },
     {
