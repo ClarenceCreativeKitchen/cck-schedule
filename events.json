@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-09-13T18:57:10.084076+00:00",
+  "fetchedAt": "2026-09-13T18:58:10.368891+00:00",
   "windowStart": "2026-09-12T00:00:00-04:00",
   "events": [
-    {
-      "title": "Sweet Ren LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1789185600000,
-      "endMs": 1789187400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1789207200000,
-      "endMs": 1789218000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1789218000000,
-      "endMs": 1789228800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Chiqi Foods LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1789239600000,
-      "endMs": 1789246800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
