@@ -1,35 +1,7 @@
 {
-  "fetchedAt": "2026-09-14T03:59:09.040821+00:00",
-  "windowStart": "2026-09-12T00:00:00-04:00",
+  "fetchedAt": "2026-09-14T04:00:14.578718+00:00",
+  "windowStart": "2026-09-13T00:00:00-04:00",
   "events": [
-    {
-      "title": "Sweet Ren LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1789185600000,
-      "endMs": 1789187400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1789207200000,
-      "endMs": 1789218000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1789218000000,
-      "endMs": 1789228800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Chiqi Foods LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1789239600000,
-      "endMs": 1789246800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -112,6 +84,34 @@
       "space": "Primary Kitchen",
       "startMs": 1789772400000,
       "endMs": 1789785000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1789812000000,
+      "endMs": 1789822800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1789822800000,
+      "endMs": 1789833600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "DJs Backyard Barbeque",
+      "space": "Primary Kitchen",
+      "startMs": 1789833600000,
+      "endMs": 1789851600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Element Catering LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1789855200000,
+      "endMs": 1789869600000,
       "color": "#A45EBF"
     }
   ]
