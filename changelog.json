@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-09-16T16:02:11.229917+00:00",
+    "type": "added",
+    "description": "Booking added: DJs Backyard Barbeque (Sun Sep 20 12:00 PM \u2013 Sun Sep 20 4:00 PM)",
+    "event": {
+      "title": "DJs Backyard Barbeque",
+      "space": "Primary Kitchen",
+      "startMs": 1789920000000,
+      "endMs": 1789934400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-09-16T16:02:11.229917+00:00",
+    "type": "removed",
+    "description": "Booking removed: DJs Backyard Barbeque (Sun Sep 20 1:00 PM \u2013 Sun Sep 20 4:00 PM)",
+    "event": {
+      "title": "DJs Backyard Barbeque",
+      "space": "Primary Kitchen",
+      "startMs": 1789923600000,
+      "endMs": 1789934400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-09-16T16:01:11.560407+00:00",
     "type": "removed",
     "description": "Booking removed: DJs Backyard Barbeque (Sun Sep 20 12:00 PM \u2013 Sun Sep 20 1:00 PM)",
@@ -2372,30 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1781973000000,
       "endMs": 1781980200000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-15T20:02:21.414997+00:00",
-    "type": "removed",
-    "description": "Booking removed: The Divided Cup (Fri Jun 19 3:30 PM \u2013 Fri Jun 19 5:30 PM)",
-    "event": {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1781897400000,
-      "endMs": 1781904600000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-15T19:56:18.632870+00:00",
-    "type": "added",
-    "description": "Booking added: Sugar Baby Waffle Company (Fri Jun 19 5:30 PM \u2013 Fri Jun 19 7:30 PM)",
-    "event": {
-      "title": "Sugar Baby Waffle Company",
-      "space": "Primary Kitchen",
-      "startMs": 1781904600000,
-      "endMs": 1781911800000,
       "color": "#A45EBF"
     }
   }
