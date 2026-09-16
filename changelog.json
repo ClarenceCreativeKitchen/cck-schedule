@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-09-16T15:34:10.130761+00:00",
+    "type": "added",
+    "description": "Booking added: Element Catering LLC (Sun Sep 20 9:00 AM \u2013 Sun Sep 20 12:00 PM)",
+    "event": {
+      "title": "Element Catering LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1789909200000,
+      "endMs": 1789920000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-09-16T15:34:10.130761+00:00",
+    "type": "removed",
+    "description": "Booking removed: GLCR (Sun Sep 20 6:00 AM \u2013 Sun Sep 20 12:00 PM)",
+    "event": {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1789898400000,
+      "endMs": 1789920000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-09-15T20:36:11.769297+00:00",
     "type": "added",
     "description": "Booking added: PNM Foods (Wed Sep 16 10:00 PM \u2013 Wed Sep 16 11:30 PM)",
@@ -2372,30 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1781553600000,
       "endMs": 1781560800000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-12T18:13:09.176771+00:00",
-    "type": "removed",
-    "description": "Booking removed: Simply Loaded (Tue Jun 16 4:00 PM \u2013 Tue Jun 16 6:00 PM)",
-    "event": {
-      "title": "Simply Loaded",
-      "space": "Primary Kitchen",
-      "startMs": 1781640000000,
-      "endMs": 1781647200000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-10T17:54:13.303740+00:00",
-    "type": "added",
-    "description": "Booking added: PNM Foods (Wed Jun 10 2:30 PM \u2013 Wed Jun 10 3:30 PM)",
-    "event": {
-      "title": "PNM Foods",
-      "space": "Primary Kitchen",
-      "startMs": 1781116200000,
-      "endMs": 1781119800000,
       "color": "#A45EBF"
     }
   }
