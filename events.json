@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17T19:13:08.833112+00:00",
+  "fetchedAt": "2026-09-17T19:14:12.178188+00:00",
   "windowStart": "2026-09-16T00:00:00-04:00",
   "events": [
     {
@@ -63,6 +63,34 @@
       "space": "Primary Kitchen",
       "startMs": 1789772400000,
       "endMs": 1789785000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1789812000000,
+      "endMs": 1789822800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1789822800000,
+      "endMs": 1789833600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "DJs Backyard Barbeque",
+      "space": "Primary Kitchen",
+      "startMs": 1789833600000,
+      "endMs": 1789851600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Element Catering LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1789855200000,
+      "endMs": 1789869600000,
       "color": "#A45EBF"
     },
     {
