@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-09-18T03:59:08.918245+00:00",
-  "windowStart": "2026-09-16T00:00:00-04:00",
+  "fetchedAt": "2026-09-18T04:00:14.127249+00:00",
+  "windowStart": "2026-09-17T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1789552800000,
-      "endMs": 1789567200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Primary Kitchen",
-      "startMs": 1789596000000,
-      "endMs": 1789610400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "PNM Foods",
-      "space": "Primary Kitchen",
-      "startMs": 1789610400000,
-      "endMs": 1789615800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Natalies Tamales",
       "space": "Primary Kitchen",
@@ -133,6 +112,20 @@
       "space": "Primary Kitchen",
       "startMs": 1790071200000,
       "endMs": 1790092800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1790157600000,
+      "endMs": 1790172000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1790200800000,
+      "endMs": 1790215200000,
       "color": "#A45EBF"
     }
   ]
