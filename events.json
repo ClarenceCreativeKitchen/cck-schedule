@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18T23:28:23.114054+00:00",
+  "fetchedAt": "2026-09-18T23:29:08.319591+00:00",
   "windowStart": "2026-09-17T00:00:00-04:00",
   "events": [
     {
@@ -21,6 +21,27 @@
       "space": "Primary Kitchen",
       "startMs": 1789682400000,
       "endMs": 1789696800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1789725600000,
+      "endMs": 1789747200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Element Catering LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1789747200000,
+      "endMs": 1789772400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Primary Kitchen",
+      "startMs": 1789772400000,
+      "endMs": 1789785000000,
       "color": "#A45EBF"
     },
     {
