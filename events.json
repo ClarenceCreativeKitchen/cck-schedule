@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T15:32:09.948252+00:00",
+  "fetchedAt": "2026-09-19T15:33:07.415992+00:00",
   "windowStart": "2026-09-18T00:00:00-04:00",
   "events": [
     {
@@ -105,6 +105,20 @@
       "space": "Primary Kitchen",
       "startMs": 1790200800000,
       "endMs": 1790215200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1790251200000,
+      "endMs": 1790269200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Primary Kitchen",
+      "startMs": 1790287200000,
+      "endMs": 1790301600000,
       "color": "#A45EBF"
     }
   ]
