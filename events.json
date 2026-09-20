@@ -1,28 +1,7 @@
 {
-  "fetchedAt": "2026-09-20T03:59:09.255680+00:00",
-  "windowStart": "2026-09-18T00:00:00-04:00",
+  "fetchedAt": "2026-09-20T04:00:12.805225+00:00",
+  "windowStart": "2026-09-19T00:00:00-04:00",
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Primary Kitchen",
-      "startMs": 1789725600000,
-      "endMs": 1789747200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Element Catering LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1789747200000,
-      "endMs": 1789772400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Primary Kitchen",
-      "startMs": 1789772400000,
-      "endMs": 1789785000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Primary Kitchen",
@@ -119,6 +98,20 @@
       "space": "Primary Kitchen",
       "startMs": 1790287200000,
       "endMs": 1790301600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Primary Kitchen",
+      "startMs": 1790330400000,
+      "endMs": 1790352000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sweet Ren LLC",
+      "space": "Primary Kitchen",
+      "startMs": 1790380800000,
+      "endMs": 1790389800000,
       "color": "#A45EBF"
     }
   ]
