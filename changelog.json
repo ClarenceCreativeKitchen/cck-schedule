@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-09-20T13:08:09.131980+00:00",
+    "type": "removed",
+    "description": "Booking removed: Colibr\u00ed Panader\u00eda (Thu Sep 24 8:00 AM \u2013 Thu Sep 24 1:00 PM)",
+    "event": {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Primary Kitchen",
+      "startMs": 1790251200000,
+      "endMs": 1790269200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-09-16T16:02:11.229917+00:00",
     "type": "added",
     "description": "Booking added: DJs Backyard Barbeque (Sun Sep 20 12:00 PM \u2013 Sun Sep 20 4:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1781787600000,
       "endMs": 1781794800000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-15T20:02:21.414997+00:00",
-    "type": "added",
-    "description": "Booking added: The Divided Cup (Sat Jun 20 12:30 PM \u2013 Sat Jun 20 2:30 PM)",
-    "event": {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1781973000000,
-      "endMs": 1781980200000,
       "color": "#A45EBF"
     }
   }
