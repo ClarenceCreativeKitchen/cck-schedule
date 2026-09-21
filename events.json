@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-21T07:22:08.145027+00:00",
+  "fetchedAt": "2026-09-21T07:23:09.541379+00:00",
   "windowStart": "2026-09-20T00:00:00-04:00",
   "events": [
     {
@@ -21,20 +21,6 @@
       "space": "Primary Kitchen",
       "startMs": 1789920000000,
       "endMs": 1789934400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Papa's BBQ",
-      "space": "Primary Kitchen",
-      "startMs": 1789995600000,
-      "endMs": 1790002800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "7 Beanz LLC",
-      "space": "Primary Kitchen",
-      "startMs": 1790017200000,
-      "endMs": 1790046000000,
       "color": "#A45EBF"
     },
     {
