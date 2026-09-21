@@ -19,7 +19,7 @@ import urllib.request
 from datetime import datetime, timezone, timedelta
 
 TFC_URL = "https://app.thefoodcorridor.com/listings/46758-clarence-creative-kitchen/tfc_calendars/ganttdata"
-INCLUDE_SPACES = {"Primary Kitchen"}
+INCLUDE_SPACES = {"Kitchen A"}
 MAX_CHANGELOG_ENTRIES = 200  # Keep last 200 entries to avoid file growing forever
 
 def get_et_offset():
