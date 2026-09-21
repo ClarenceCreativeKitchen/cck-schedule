@@ -18,14 +18,33 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch TFC events and update changelog
+      # Each feed runs independently: a space renamed in TFC should fail its
+      # own board loudly without freezing the other one. The job is still
+      # marked failed at the end.
+      - name: Fetch Kitchen A events
+        id: fetch_a
+        continue-on-error: true
         run: python3 scripts/fetch_tfc.py
+
+      - name: Fetch Kitchen B + Studio events
+        id: fetch_b
+        continue-on-error: true
+        run: |
+          python3 scripts/fetch_tfc.py \
+            --spaces "Kitchen B" "CCK Studio" \
+            --days 4 \
+            --out events-b.json \
+            --changelog changelog-b.json
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add events.json changelog.json
+          # Stage only feeds that actually exist — a failed fetch leaves its
+          # previous file untouched rather than blocking the other board.
+          for f in events.json changelog.json events-b.json changelog-b.json; do
+            [ -f "$f" ] && git add "$f"
+          done
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
@@ -33,3 +52,10 @@ jobs:
             git pull --rebase origin main || true
             git push || echo "Push failed (likely concurrent run) — will retry next cycle"
           fi
+
+      - name: Fail if any feed failed
+        if: steps.fetch_a.outcome == 'failure' || steps.fetch_b.outcome == 'failure'
+        run: |
+          echo "::error::A TFC feed failed — check the fetch step logs above."
+          echo "::error::Most likely a space was renamed in TFC and --spaces no longer matches."
+          exit 1
