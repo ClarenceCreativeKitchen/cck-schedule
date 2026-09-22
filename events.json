@@ -1,32 +1,11 @@
 {
-  "fetchedAt": "2026-09-22T03:59:11.579985+00:00",
-  "windowStart": "2026-09-20T00:00:00-04:00",
+  "fetchedAt": "2026-09-22T04:00:17.136018+00:00",
+  "windowStart": "2026-09-21T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "DJs Backyard Barbeque",
-      "space": "Kitchen A",
-      "startMs": 1789900200000,
-      "endMs": 1789909200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Element Catering LLC",
-      "space": "Kitchen A",
-      "startMs": 1789909200000,
-      "endMs": 1789920000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "DJs Backyard Barbeque",
-      "space": "Kitchen A",
-      "startMs": 1789920000000,
-      "endMs": 1789934400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Papa's BBQ",
       "space": "Kitchen A",
@@ -123,6 +102,13 @@
       "space": "Kitchen A",
       "startMs": 1790449200000,
       "endMs": 1790456400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1790503200000,
+      "endMs": 1790524800000,
       "color": "#A45EBF"
     }
   ]
