@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22T05:57:09.631648+00:00",
+  "fetchedAt": "2026-09-22T05:58:11.645966+00:00",
   "windowStart": "2026-09-21T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
@@ -74,34 +74,6 @@
       "space": "Kitchen A",
       "startMs": 1790380800000,
       "endMs": 1790389800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1790416800000,
-      "endMs": 1790427600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Kitchen A",
-      "startMs": 1790427600000,
-      "endMs": 1790438400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Kitchen A",
-      "startMs": 1790438400000,
-      "endMs": 1790443800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Chiqi Foods LLC",
-      "space": "Kitchen A",
-      "startMs": 1790449200000,
-      "endMs": 1790456400000,
       "color": "#A45EBF"
     },
     {
