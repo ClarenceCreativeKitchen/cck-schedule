@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22T19:27:08.498649+00:00",
+  "fetchedAt": "2026-09-22T19:28:11.932849+00:00",
   "windowStart": "2026-09-21T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
@@ -23,7 +23,7 @@
     {
       "title": "Daughter\u2019s Dumplings LLC",
       "space": "Kitchen A",
-      "startMs": 1790114400000,
+      "startMs": 1790116200000,
       "endMs": 1790123400000,
       "color": "#A45EBF"
     },
