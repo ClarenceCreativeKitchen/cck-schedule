@@ -1,10 +1,18 @@
 {
-  "fetchedAt": "2026-09-22T05:58:12.075939+00:00",
+  "fetchedAt": "2026-09-22T05:59:12.259807+00:00",
   "windowStart": "2026-09-21T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
     "Kitchen B"
   ],
-  "events": []
+  "events": [
+    {
+      "title": "7 Beanz LLC",
+      "space": "Kitchen B",
+      "startMs": 1790017200000,
+      "endMs": 1790046000000,
+      "color": "#3498DB"
+    }
+  ]
 }
