@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-09-23T16:22:10.477778+00:00",
+    "type": "added",
+    "description": "Booking added: Natalies Tamales (Thu Sep 24 11:30 AM \u2013 Thu Sep 24 2:00 PM)",
+    "event": {
+      "title": "Natalies Tamales",
+      "space": "Kitchen A",
+      "startMs": 1790263800000,
+      "endMs": 1790272800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-09-22T19:28:11.932849+00:00",
     "type": "added",
     "description": "Booking added: Daughter\u2019s Dumplings LLC (Tue Sep 22 6:30 PM \u2013 Tue Sep 22 8:30 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1781553600000,
       "endMs": 1781568000000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-15T20:08:10.006021+00:00",
-    "type": "added",
-    "description": "Booking added: The Divided Cup (Fri Jun 19 11:00 PM \u2013 Sat Jun 20 12:00 AM)",
-    "event": {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1781924400000,
-      "endMs": 1781928000000,
       "color": "#A45EBF"
     }
   }
