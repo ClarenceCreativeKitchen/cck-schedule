@@ -1,25 +1,11 @@
 {
-  "fetchedAt": "2026-09-24T03:59:09.247686+00:00",
-  "windowStart": "2026-09-22T00:00:00-04:00",
+  "fetchedAt": "2026-09-24T04:00:13.151003+00:00",
+  "windowStart": "2026-09-23T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1790071200000,
-      "endMs": 1790092800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Daughter\u2019s Dumplings LLC",
-      "space": "Kitchen A",
-      "startMs": 1790116200000,
-      "endMs": 1790123400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -116,6 +102,20 @@
       "space": "Kitchen A",
       "startMs": 1790600400000,
       "endMs": 1790607600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1790676000000,
+      "endMs": 1790697600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Blended & Baked LLC",
+      "space": "Kitchen A",
+      "startMs": 1790708400000,
+      "endMs": 1790722800000,
       "color": "#A45EBF"
     }
   ]
