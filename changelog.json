@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-09-24T21:30:12.740174+00:00",
+    "type": "added",
+    "description": "Booking added: Sabor Criollo y mas (Sun Sep 27 12:00 PM \u2013 Sun Sep 27 6:00 PM)",
+    "event": {
+      "title": "Sabor Criollo y mas",
+      "space": "Kitchen A",
+      "startMs": 1790524800000,
+      "endMs": 1790546400000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-09-23T16:22:10.477778+00:00",
     "type": "added",
     "description": "Booking added: Natalies Tamales (Thu Sep 24 11:30 AM \u2013 Thu Sep 24 2:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1781559000000,
       "endMs": 1781573400000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-15T22:17:14.552896+00:00",
-    "type": "removed",
-    "description": "Booking removed: Simply Loaded (Mon Jun 15 4:00 PM \u2013 Mon Jun 15 8:00 PM)",
-    "event": {
-      "title": "Simply Loaded",
-      "space": "Primary Kitchen",
-      "startMs": 1781553600000,
-      "endMs": 1781568000000,
       "color": "#A45EBF"
     }
   }
