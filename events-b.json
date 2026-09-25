@@ -1,10 +1,18 @@
 {
-  "fetchedAt": "2026-09-25T03:59:07.471337+00:00",
-  "windowStart": "2026-09-23T00:00:00-04:00",
+  "fetchedAt": "2026-09-25T04:00:50.061256+00:00",
+  "windowStart": "2026-09-24T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
     "Kitchen B"
   ],
-  "events": []
+  "events": [
+    {
+      "title": "Tanya\u2019s Banana Bread LLC",
+      "space": "Kitchen B",
+      "startMs": 1790524800000,
+      "endMs": 1790530200000,
+      "color": "#3498DB"
+    }
+  ]
 }
