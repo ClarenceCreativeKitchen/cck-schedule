@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25T14:28:25.159101+00:00",
+  "fetchedAt": "2026-09-25T14:29:08.194796+00:00",
   "windowStart": "2026-09-24T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
@@ -81,6 +81,20 @@
       "space": "Kitchen A",
       "startMs": 1790449200000,
       "endMs": 1790456400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1790503200000,
+      "endMs": 1790524800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sabor Criollo y mas",
+      "space": "Kitchen A",
+      "startMs": 1790524800000,
+      "endMs": 1790546400000,
       "color": "#A45EBF"
     },
     {
