@@ -1,32 +1,11 @@
 {
-  "fetchedAt": "2026-09-26T03:59:06.872493+00:00",
-  "windowStart": "2026-09-24T00:00:00-04:00",
+  "fetchedAt": "2026-09-26T04:00:15.289545+00:00",
+  "windowStart": "2026-09-25T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "Natalies Tamales",
-      "space": "Kitchen A",
-      "startMs": 1790263800000,
-      "endMs": 1790272800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Natalies Tamales",
-      "space": "Kitchen A",
-      "startMs": 1790272800000,
-      "endMs": 1790283600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Kitchen A",
-      "startMs": 1790287200000,
-      "endMs": 1790301600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -137,6 +116,27 @@
       "space": "Kitchen A",
       "startMs": 1790805600000,
       "endMs": 1790820000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Natalies Tamales",
+      "space": "Kitchen A",
+      "startMs": 1790848800000,
+      "endMs": 1790870400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Kitchen A",
+      "startMs": 1790870400000,
+      "endMs": 1790886600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Kitchen A",
+      "startMs": 1790892000000,
+      "endMs": 1790906400000,
       "color": "#A45EBF"
     }
   ]
