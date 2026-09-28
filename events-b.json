@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-28T19:12:17.065329+00:00",
+  "fetchedAt": "2026-09-28T19:13:08.471775+00:00",
   "windowStart": "2026-09-27T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
@@ -19,6 +19,13 @@
       "space": "Kitchen B",
       "startMs": 1790622000000,
       "endMs": 1790654400000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "Kitchen B hold for electrical work",
+      "space": "Kitchen B",
+      "startMs": 1790654400000,
+      "endMs": 1790740800000,
       "color": "#3498DB"
     },
     {
