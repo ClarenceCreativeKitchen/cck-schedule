@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-28T16:57:10.603363+00:00",
+  "fetchedAt": "2026-09-28T16:58:25.584746+00:00",
   "windowStart": "2026-09-27T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
@@ -109,20 +109,6 @@
       "space": "Kitchen A",
       "startMs": 1790980200000,
       "endMs": 1790992800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1791021600000,
-      "endMs": 1791032400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Kitchen A",
-      "startMs": 1791032400000,
-      "endMs": 1791043200000,
       "color": "#A45EBF"
     }
   ]
