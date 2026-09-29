@@ -1,0 +1,14 @@
+[
+  {
+    "time": "2026-09-29T15:05:11.029407+00:00",
+    "type": "added",
+    "description": "Booking added: Delgato\u2019s Dozens \u2014 CCK Studio (Tue Sep 29 6:30 PM \u2013 Tue Sep 29 9:00 PM)",
+    "event": {
+      "title": "Delgato\u2019s Dozens",
+      "space": "CCK Studio",
+      "startMs": 1790721000000,
+      "endMs": 1790730000000,
+      "color": "#FF8F00"
+    }
+  }
+]

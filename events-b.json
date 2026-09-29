@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-29T15:04:12.393111+00:00",
+  "fetchedAt": "2026-09-29T15:05:11.029407+00:00",
   "windowStart": "2026-09-28T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
@@ -20,6 +20,13 @@
       "startMs": 1790654400000,
       "endMs": 1790740800000,
       "color": "#3498DB"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "CCK Studio",
+      "startMs": 1790721000000,
+      "endMs": 1790730000000,
+      "color": "#FF8F00"
     },
     {
       "title": "PNM Foods",
