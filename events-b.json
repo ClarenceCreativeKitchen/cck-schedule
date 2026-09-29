@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-29T20:33:11.143103+00:00",
+  "fetchedAt": "2026-09-29T20:34:11.876988+00:00",
   "windowStart": "2026-09-28T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
@@ -31,8 +31,8 @@
     {
       "title": "PNM Foods",
       "space": "Kitchen B",
-      "startMs": 1790778600000,
-      "endMs": 1790784000000,
+      "startMs": 1790787600000,
+      "endMs": 1790793000000,
       "color": "#3498DB"
     }
   ]
