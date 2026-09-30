@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30T13:34:15.981061+00:00",
+  "fetchedAt": "2026-09-30T13:35:13.402876+00:00",
   "windowStart": "2026-09-29T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
@@ -41,6 +41,13 @@
       "startMs": 1790809200000,
       "endMs": 1790818200000,
       "color": "#FF8F00"
+    },
+    {
+      "title": "Hold for Electrician",
+      "space": "Kitchen B",
+      "startMs": 1790848800000,
+      "endMs": 1790881200000,
+      "color": "#3498DB"
     }
   ]
 }
