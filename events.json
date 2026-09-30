@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30T20:27:10.534578+00:00",
+  "fetchedAt": "2026-09-30T20:28:11.461538+00:00",
   "windowStart": "2026-09-29T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
@@ -53,6 +53,27 @@
       "space": "Kitchen A",
       "startMs": 1790892000000,
       "endMs": 1790906400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1790935200000,
+      "endMs": 1790956800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Sabor Criollo y mas",
+      "space": "Kitchen A",
+      "startMs": 1790956800000,
+      "endMs": 1790971200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Kitchen A",
+      "startMs": 1790982000000,
+      "endMs": 1790992800000,
       "color": "#A45EBF"
     },
     {
