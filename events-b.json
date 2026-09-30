@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30T12:59:13.526598+00:00",
+  "fetchedAt": "2026-09-30T13:00:16.098503+00:00",
   "windowStart": "2026-09-29T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
@@ -26,6 +26,13 @@
       "space": "Kitchen B",
       "startMs": 1790787600000,
       "endMs": 1790793000000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "Mom's Kitchen",
+      "space": "Kitchen B",
+      "startMs": 1790807400000,
+      "endMs": 1790812800000,
       "color": "#3498DB"
     },
     {
