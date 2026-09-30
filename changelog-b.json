@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-09-30T15:56:11.048812+00:00",
+    "type": "added",
+    "description": "Booking added: Delgato\u2019s Dozens \u2014 Kitchen B (Thu Oct 01 7:00 PM \u2013 Thu Oct 01 9:30 PM)",
+    "event": {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Kitchen B",
+      "startMs": 1790895600000,
+      "endMs": 1790904600000,
+      "color": "#3498DB"
+    }
+  },
+  {
     "time": "2026-09-30T15:26:10.233580+00:00",
     "type": "added",
     "description": "Booking added: PNM Foods \u2014 Kitchen B (Wed Sep 30 3:00 PM \u2013 Wed Sep 30 4:30 PM)",
