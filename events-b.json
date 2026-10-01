@@ -1,26 +1,12 @@
 {
-  "fetchedAt": "2026-10-01T03:59:10.745053+00:00",
-  "windowStart": "2026-09-29T00:00:00-04:00",
+  "fetchedAt": "2026-10-01T04:00:16.526347+00:00",
+  "windowStart": "2026-09-30T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
     "Kitchen B"
   ],
   "events": [
-    {
-      "title": "Kitchen B hold for electrical work",
-      "space": "Kitchen B",
-      "startMs": 1790654400000,
-      "endMs": 1790740800000,
-      "color": "#3498DB"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "CCK Studio",
-      "startMs": 1790721000000,
-      "endMs": 1790730000000,
-      "color": "#FF8F00"
-    },
     {
       "title": "PNM Foods",
       "space": "Kitchen B",
@@ -54,6 +40,27 @@
       "space": "Kitchen B",
       "startMs": 1790895600000,
       "endMs": 1790904600000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "7 Beanz LLC",
+      "space": "Kitchen B",
+      "startMs": 1791045000000,
+      "endMs": 1791059400000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "Six Sense Kitchen",
+      "space": "CCK Studio",
+      "startMs": 1791061200000,
+      "endMs": 1791075600000,
+      "color": "#FF8F00"
+    },
+    {
+      "title": "CCK Kitchen B hold for event",
+      "space": "Kitchen B",
+      "startMs": 1791061200000,
+      "endMs": 1791075600000,
       "color": "#3498DB"
     }
   ]
