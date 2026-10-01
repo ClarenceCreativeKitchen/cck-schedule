@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-10-01T13:56:10.745482+00:00",
+    "type": "added",
+    "description": "Booking added: Hold for Electrician \u2014 Kitchen B (Thu Oct 01 6:00 AM \u2013 Thu Oct 01 7:00 PM)",
+    "event": {
+      "title": "Hold for Electrician",
+      "space": "Kitchen B",
+      "startMs": 1790848800000,
+      "endMs": 1790895600000,
+      "color": "#3498DB"
+    }
+  },
+  {
+    "time": "2026-10-01T13:56:10.745482+00:00",
+    "type": "removed",
+    "description": "Booking removed: Hold for Electrician \u2014 Kitchen B (Thu Oct 01 6:00 AM \u2013 Thu Oct 01 3:00 PM)",
+    "event": {
+      "title": "Hold for Electrician",
+      "space": "Kitchen B",
+      "startMs": 1790848800000,
+      "endMs": 1790881200000,
+      "color": "#3498DB"
+    }
+  },
+  {
     "time": "2026-09-30T15:56:11.048812+00:00",
     "type": "added",
     "description": "Booking added: Delgato\u2019s Dozens \u2014 Kitchen B (Thu Oct 01 7:00 PM \u2013 Thu Oct 01 9:30 PM)",
