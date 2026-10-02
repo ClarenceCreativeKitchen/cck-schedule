@@ -1,33 +1,12 @@
 {
-  "fetchedAt": "2026-10-02T03:59:08.017133+00:00",
-  "windowStart": "2026-09-30T00:00:00-04:00",
+  "fetchedAt": "2026-10-02T04:00:14.524233+00:00",
+  "windowStart": "2026-10-01T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
     "Kitchen B"
   ],
   "events": [
-    {
-      "title": "PNM Foods",
-      "space": "Kitchen B",
-      "startMs": 1790794800000,
-      "endMs": 1790800200000,
-      "color": "#3498DB"
-    },
-    {
-      "title": "Mom's Kitchen",
-      "space": "Kitchen B",
-      "startMs": 1790807400000,
-      "endMs": 1790812800000,
-      "color": "#3498DB"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "CCK Studio",
-      "startMs": 1790809200000,
-      "endMs": 1790818200000,
-      "color": "#FF8F00"
-    },
     {
       "title": "Hold for Electrician",
       "space": "Kitchen B",
@@ -68,6 +47,13 @@
       "space": "Kitchen B",
       "startMs": 1791061200000,
       "endMs": 1791075600000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "Chiqi Foods LLC",
+      "space": "Kitchen B",
+      "startMs": 1791133200000,
+      "endMs": 1791140400000,
       "color": "#3498DB"
     }
   ]
