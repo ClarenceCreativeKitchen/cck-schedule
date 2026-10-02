@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-10-02T11:16:09.374543+00:00",
+    "type": "added",
+    "description": "Booking added: Delgato\u2019s Dozens (Fri Oct 02 7:00 PM \u2013 Fri Oct 02 10:00 PM)",
+    "event": {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Kitchen A",
+      "startMs": 1790982000000,
+      "endMs": 1790992800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-10-02T02:15:11.193922+00:00",
     "type": "removed",
     "description": "Booking removed: Delgato\u2019s Dozens (Fri Oct 02 7:00 PM \u2013 Fri Oct 02 10:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1781778600000,
       "endMs": 1781785800000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-17T19:47:15.027958+00:00",
-    "type": "removed",
-    "description": "Booking removed: Sugar Baby Waffle Company (Fri Jun 19 5:30 PM \u2013 Fri Jun 19 7:30 PM)",
-    "event": {
-      "title": "Sugar Baby Waffle Company",
-      "space": "Primary Kitchen",
-      "startMs": 1781904600000,
-      "endMs": 1781911800000,
       "color": "#A45EBF"
     }
   }
