@@ -1,26 +1,12 @@
 {
-  "fetchedAt": "2026-10-03T03:59:08.102051+00:00",
-  "windowStart": "2026-10-01T00:00:00-04:00",
+  "fetchedAt": "2026-10-03T04:00:15.385845+00:00",
+  "windowStart": "2026-10-02T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
     "Kitchen B"
   ],
   "events": [
-    {
-      "title": "Hold for Electrician",
-      "space": "Kitchen B",
-      "startMs": 1790848800000,
-      "endMs": 1790895600000,
-      "color": "#3498DB"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Kitchen B",
-      "startMs": 1790895600000,
-      "endMs": 1790904600000,
-      "color": "#3498DB"
-    },
     {
       "title": "7 Beanz LLC",
       "space": "Kitchen B",
@@ -47,6 +33,13 @@
       "space": "Kitchen B",
       "startMs": 1791133200000,
       "endMs": 1791140400000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "Hold for electrical work",
+      "space": "Kitchen B",
+      "startMs": 1791172800000,
+      "endMs": 1791257400000,
       "color": "#3498DB"
     }
   ]
