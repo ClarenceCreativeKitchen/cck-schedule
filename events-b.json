@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-04T03:59:10.431411+00:00",
-  "windowStart": "2026-10-02T00:00:00-04:00",
+  "fetchedAt": "2026-10-04T04:00:14.643604+00:00",
+  "windowStart": "2026-10-03T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
@@ -40,6 +40,13 @@
       "space": "Kitchen B",
       "startMs": 1791172800000,
       "endMs": 1791257400000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "Hold for electrical work",
+      "space": "Kitchen B",
+      "startMs": 1791259200000,
+      "endMs": 1791343800000,
       "color": "#3498DB"
     }
   ]
