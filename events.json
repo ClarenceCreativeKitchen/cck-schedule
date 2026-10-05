@@ -1,25 +1,11 @@
 {
-  "fetchedAt": "2026-10-05T03:59:09.469974+00:00",
-  "windowStart": "2026-10-03T00:00:00-04:00",
+  "fetchedAt": "2026-10-05T04:00:14.236445+00:00",
+  "windowStart": "2026-10-04T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1791021600000,
-      "endMs": 1791032400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Kitchen A",
-      "startMs": 1791032400000,
-      "endMs": 1791043200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -88,6 +74,20 @@
       "space": "Kitchen A",
       "startMs": 1791586800000,
       "endMs": 1791597600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1791626400000,
+      "endMs": 1791637200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Kitchen A",
+      "startMs": 1791637200000,
+      "endMs": 1791648000000,
       "color": "#A45EBF"
     }
   ]
