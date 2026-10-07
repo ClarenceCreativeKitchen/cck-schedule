@@ -14,9 +14,9 @@ concurrency:
 
 jobs:
   sync:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       # Each feed runs independently: a space renamed in TFC should fail its
       # own board loudly without freezing the other one. The job is still
