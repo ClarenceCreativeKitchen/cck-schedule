@@ -1,19 +1,12 @@
 {
-  "fetchedAt": "2026-10-07T03:59:09.694518+00:00",
-  "windowStart": "2026-10-05T00:00:00-04:00",
+  "fetchedAt": "2026-10-07T04:00:15.087386+00:00",
+  "windowStart": "2026-10-06T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
     "Kitchen B"
   ],
   "events": [
-    {
-      "title": "Hold for electrical work",
-      "space": "Kitchen B",
-      "startMs": 1791172800000,
-      "endMs": 1791257400000,
-      "color": "#3498DB"
-    },
     {
       "title": "Hold for electrical work",
       "space": "Kitchen B",
@@ -33,6 +26,27 @@
       "space": "Kitchen B",
       "startMs": 1791500400000,
       "endMs": 1791509400000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "Hold for filming",
+      "space": "Kitchen B",
+      "startMs": 1791576000000,
+      "endMs": 1791583200000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "Hold for event",
+      "space": "CCK Studio",
+      "startMs": 1791583200000,
+      "endMs": 1791586800000,
+      "color": "#FF8F00"
+    },
+    {
+      "title": "Olive And Grove WNY Inc.",
+      "space": "Kitchen B",
+      "startMs": 1791583200000,
+      "endMs": 1791590400000,
       "color": "#3498DB"
     }
   ]
