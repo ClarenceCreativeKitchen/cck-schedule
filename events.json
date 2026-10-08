@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08T00:43:09.049680+00:00",
+  "fetchedAt": "2026-10-08T00:44:08.897955+00:00",
   "windowStart": "2026-10-06T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
@@ -30,8 +30,8 @@
     {
       "title": "Colibr\u00ed Panader\u00eda",
       "space": "Kitchen A",
-      "startMs": 1791453600000,
-      "endMs": 1791475200000,
+      "startMs": 1791457200000,
+      "endMs": 1791478800000,
       "color": "#A45EBF"
     },
     {
