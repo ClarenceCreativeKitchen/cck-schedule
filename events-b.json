@@ -1,19 +1,12 @@
 {
-  "fetchedAt": "2026-10-08T03:59:09.838621+00:00",
-  "windowStart": "2026-10-06T00:00:00-04:00",
+  "fetchedAt": "2026-10-08T04:00:15.268551+00:00",
+  "windowStart": "2026-10-07T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
     "Kitchen B"
   ],
   "events": [
-    {
-      "title": "Hold for electrical work",
-      "space": "Kitchen B",
-      "startMs": 1791259200000,
-      "endMs": 1791343800000,
-      "color": "#3498DB"
-    },
     {
       "title": "Hold for filming",
       "space": "Kitchen B",
@@ -54,6 +47,13 @@
       "space": "Kitchen B",
       "startMs": 1791583200000,
       "endMs": 1791590400000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "7 Beanz LLC",
+      "space": "Kitchen B",
+      "startMs": 1791640800000,
+      "endMs": 1791669600000,
       "color": "#3498DB"
     }
   ]

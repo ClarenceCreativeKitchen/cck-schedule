@@ -1,18 +1,11 @@
 {
-  "fetchedAt": "2026-10-08T03:59:09.312868+00:00",
-  "windowStart": "2026-10-06T00:00:00-04:00",
+  "fetchedAt": "2026-10-08T04:00:14.888674+00:00",
+  "windowStart": "2026-10-07T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1791280800000,
-      "endMs": 1791302400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -88,6 +81,20 @@
       "space": "Kitchen A",
       "startMs": 1791810000000,
       "endMs": 1791817200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1791885600000,
+      "endMs": 1791907200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Blended & Baked LLC",
+      "space": "Kitchen A",
+      "startMs": 1791925200000,
+      "endMs": 1791936000000,
       "color": "#A45EBF"
     }
   ]
