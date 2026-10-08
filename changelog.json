@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-10-08T16:23:13.511009+00:00",
+    "type": "added",
+    "description": "Booking added: Natalies Tamales (Fri Oct 09 12:00 PM \u2013 Fri Oct 09 4:00 PM)",
+    "event": {
+      "title": "Natalies Tamales",
+      "space": "Kitchen A",
+      "startMs": 1791561600000,
+      "endMs": 1791576000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-10-08T16:20:17.682495+00:00",
     "type": "removed",
     "description": "Booking removed: Natalies Tamales (Thu Oct 08 1:00 PM \u2013 Thu Oct 08 4:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1782439200000,
       "endMs": 1782446400000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-24T18:43:10.598770+00:00",
-    "type": "added",
-    "description": "Booking added: Great Lakes Dried Fruit (Wed Jun 24 4:00 PM \u2013 Wed Jun 24 6:00 PM)",
-    "event": {
-      "title": "Great Lakes Dried Fruit",
-      "space": "Primary Kitchen",
-      "startMs": 1782331200000,
-      "endMs": 1782338400000,
       "color": "#A45EBF"
     }
   }
