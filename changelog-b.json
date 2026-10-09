@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-10-09T15:25:11.970127+00:00",
+    "type": "removed",
+    "description": "Booking removed: Hold for event \u2014 CCK Studio (Fri Oct 09 6:00 PM \u2013 Fri Oct 09 7:00 PM)",
+    "event": {
+      "title": "Hold for event",
+      "space": "CCK Studio",
+      "startMs": 1791583200000,
+      "endMs": 1791586800000,
+      "color": "#FF8F00"
+    }
+  },
+  {
     "time": "2026-10-09T14:19:11.402151+00:00",
     "type": "added",
     "description": "Booking added: 7 Beanz LLC \u2014 Kitchen B (Sat Oct 10 12:30 PM \u2013 Sat Oct 10 8:30 PM)",
