@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09T14:18:11.539768+00:00",
+  "fetchedAt": "2026-10-09T14:19:11.402151+00:00",
   "windowStart": "2026-10-08T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
@@ -45,8 +45,8 @@
     {
       "title": "7 Beanz LLC",
       "space": "Kitchen B",
-      "startMs": 1791640800000,
-      "endMs": 1791669600000,
+      "startMs": 1791649800000,
+      "endMs": 1791678600000,
       "color": "#3498DB"
     }
   ]
