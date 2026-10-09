@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-10-09T03:30:11.622021+00:00",
+    "type": "added",
+    "description": "Booking added: PNM Foods (Fri Oct 09 12:00 AM \u2013 Fri Oct 09 1:00 AM)",
+    "event": {
+      "title": "PNM Foods",
+      "space": "Kitchen A",
+      "startMs": 1791518400000,
+      "endMs": 1791522000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-10-08T16:23:13.511009+00:00",
     "type": "added",
     "description": "Booking added: Natalies Tamales (Fri Oct 09 12:00 PM \u2013 Fri Oct 09 4:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1782738000000,
       "endMs": 1782748800000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-06-25T02:41:10.286864+00:00",
-    "type": "added",
-    "description": "Booking added: PNM Foods (Thu Jun 25 10:00 PM \u2013 Fri Jun 26 12:00 AM)",
-    "event": {
-      "title": "PNM Foods",
-      "space": "Primary Kitchen",
-      "startMs": 1782439200000,
-      "endMs": 1782446400000,
       "color": "#A45EBF"
     }
   }
