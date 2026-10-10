@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10T12:08:12.157725+00:00",
+  "fetchedAt": "2026-10-10T12:09:09.994200+00:00",
   "windowStart": "2026-10-09T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
@@ -32,7 +32,7 @@
       "title": "Olive And Grove WNY Inc.",
       "space": "Kitchen B",
       "startMs": 1791626400000,
-      "endMs": 1791631800000,
+      "endMs": 1791635400000,
       "color": "#3498DB"
     },
     {

@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-10-10T12:09:09.994200+00:00",
+    "type": "added",
+    "description": "Booking added: Olive And Grove WNY Inc. \u2014 Kitchen B (Sat Oct 10 6:00 AM \u2013 Sat Oct 10 8:30 AM)",
+    "event": {
+      "title": "Olive And Grove WNY Inc.",
+      "space": "Kitchen B",
+      "startMs": 1791626400000,
+      "endMs": 1791635400000,
+      "color": "#3498DB"
+    }
+  },
+  {
+    "time": "2026-10-10T12:09:09.994200+00:00",
+    "type": "removed",
+    "description": "Booking removed: Olive And Grove WNY Inc. \u2014 Kitchen B (Sat Oct 10 6:00 AM \u2013 Sat Oct 10 7:30 AM)",
+    "event": {
+      "title": "Olive And Grove WNY Inc.",
+      "space": "Kitchen B",
+      "startMs": 1791626400000,
+      "endMs": 1791631800000,
+      "color": "#3498DB"
+    }
+  },
+  {
     "time": "2026-10-09T22:00:14.842153+00:00",
     "type": "added",
     "description": "Booking added: Olive And Grove WNY Inc. \u2014 Kitchen B (Sat Oct 10 6:00 AM \u2013 Sat Oct 10 7:30 AM)",
