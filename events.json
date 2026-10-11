@@ -1,39 +1,11 @@
 {
-  "fetchedAt": "2026-10-11T03:59:08.499769+00:00",
-  "windowStart": "2026-10-09T00:00:00-04:00",
+  "fetchedAt": "2026-10-11T04:00:13.950026+00:00",
+  "windowStart": "2026-10-10T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "PNM Foods",
-      "space": "Kitchen A",
-      "startMs": 1791518400000,
-      "endMs": 1791527400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1791540000000,
-      "endMs": 1791561600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Natalies Tamales",
-      "space": "Kitchen A",
-      "startMs": 1791561600000,
-      "endMs": 1791576000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Kitchen A",
-      "startMs": 1791586800000,
-      "endMs": 1791597600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -88,6 +60,13 @@
       "space": "Kitchen A",
       "startMs": 1791986400000,
       "endMs": 1791993600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1792144800000,
+      "endMs": 1792166400000,
       "color": "#A45EBF"
     }
   ]

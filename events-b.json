@@ -1,33 +1,12 @@
 {
-  "fetchedAt": "2026-10-11T03:59:09.832847+00:00",
-  "windowStart": "2026-10-09T00:00:00-04:00",
+  "fetchedAt": "2026-10-11T04:00:14.285867+00:00",
+  "windowStart": "2026-10-10T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
     "Kitchen B"
   ],
   "events": [
-    {
-      "title": "Hold for filming",
-      "space": "Kitchen B",
-      "startMs": 1791565200000,
-      "endMs": 1791576000000,
-      "color": "#3498DB"
-    },
-    {
-      "title": "Hold for filming",
-      "space": "Kitchen B",
-      "startMs": 1791576000000,
-      "endMs": 1791583200000,
-      "color": "#3498DB"
-    },
-    {
-      "title": "Olive And Grove WNY Inc.",
-      "space": "Kitchen B",
-      "startMs": 1791585000000,
-      "endMs": 1791592200000,
-      "color": "#3498DB"
-    },
     {
       "title": "Olive And Grove WNY Inc.",
       "space": "Kitchen B",
