@@ -1,18 +1,11 @@
 {
-  "fetchedAt": "2026-10-14T03:59:09.474491+00:00",
-  "windowStart": "2026-10-12T00:00:00-04:00",
+  "fetchedAt": "2026-10-14T04:00:15.740130+00:00",
+  "windowStart": "2026-10-13T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "Papa's BBQ",
-      "space": "Kitchen A",
-      "startMs": 1791810000000,
-      "endMs": 1791817200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
