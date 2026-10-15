@@ -1,25 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T10:39:10.407033+00:00",
+  "fetchedAt": "2026-10-15T10:40:26.510649+00:00",
   "windowStart": "2026-10-14T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1791972000000,
-      "endMs": 1791986400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Dolceria D\u2019Anna",
-      "space": "Kitchen A",
-      "startMs": 1791986400000,
-      "endMs": 1791993600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Natalies Tamales",
       "space": "Kitchen A",
