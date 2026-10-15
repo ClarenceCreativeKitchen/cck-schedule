@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T14:59:09.354385+00:00",
+  "fetchedAt": "2026-10-15T15:00:18.361915+00:00",
   "windowStart": "2026-10-14T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
@@ -39,6 +39,13 @@
       "space": "Kitchen A",
       "startMs": 1792144800000,
       "endMs": 1792166400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Natalies Tamales",
+      "space": "Kitchen A",
+      "startMs": 1792177200000,
+      "endMs": 1792184400000,
       "color": "#A45EBF"
     },
     {
