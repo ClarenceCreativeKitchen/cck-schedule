@@ -1,25 +1,11 @@
 {
-  "fetchedAt": "2026-10-17T03:59:09.912633+00:00",
-  "windowStart": "2026-10-15T00:00:00-04:00",
+  "fetchedAt": "2026-10-17T04:00:14.219952+00:00",
+  "windowStart": "2026-10-16T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "Natalies Tamales",
-      "space": "Kitchen A",
-      "startMs": 1792069200000,
-      "endMs": 1792080000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Sweet Ren LLC",
-      "space": "Kitchen A",
-      "startMs": 1792112400000,
-      "endMs": 1792119600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -81,6 +67,20 @@
       "space": "Kitchen A",
       "startMs": 1792591200000,
       "endMs": 1792598400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Kitchen A",
+      "startMs": 1792670400000,
+      "endMs": 1792686600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Kitchen A",
+      "startMs": 1792706400000,
+      "endMs": 1792720800000,
       "color": "#A45EBF"
     }
   ]
