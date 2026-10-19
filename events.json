@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-19T18:55:11.756646+00:00",
+  "fetchedAt": "2026-10-19T18:56:11.971674+00:00",
   "windowStart": "2026-10-18T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
@@ -74,6 +74,13 @@
       "space": "Kitchen A",
       "startMs": 1792749600000,
       "endMs": 1792771200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Board to be Wild LLC",
+      "space": "Kitchen A",
+      "startMs": 1792792800000,
+      "endMs": 1792807200000,
       "color": "#A45EBF"
     },
     {
