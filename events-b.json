@@ -1,18 +1,10 @@
 {
-  "fetchedAt": "2026-10-19T03:59:10.561335+00:00",
-  "windowStart": "2026-10-17T00:00:00-04:00",
+  "fetchedAt": "2026-10-19T04:00:15.334466+00:00",
+  "windowStart": "2026-10-18T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
     "Kitchen B"
   ],
-  "events": [
-    {
-      "title": "Chiqi Foods LLC",
-      "space": "Kitchen B",
-      "startMs": 1792261800000,
-      "endMs": 1792269000000,
-      "color": "#3498DB"
-    }
-  ]
+  "events": []
 }
