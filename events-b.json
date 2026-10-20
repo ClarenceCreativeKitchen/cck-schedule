@@ -1,18 +1,10 @@
 {
-  "fetchedAt": "2026-10-20T01:55:09.970571+00:00",
+  "fetchedAt": "2026-10-20T01:56:10.979349+00:00",
   "windowStart": "2026-10-18T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
     "Kitchen B"
   ],
-  "events": [
-    {
-      "title": "Giftofsoul",
-      "space": "Kitchen B",
-      "startMs": 1792488600000,
-      "endMs": 1792494000000,
-      "color": "#3498DB"
-    }
-  ]
+  "events": []
 }
