@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-21T17:14:10.937960+00:00",
+  "fetchedAt": "2026-10-21T17:15:15.997448+00:00",
   "windowStart": "2026-10-20T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
@@ -25,20 +25,6 @@
       "space": "Kitchen A",
       "startMs": 1792530000000,
       "endMs": 1792537200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1792576800000,
-      "endMs": 1792591200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Dolceria D\u2019Anna",
-      "space": "Kitchen A",
-      "startMs": 1792591200000,
-      "endMs": 1792598400000,
       "color": "#A45EBF"
     },
     {
