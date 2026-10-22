@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-22T03:59:18.172382+00:00",
-  "windowStart": "2026-10-20T00:00:00-04:00",
+  "fetchedAt": "2026-10-22T04:00:15.585711+00:00",
+  "windowStart": "2026-10-21T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
@@ -12,6 +12,27 @@
       "space": "Kitchen B",
       "startMs": 1792756800000,
       "endMs": 1792773000000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "Board to be Wild LLC",
+      "space": "CCK Studio",
+      "startMs": 1792846800000,
+      "endMs": 1792868400000,
+      "color": "#FF8F00"
+    },
+    {
+      "title": "DJs Backyard Barbeque",
+      "space": "Kitchen B",
+      "startMs": 1792854000000,
+      "endMs": 1792868400000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "Chiqi Foods LLC",
+      "space": "Kitchen B",
+      "startMs": 1792868400000,
+      "endMs": 1792875600000,
       "color": "#3498DB"
     }
   ]

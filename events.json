@@ -1,32 +1,11 @@
 {
-  "fetchedAt": "2026-10-22T03:59:14.863696+00:00",
-  "windowStart": "2026-10-20T00:00:00-04:00",
+  "fetchedAt": "2026-10-22T04:00:14.905127+00:00",
+  "windowStart": "2026-10-21T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1792490400000,
-      "endMs": 1792512000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Natalies Tamales",
-      "space": "Kitchen A",
-      "startMs": 1792517400000,
-      "endMs": 1792528200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Blended & Baked LLC",
-      "space": "Kitchen A",
-      "startMs": 1792530000000,
-      "endMs": 1792537200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -95,6 +74,20 @@
       "space": "Kitchen A",
       "startMs": 1793019600000,
       "endMs": 1793026800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1793095200000,
+      "endMs": 1793116800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Kitchen A",
+      "startMs": 1793134800000,
+      "endMs": 1793142000000,
       "color": "#A45EBF"
     }
   ]
