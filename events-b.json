@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T12:56:12.196455+00:00",
+  "fetchedAt": "2026-10-22T12:57:26.768558+00:00",
   "windowStart": "2026-10-21T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
@@ -7,13 +7,6 @@
     "Kitchen B"
   ],
   "events": [
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Kitchen B",
-      "startMs": 1792756800000,
-      "endMs": 1792773000000,
-      "color": "#3498DB"
-    },
     {
       "title": "Board to be Wild LLC",
       "space": "CCK Studio",
