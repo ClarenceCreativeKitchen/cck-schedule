@@ -1,25 +1,11 @@
 {
-  "fetchedAt": "2026-10-23T03:59:10.355823+00:00",
-  "windowStart": "2026-10-21T00:00:00-04:00",
+  "fetchedAt": "2026-10-23T04:00:14.529644+00:00",
+  "windowStart": "2026-10-22T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1792576800000,
-      "endMs": 1792591200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Dolceria D\u2019Anna",
-      "space": "Kitchen A",
-      "startMs": 1792591200000,
-      "endMs": 1792598400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Delgato\u2019s Dozens",
       "space": "Kitchen A",
@@ -88,6 +74,27 @@
       "space": "Kitchen A",
       "startMs": 1793134800000,
       "endMs": 1793142000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1793181600000,
+      "endMs": 1793196000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Dolceria D\u2019Anna",
+      "space": "Kitchen A",
+      "startMs": 1793196000000,
+      "endMs": 1793203200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Kitchen A",
+      "startMs": 1793217600000,
+      "endMs": 1793239200000,
       "color": "#A45EBF"
     }
   ]
