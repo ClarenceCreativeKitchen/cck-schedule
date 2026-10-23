@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-10-23T16:57:10.100421+00:00",
+    "type": "added",
+    "description": "Booking added: PNM Foods (Fri Oct 23 1:30 PM \u2013 Fri Oct 23 3:30 PM)",
+    "event": {
+      "title": "PNM Foods",
+      "space": "Kitchen A",
+      "startMs": 1792776600000,
+      "endMs": 1792783800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-10-23T14:04:10.896271+00:00",
     "type": "added",
     "description": "Booking added: Colibr\u00ed Panader\u00eda (Wed Oct 28 2:00 PM \u2013 Wed Oct 28 10:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1783195200000,
       "endMs": 1783202400000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-07-02T12:05:11.210024+00:00",
-    "type": "removed",
-    "description": "Booking removed: Vinegars Etc (Fri Jul 03 1:00 PM \u2013 Fri Jul 03 5:00 PM)",
-    "event": {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1783098000000,
-      "endMs": 1783112400000,
       "color": "#A45EBF"
     }
   }
