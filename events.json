@@ -1,25 +1,11 @@
 {
-  "fetchedAt": "2026-10-24T03:59:09.403481+00:00",
-  "windowStart": "2026-10-22T00:00:00-04:00",
+  "fetchedAt": "2026-10-24T04:00:16.284861+00:00",
+  "windowStart": "2026-10-23T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Kitchen A",
-      "startMs": 1792670400000,
-      "endMs": 1792686600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Kitchen A",
-      "startMs": 1792706400000,
-      "endMs": 1792720800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -102,6 +88,20 @@
       "space": "Kitchen A",
       "startMs": 1793210400000,
       "endMs": 1793239200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Kitchen A",
+      "startMs": 1793275200000,
+      "endMs": 1793291400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Kitchen A",
+      "startMs": 1793311200000,
+      "endMs": 1793325600000,
       "color": "#A45EBF"
     }
   ]
