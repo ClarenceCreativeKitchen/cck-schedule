@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T11:35:09.463359+00:00",
+  "fetchedAt": "2026-10-24T11:36:11.865532+00:00",
   "windowStart": "2026-10-23T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
@@ -26,13 +26,6 @@
       "space": "Kitchen B",
       "startMs": 1792854000000,
       "endMs": 1792868400000,
-      "color": "#3498DB"
-    },
-    {
-      "title": "Chiqi Foods LLC",
-      "space": "Kitchen B",
-      "startMs": 1792868400000,
-      "endMs": 1792875600000,
       "color": "#3498DB"
     }
   ]
