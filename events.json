@@ -1,32 +1,11 @@
 {
-  "fetchedAt": "2026-10-25T03:59:07.891906+00:00",
-  "windowStart": "2026-10-23T00:00:00-04:00",
+  "fetchedAt": "2026-10-25T04:00:15.502525+00:00",
+  "windowStart": "2026-10-24T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1792749600000,
-      "endMs": 1792771200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "PNM Foods",
-      "space": "Kitchen A",
-      "startMs": 1792776600000,
-      "endMs": 1792783800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Board to be Wild LLC",
-      "space": "Kitchen A",
-      "startMs": 1792792800000,
-      "endMs": 1792807200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -109,6 +88,20 @@
       "space": "Kitchen A",
       "startMs": 1793311200000,
       "endMs": 1793325600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1793354400000,
+      "endMs": 1793376000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Kitchen A",
+      "startMs": 1793376000000,
+      "endMs": 1793383200000,
       "color": "#A45EBF"
     }
   ]
