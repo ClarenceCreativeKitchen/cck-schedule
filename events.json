@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T14:14:09.072108+00:00",
+  "fetchedAt": "2026-10-25T14:15:10.038210+00:00",
   "windowStart": "2026-10-24T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
@@ -60,13 +60,6 @@
       "space": "Kitchen A",
       "startMs": 1793181600000,
       "endMs": 1793196000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Dolceria D\u2019Anna",
-      "space": "Kitchen A",
-      "startMs": 1793196000000,
-      "endMs": 1793203200000,
       "color": "#A45EBF"
     },
     {
