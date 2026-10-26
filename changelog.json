@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-10-26T12:37:10.177029+00:00",
+    "type": "added",
+    "description": "Booking added: Global Warming Peppers (Fri Oct 30 2:00 PM \u2013 Fri Oct 30 10:00 PM)",
+    "event": {
+      "title": "Global Warming Peppers",
+      "space": "Kitchen A",
+      "startMs": 1793383200000,
+      "endMs": 1793412000000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-10-25T20:18:10.422006+00:00",
     "type": "added",
     "description": "Booking added: Natalies Tamales (Thu Oct 29 3:00 PM \u2013 Thu Oct 29 6:00 PM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1783195200000,
       "endMs": 1783202400000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-07-04T01:48:11.875195+00:00",
-    "type": "added",
-    "description": "Booking added: Natalies Tamales (Fri Jul 03 10:00 PM \u2013 Fri Jul 03 11:30 PM)",
-    "event": {
-      "title": "Natalies Tamales",
-      "space": "Primary Kitchen",
-      "startMs": 1783130400000,
-      "endMs": 1783135800000,
       "color": "#A45EBF"
     }
   }
