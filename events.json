@@ -1,25 +1,11 @@
 {
-  "fetchedAt": "2026-10-26T03:59:08.520970+00:00",
-  "windowStart": "2026-10-24T00:00:00-04:00",
+  "fetchedAt": "2026-10-26T04:00:14.061008+00:00",
+  "windowStart": "2026-10-25T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1792836000000,
-      "endMs": 1792846800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Chiqi Foods LLC",
-      "space": "Kitchen A",
-      "startMs": 1792863000000,
-      "endMs": 1792870200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -102,6 +88,27 @@
       "space": "Kitchen A",
       "startMs": 1793376000000,
       "endMs": 1793383200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1793440800000,
+      "endMs": 1793451600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Kitchen A",
+      "startMs": 1793451600000,
+      "endMs": 1793462400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Kitchen A",
+      "startMs": 1793462400000,
+      "endMs": 1793491200000,
       "color": "#A45EBF"
     }
   ]
