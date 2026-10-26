@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26T11:19:10.455420+00:00",
+  "fetchedAt": "2026-10-26T11:20:26.147360+00:00",
   "windowStart": "2026-10-25T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
@@ -18,13 +18,6 @@
       "space": "Kitchen A",
       "startMs": 1792944000000,
       "endMs": 1792954800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Papa's BBQ",
-      "space": "Kitchen A",
-      "startMs": 1793019600000,
-      "endMs": 1793026800000,
       "color": "#A45EBF"
     },
     {
