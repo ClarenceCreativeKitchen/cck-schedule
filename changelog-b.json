@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-10-29T21:03:11.642830+00:00",
+    "type": "added",
+    "description": "Booking added: Colibr\u00ed Panader\u00eda \u2014 Kitchen B (Fri Oct 30 4:00 PM \u2013 Fri Oct 30 6:00 PM)",
+    "event": {
+      "title": "Colibr\u00ed Panader\u00eda",
+      "space": "Kitchen B",
+      "startMs": 1793390400000,
+      "endMs": 1793397600000,
+      "color": "#3498DB"
+    }
+  },
+  {
     "time": "2026-10-25T17:38:10.000523+00:00",
     "type": "added",
     "description": "Booking added: Giftofsoul \u2014 Kitchen B (Mon Oct 26 5:30 AM \u2013 Mon Oct 26 9:00 AM)",
