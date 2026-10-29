@@ -1,25 +1,11 @@
 {
-  "fetchedAt": "2026-10-29T03:59:08.760607+00:00",
-  "windowStart": "2026-10-27T00:00:00-04:00",
+  "fetchedAt": "2026-10-29T04:00:17.804318+00:00",
+  "windowStart": "2026-10-28T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1793095200000,
-      "endMs": 1793116800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Colibr\u00ed Panader\u00eda",
-      "space": "Kitchen A",
-      "startMs": 1793134800000,
-      "endMs": 1793142000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -109,6 +95,13 @@
       "space": "Kitchen A",
       "startMs": 1793574000000,
       "endMs": 1793588400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Dolceria D\u2019Anna",
+      "space": "Kitchen A",
+      "startMs": 1793649600000,
+      "endMs": 1793656800000,
       "color": "#A45EBF"
     }
   ]
