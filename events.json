@@ -1,25 +1,11 @@
 {
-  "fetchedAt": "2026-10-30T03:59:09.753854+00:00",
-  "windowStart": "2026-10-28T00:00:00-04:00",
+  "fetchedAt": "2026-10-30T04:00:16.695094+00:00",
+  "windowStart": "2026-10-29T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1793181600000,
-      "endMs": 1793196000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Colibr\u00ed Panader\u00eda",
-      "space": "Kitchen A",
-      "startMs": 1793210400000,
-      "endMs": 1793239200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Delgato\u2019s Dozens",
       "space": "Kitchen A",
@@ -95,6 +81,13 @@
       "space": "Kitchen A",
       "startMs": 1793649600000,
       "endMs": 1793656800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1793703600000,
+      "endMs": 1793725200000,
       "color": "#A45EBF"
     }
   ]
