@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-30T09:54:11.818198+00:00",
+  "fetchedAt": "2026-10-30T09:55:11.899022+00:00",
   "windowStart": "2026-10-29T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
@@ -12,6 +12,13 @@
       "space": "Kitchen B",
       "startMs": 1793268000000,
       "endMs": 1793271600000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "Giftofsoul",
+      "space": "Kitchen B",
+      "startMs": 1793354400000,
+      "endMs": 1793358000000,
       "color": "#3498DB"
     },
     {
