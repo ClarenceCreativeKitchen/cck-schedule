@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-30T18:48:10.622590+00:00",
+  "fetchedAt": "2026-10-30T18:49:12.049360+00:00",
   "windowStart": "2026-10-29T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
@@ -59,7 +59,7 @@
       "title": "Colibr\u00ed Panader\u00eda",
       "space": "Kitchen A",
       "startMs": 1793462400000,
-      "endMs": 1793491200000,
+      "endMs": 1793505600000,
       "color": "#A45EBF"
     },
     {
@@ -67,13 +67,6 @@
       "space": "Kitchen A",
       "startMs": 1793530800000,
       "endMs": 1793552400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Colibr\u00ed Panader\u00eda",
-      "space": "Kitchen A",
-      "startMs": 1793574000000,
-      "endMs": 1793588400000,
       "color": "#A45EBF"
     },
     {
