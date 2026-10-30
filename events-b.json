@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-30T21:06:12.053093+00:00",
+  "fetchedAt": "2026-10-30T21:07:10.048150+00:00",
   "windowStart": "2026-10-29T00:00:00-04:00",
   "windowDays": 4,
   "spaces": [
@@ -61,6 +61,13 @@
       "space": "Kitchen B",
       "startMs": 1793451600000,
       "endMs": 1793458800000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "Hold for repairs",
+      "space": "Kitchen B",
+      "startMs": 1793458800000,
+      "endMs": 1793469600000,
       "color": "#3498DB"
     }
   ]
