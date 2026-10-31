@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-10-31T16:33:11.373189+00:00",
+    "type": "removed",
+    "description": "Booking removed: BTBW (Wed Nov 04 7:00 PM \u2013 Wed Nov 04 11:00 PM)",
+    "event": {
+      "title": "BTBW",
+      "space": "Kitchen A",
+      "startMs": 1793833200000,
+      "endMs": 1793847600000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-10-30T18:49:12.049360+00:00",
     "type": "added",
     "description": "Booking added: Colibr\u00ed Panader\u00eda (Sat Oct 31 12:00 PM \u2013 Sun Nov 01 12:00 AM)",
@@ -2384,18 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1783713600000,
       "endMs": 1783724400000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-07-06T03:45:10.156919+00:00",
-    "type": "removed",
-    "description": "Booking removed: The Divided Cup (Fri Jul 10 4:00 PM \u2013 Fri Jul 10 6:00 PM)",
-    "event": {
-      "title": "The Divided Cup",
-      "space": "Primary Kitchen",
-      "startMs": 1783713600000,
-      "endMs": 1783720800000,
       "color": "#A45EBF"
     }
   }
