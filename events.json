@@ -1,25 +1,11 @@
 {
-  "fetchedAt": "2026-11-01T03:59:09.154706+00:00",
-  "windowStart": "2026-10-30T00:00:00-04:00",
+  "fetchedAt": "2026-11-01T04:00:14.424516+00:00",
+  "windowStart": "2026-10-31T00:00:00-04:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1793354400000,
-      "endMs": 1793376000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Global Warming Peppers",
-      "space": "Kitchen A",
-      "startMs": 1793383200000,
-      "endMs": 1793412000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -67,6 +53,13 @@
       "space": "Kitchen A",
       "startMs": 1793790000000,
       "endMs": 1793804400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Kitchen A",
+      "startMs": 1793919600000,
+      "endMs": 1793934000000,
       "color": "#A45EBF"
     }
   ]
