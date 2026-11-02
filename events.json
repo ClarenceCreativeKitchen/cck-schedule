@@ -1,32 +1,11 @@
 {
-  "fetchedAt": "2026-11-02T04:59:08.236201+00:00",
-  "windowStart": "2026-10-31T00:00:00-05:00",
+  "fetchedAt": "2026-11-02T05:00:15.261393+00:00",
+  "windowStart": "2026-11-01T00:00:00-05:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1793440800000,
-      "endMs": 1793451600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Kitchen A",
-      "startMs": 1793451600000,
-      "endMs": 1793462400000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Colibr\u00ed Panader\u00eda",
-      "space": "Kitchen A",
-      "startMs": 1793462400000,
-      "endMs": 1793505600000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -74,6 +53,20 @@
       "space": "Kitchen A",
       "startMs": 1794006000000,
       "endMs": 1794020400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1794049200000,
+      "endMs": 1794060000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "BTBW",
+      "space": "Kitchen A",
+      "startMs": 1794060000000,
+      "endMs": 1794081600000,
       "color": "#A45EBF"
     }
   ]

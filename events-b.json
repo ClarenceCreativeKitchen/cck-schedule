@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-02T04:59:08.687562+00:00",
-  "windowStart": "2026-10-31T00:00:00-05:00",
+  "fetchedAt": "2026-11-02T05:00:15.861885+00:00",
+  "windowStart": "2026-11-01T00:00:00-05:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
@@ -8,17 +8,10 @@
   ],
   "events": [
     {
-      "title": "Chiqi Foods LLC",
+      "title": "Delgato\u2019s Dozens",
       "space": "Kitchen B",
-      "startMs": 1793451600000,
-      "endMs": 1793458800000,
-      "color": "#3498DB"
-    },
-    {
-      "title": "Hold for repairs",
-      "space": "Kitchen B",
-      "startMs": 1793458800000,
-      "endMs": 1793469600000,
+      "startMs": 1793799000000,
+      "endMs": 1793815200000,
       "color": "#3498DB"
     }
   ]
