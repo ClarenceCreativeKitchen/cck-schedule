@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-02T13:36:21.742922+00:00",
+  "fetchedAt": "2026-11-02T13:37:10.809229+00:00",
   "windowStart": "2026-11-01T00:00:00-05:00",
   "windowDays": 4,
   "spaces": [
@@ -7,6 +7,13 @@
     "Kitchen B"
   ],
   "events": [
+    {
+      "title": "7 Beanz LLC",
+      "space": "Kitchen B",
+      "startMs": 1793718000000,
+      "endMs": 1793746800000,
+      "color": "#3498DB"
+    },
     {
       "title": "Delgato\u2019s Dozens",
       "space": "Kitchen B",
