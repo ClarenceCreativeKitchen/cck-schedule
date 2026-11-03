@@ -1,18 +1,11 @@
 {
-  "fetchedAt": "2026-11-03T04:59:09.877317+00:00",
-  "windowStart": "2026-11-01T00:00:00-05:00",
+  "fetchedAt": "2026-11-03T05:00:16.283200+00:00",
+  "windowStart": "2026-11-02T00:00:00-05:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1793530800000,
-      "endMs": 1793552400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Dolceria D\u2019Anna",
       "space": "Kitchen A",
@@ -74,6 +67,13 @@
       "space": "Kitchen A",
       "startMs": 1794060000000,
       "endMs": 1794081600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1794135600000,
+      "endMs": 1794157200000,
       "color": "#A45EBF"
     }
   ]
