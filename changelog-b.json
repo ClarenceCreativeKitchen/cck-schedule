@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-11-05T05:56:11.779443+00:00",
+    "type": "added",
+    "description": "Booking added: Michaelas sweet treats \u2014 Kitchen B (Fri Nov 06 6:00 PM \u2013 Fri Nov 06 9:00 PM)",
+    "event": {
+      "title": "Michaelas sweet treats",
+      "space": "Kitchen B",
+      "startMs": 1794006000000,
+      "endMs": 1794016800000,
+      "color": "#3498DB"
+    }
+  },
+  {
     "time": "2026-11-03T13:00:19.978527+00:00",
     "type": "added",
     "description": "Booking added: Delgato\u2019s Dozens \u2014 Kitchen B (Wed Nov 04 8:30 AM \u2013 Wed Nov 04 12:00 PM)",
