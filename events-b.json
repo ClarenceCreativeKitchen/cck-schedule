@@ -1,19 +1,12 @@
 {
-  "fetchedAt": "2026-11-05T04:59:09.499597+00:00",
-  "windowStart": "2026-11-03T00:00:00-05:00",
+  "fetchedAt": "2026-11-05T05:00:18.266833+00:00",
+  "windowStart": "2026-11-04T00:00:00-05:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
     "Kitchen B"
   ],
   "events": [
-    {
-      "title": "7 Beanz LLC",
-      "space": "Kitchen B",
-      "startMs": 1793718000000,
-      "endMs": 1793746800000,
-      "color": "#3498DB"
-    },
     {
       "title": "Delgato\u2019s Dozens",
       "space": "Kitchen B",
