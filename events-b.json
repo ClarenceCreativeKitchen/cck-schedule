@@ -1,19 +1,12 @@
 {
-  "fetchedAt": "2026-11-06T04:59:11.637407+00:00",
-  "windowStart": "2026-11-04T00:00:00-05:00",
+  "fetchedAt": "2026-11-06T05:00:18.034063+00:00",
+  "windowStart": "2026-11-05T00:00:00-05:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
     "Kitchen B"
   ],
   "events": [
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Kitchen B",
-      "startMs": 1793799000000,
-      "endMs": 1793811600000,
-      "color": "#3498DB"
-    },
     {
       "title": "Delgato\u2019s Dozens",
       "space": "Kitchen B",
