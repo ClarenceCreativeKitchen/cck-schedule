@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-06T20:14:10.476788+00:00",
+  "fetchedAt": "2026-11-06T20:15:12.781722+00:00",
   "windowStart": "2026-11-05T00:00:00-05:00",
   "windowDays": 7,
   "spaces": [
@@ -39,6 +39,13 @@
       "space": "Kitchen A",
       "startMs": 1794060000000,
       "endMs": 1794081600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "Blended & Baked LLC",
+      "space": "Kitchen A",
+      "startMs": 1794081600000,
+      "endMs": 1794099600000,
       "color": "#A45EBF"
     },
     {
