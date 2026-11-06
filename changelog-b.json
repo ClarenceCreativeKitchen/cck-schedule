@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-11-06T13:20:11.997162+00:00",
+    "type": "removed",
+    "description": "Booking removed: Mom's Kitchen \u2014 Kitchen B (Fri Nov 06 12:00 PM \u2013 Fri Nov 06 2:00 PM)",
+    "event": {
+      "title": "Mom's Kitchen",
+      "space": "Kitchen B",
+      "startMs": 1793984400000,
+      "endMs": 1793991600000,
+      "color": "#3498DB"
+    }
+  },
+  {
     "time": "2026-11-05T05:56:11.779443+00:00",
     "type": "added",
     "description": "Booking added: Michaelas sweet treats \u2014 Kitchen B (Fri Nov 06 6:00 PM \u2013 Fri Nov 06 9:00 PM)",
