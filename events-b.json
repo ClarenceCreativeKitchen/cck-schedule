@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T11:03:11.732176+00:00",
+  "fetchedAt": "2026-11-07T11:04:09.359348+00:00",
   "windowStart": "2026-11-06T00:00:00-05:00",
   "windowDays": 4,
   "spaces": [
@@ -12,6 +12,13 @@
       "space": "Kitchen B",
       "startMs": 1794006000000,
       "endMs": 1794016800000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "BowlsRx",
+      "space": "Kitchen B",
+      "startMs": 1794049200000,
+      "endMs": 1794052800000,
       "color": "#3498DB"
     },
     {
