@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T21:10:11.012048+00:00",
+  "fetchedAt": "2026-11-07T21:11:09.890293+00:00",
   "windowStart": "2026-11-06T00:00:00-05:00",
   "windowDays": 7,
   "spaces": [
@@ -67,13 +67,6 @@
       "space": "Kitchen A",
       "startMs": 1794394800000,
       "endMs": 1794409200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "BTBW",
-      "space": "Kitchen A",
-      "startMs": 1794524400000,
-      "endMs": 1794538800000,
       "color": "#A45EBF"
     }
   ]
