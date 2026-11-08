@@ -1,19 +1,12 @@
 {
-  "fetchedAt": "2026-11-08T04:59:09.790308+00:00",
-  "windowStart": "2026-11-06T00:00:00-05:00",
+  "fetchedAt": "2026-11-08T05:00:17.213239+00:00",
+  "windowStart": "2026-11-07T00:00:00-05:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
     "Kitchen B"
   ],
   "events": [
-    {
-      "title": "Michaelas sweet treats",
-      "space": "Kitchen B",
-      "startMs": 1794006000000,
-      "endMs": 1794016800000,
-      "color": "#3498DB"
-    },
     {
       "title": "BowlsRx",
       "space": "Kitchen B",
