@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-09T01:29:09.354125+00:00",
+  "fetchedAt": "2026-11-09T01:30:12.168680+00:00",
   "windowStart": "2026-11-07T00:00:00-05:00",
   "windowDays": 7,
   "spaces": [
@@ -72,8 +72,8 @@
     {
       "title": "DJs Backyard Barbeque",
       "space": "Kitchen A",
-      "startMs": 1794589200000,
-      "endMs": 1794607200000,
+      "startMs": 1794610800000,
+      "endMs": 1794628800000,
       "color": "#A45EBF"
     }
   ]

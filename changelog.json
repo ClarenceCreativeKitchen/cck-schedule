@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-11-09T01:30:12.168680+00:00",
+    "type": "added",
+    "description": "Booking added: DJs Backyard Barbeque (Fri Nov 13 6:00 PM \u2013 Fri Nov 13 11:00 PM)",
+    "event": {
+      "title": "DJs Backyard Barbeque",
+      "space": "Kitchen A",
+      "startMs": 1794610800000,
+      "endMs": 1794628800000,
+      "color": "#A45EBF"
+    }
+  },
+  {
+    "time": "2026-11-09T01:30:12.168680+00:00",
+    "type": "removed",
+    "description": "Booking removed: DJs Backyard Barbeque (Fri Nov 13 12:00 PM \u2013 Fri Nov 13 5:00 PM)",
+    "event": {
+      "title": "DJs Backyard Barbeque",
+      "space": "Kitchen A",
+      "startMs": 1794589200000,
+      "endMs": 1794607200000,
+      "color": "#A45EBF"
+    }
+  },
+  {
     "time": "2026-11-06T20:15:12.781722+00:00",
     "type": "added",
     "description": "Booking added: Blended & Baked LLC (Sat Nov 07 3:00 PM \u2013 Sat Nov 07 8:00 PM)",
@@ -2372,30 +2396,6 @@
       "space": "Primary Kitchen",
       "startMs": 1784124000000,
       "endMs": 1784138400000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-07-09T13:40:17.091793+00:00",
-    "type": "added",
-    "description": "Booking added: Hungry Bee (Thu Jul 09 10:00 PM \u2013 Fri Jul 10 12:00 AM)",
-    "event": {
-      "title": "Hungry Bee",
-      "space": "Primary Kitchen",
-      "startMs": 1783648800000,
-      "endMs": 1783656000000,
-      "color": "#A45EBF"
-    }
-  },
-  {
-    "time": "2026-07-08T19:40:32.197940+00:00",
-    "type": "removed",
-    "description": "Booking removed: Vinegars Etc (Thu Jul 09 4:00 PM \u2013 Thu Jul 09 6:00 PM)",
-    "event": {
-      "title": "Vinegars Etc",
-      "space": "Primary Kitchen",
-      "startMs": 1783627200000,
-      "endMs": 1783634400000,
       "color": "#A45EBF"
     }
   }
