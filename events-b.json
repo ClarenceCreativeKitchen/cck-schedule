@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10T15:27:13.421789+00:00",
+  "fetchedAt": "2026-11-10T15:28:11.182437+00:00",
   "windowStart": "2026-11-09T00:00:00-05:00",
   "windowDays": 4,
   "spaces": [
@@ -17,8 +17,8 @@
     {
       "title": "Delgato\u2019s Dozens",
       "space": "Kitchen B",
-      "startMs": 1794403800000,
-      "endMs": 1794418200000,
+      "startMs": 1794407400000,
+      "endMs": 1794421800000,
       "color": "#3498DB"
     },
     {

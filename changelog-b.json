@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-11-10T15:28:11.182437+00:00",
+    "type": "added",
+    "description": "Booking added: Delgato\u2019s Dozens \u2014 Kitchen B (Wed Nov 11 9:30 AM \u2013 Wed Nov 11 1:30 PM)",
+    "event": {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Kitchen B",
+      "startMs": 1794407400000,
+      "endMs": 1794421800000,
+      "color": "#3498DB"
+    }
+  },
+  {
+    "time": "2026-11-10T15:28:11.182437+00:00",
+    "type": "removed",
+    "description": "Booking removed: Delgato\u2019s Dozens \u2014 Kitchen B (Wed Nov 11 8:30 AM \u2013 Wed Nov 11 12:30 PM)",
+    "event": {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Kitchen B",
+      "startMs": 1794403800000,
+      "endMs": 1794418200000,
+      "color": "#3498DB"
+    }
+  },
+  {
     "time": "2026-11-06T13:20:11.997162+00:00",
     "type": "removed",
     "description": "Booking removed: Mom's Kitchen \u2014 Kitchen B (Fri Nov 06 12:00 PM \u2013 Fri Nov 06 2:00 PM)",
