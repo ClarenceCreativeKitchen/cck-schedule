@@ -1,19 +1,12 @@
 {
-  "fetchedAt": "2026-11-11T04:59:12.272632+00:00",
-  "windowStart": "2026-11-09T00:00:00-05:00",
+  "fetchedAt": "2026-11-11T05:00:17.014628+00:00",
+  "windowStart": "2026-11-10T00:00:00-05:00",
   "windowDays": 4,
   "spaces": [
     "CCK Studio",
     "Kitchen B"
   ],
   "events": [
-    {
-      "title": "Papa's BBQ",
-      "space": "Kitchen B",
-      "startMs": 1794277800000,
-      "endMs": 1794285000000,
-      "color": "#3498DB"
-    },
     {
       "title": "Delgato\u2019s Dozens",
       "space": "Kitchen B",
@@ -27,6 +20,20 @@
       "startMs": 1794490200000,
       "endMs": 1794508200000,
       "color": "#3498DB"
+    },
+    {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Kitchen B",
+      "startMs": 1794576600000,
+      "endMs": 1794583800000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "BTBW",
+      "space": "CCK Studio",
+      "startMs": 1794603600000,
+      "endMs": 1794614400000,
+      "color": "#FF8F00"
     }
   ]
 }
