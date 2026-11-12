@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-12T19:40:15.967200+00:00",
+  "fetchedAt": "2026-11-12T19:41:10.854061+00:00",
   "windowStart": "2026-11-11T00:00:00-05:00",
   "windowDays": 4,
   "spaces": [
@@ -13,20 +13,6 @@
       "startMs": 1794490200000,
       "endMs": 1794508200000,
       "color": "#3498DB"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Kitchen B",
-      "startMs": 1794576600000,
-      "endMs": 1794583800000,
-      "color": "#3498DB"
-    },
-    {
-      "title": "BTBW",
-      "space": "CCK Studio",
-      "startMs": 1794603600000,
-      "endMs": 1794614400000,
-      "color": "#FF8F00"
     },
     {
       "title": "DJs Backyard Barbeque",
