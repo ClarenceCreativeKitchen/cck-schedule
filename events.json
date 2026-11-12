@@ -1,18 +1,11 @@
 {
-  "fetchedAt": "2026-11-12T04:59:09.673266+00:00",
-  "windowStart": "2026-11-10T00:00:00-05:00",
+  "fetchedAt": "2026-11-12T05:00:14.875626+00:00",
+  "windowStart": "2026-11-11T00:00:00-05:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1794308400000,
-      "endMs": 1794330000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -60,6 +53,13 @@
       "space": "Kitchen A",
       "startMs": 1794740400000,
       "endMs": 1794762000000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1794913200000,
+      "endMs": 1794934800000,
       "color": "#A45EBF"
     }
   ]
