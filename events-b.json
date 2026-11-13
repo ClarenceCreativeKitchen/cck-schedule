@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-13T23:18:14.671112+00:00",
+  "fetchedAt": "2026-11-13T23:19:27.421872+00:00",
   "windowStart": "2026-11-12T00:00:00-05:00",
   "windowDays": 4,
   "spaces": [
@@ -7,13 +7,6 @@
     "Kitchen B"
   ],
   "events": [
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Kitchen B",
-      "startMs": 1794490200000,
-      "endMs": 1794508200000,
-      "color": "#3498DB"
-    },
     {
       "title": "Delgato\u2019s Dozens",
       "space": "Kitchen B",
