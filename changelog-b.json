@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-11-13T23:53:15.699774+00:00",
+    "type": "removed",
+    "description": "Booking removed: Event hold \u2014 Kitchen B (Sat Nov 14 5:00 PM \u2013 Sat Nov 14 9:00 PM)",
+    "event": {
+      "title": "Event hold",
+      "space": "Kitchen B",
+      "startMs": 1794693600000,
+      "endMs": 1794708000000,
+      "color": "#3498DB"
+    }
+  },
+  {
+    "time": "2026-11-13T23:53:15.699774+00:00",
+    "type": "removed",
+    "description": "Booking removed: Six Sense Kitchen \u2014 CCK Studio (Sat Nov 14 5:00 PM \u2013 Sat Nov 14 9:00 PM)",
+    "event": {
+      "title": "Six Sense Kitchen",
+      "space": "CCK Studio",
+      "startMs": 1794693600000,
+      "endMs": 1794708000000,
+      "color": "#FF8F00"
+    }
+  },
+  {
     "time": "2026-11-10T15:28:11.182437+00:00",
     "type": "added",
     "description": "Booking added: Delgato\u2019s Dozens \u2014 Kitchen B (Wed Nov 11 9:30 AM \u2013 Wed Nov 11 1:30 PM)",
