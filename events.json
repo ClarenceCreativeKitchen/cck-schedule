@@ -1,18 +1,11 @@
 {
-  "fetchedAt": "2026-11-13T04:59:09.156545+00:00",
-  "windowStart": "2026-11-11T00:00:00-05:00",
+  "fetchedAt": "2026-11-13T05:00:21.968727+00:00",
+  "windowStart": "2026-11-12T00:00:00-05:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1794394800000,
-      "endMs": 1794409200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Sabor Criollo y mas",
       "space": "Kitchen A",
@@ -67,6 +60,13 @@
       "space": "Kitchen A",
       "startMs": 1794913200000,
       "endMs": 1794934800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1794999600000,
+      "endMs": 1795014000000,
       "color": "#A45EBF"
     }
   ]
