@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-11-14T16:00:15.837886+00:00",
+    "type": "added",
+    "description": "Booking added: DJs Backyard Barbeque \u2014 Kitchen B (Sat Nov 14 2:30 PM \u2013 Sat Nov 14 4:00 PM)",
+    "event": {
+      "title": "DJs Backyard Barbeque",
+      "space": "Kitchen B",
+      "startMs": 1794684600000,
+      "endMs": 1794690000000,
+      "color": "#3498DB"
+    }
+  },
+  {
     "time": "2026-11-13T23:53:15.699774+00:00",
     "type": "removed",
     "description": "Booking removed: Event hold \u2014 Kitchen B (Sat Nov 14 5:00 PM \u2013 Sat Nov 14 9:00 PM)",
