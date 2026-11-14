@@ -1,25 +1,11 @@
 {
-  "fetchedAt": "2026-11-14T04:59:10.347429+00:00",
-  "windowStart": "2026-11-12T00:00:00-05:00",
+  "fetchedAt": "2026-11-14T05:00:16.875022+00:00",
+  "windowStart": "2026-11-13T00:00:00-05:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "Sabor Criollo y mas",
-      "space": "Kitchen A",
-      "startMs": 1794502800000,
-      "endMs": 1794520800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Natalies Tamales",
-      "space": "Kitchen A",
-      "startMs": 1794520800000,
-      "endMs": 1794528000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
