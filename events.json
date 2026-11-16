@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-16T21:20:22.678615+00:00",
+  "fetchedAt": "2026-11-16T21:21:13.278117+00:00",
   "windowStart": "2026-11-15T00:00:00-05:00",
   "windowDays": 7,
   "spaces": [
@@ -16,7 +16,7 @@
     {
       "title": "CLEANING",
       "space": "Kitchen A",
-      "startMs": 1794826800000,
+      "startMs": 1794816000000,
       "endMs": 1794841200000,
       "color": "#A45EBF"
     },
