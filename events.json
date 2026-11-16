@@ -1,25 +1,11 @@
 {
-  "fetchedAt": "2026-11-16T04:59:08.734930+00:00",
-  "windowStart": "2026-11-14T00:00:00-05:00",
+  "fetchedAt": "2026-11-16T05:00:14.621388+00:00",
+  "windowStart": "2026-11-15T00:00:00-05:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1794654000000,
-      "endMs": 1794664800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Chiqi Foods LLC",
-      "space": "Kitchen A",
-      "startMs": 1794664800000,
-      "endMs": 1794673800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -60,6 +46,20 @@
       "space": "Kitchen A",
       "startMs": 1795194000000,
       "endMs": 1795208400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1795258800000,
+      "endMs": 1795269600000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "CiANTRAS CATERiNG",
+      "space": "Kitchen A",
+      "startMs": 1795284000000,
+      "endMs": 1795298400000,
       "color": "#A45EBF"
     }
   ]
