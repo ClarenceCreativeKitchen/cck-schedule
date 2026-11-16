@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-11-16T21:22:12.275018+00:00",
+    "type": "added",
+    "description": "Booking added: CLEANING \u2014 Kitchen B (Mon Nov 16 3:00 AM \u2013 Mon Nov 16 10:00 AM)",
+    "event": {
+      "title": "CLEANING",
+      "space": "Kitchen B",
+      "startMs": 1794816000000,
+      "endMs": 1794841200000,
+      "color": "#3498DB"
+    }
+  },
+  {
+    "time": "2026-11-16T21:22:12.275018+00:00",
+    "type": "removed",
+    "description": "Booking removed: CLEANING \u2014 Kitchen B (Mon Nov 16 6:00 AM \u2013 Mon Nov 16 10:00 AM)",
+    "event": {
+      "title": "CLEANING",
+      "space": "Kitchen B",
+      "startMs": 1794826800000,
+      "endMs": 1794841200000,
+      "color": "#3498DB"
+    }
+  },
+  {
     "time": "2026-11-16T21:21:14.104837+00:00",
     "type": "added",
     "description": "Booking added: CLEANING \u2014 CCK Studio (Mon Nov 16 3:00 AM \u2013 Mon Nov 16 10:00 AM)",
