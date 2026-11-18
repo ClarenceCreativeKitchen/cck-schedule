@@ -1,18 +1,11 @@
 {
-  "fetchedAt": "2026-11-18T19:24:18.972846+00:00",
+  "fetchedAt": "2026-11-18T19:25:46.831770+00:00",
   "windowStart": "2026-11-17T00:00:00-05:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1794913200000,
-      "endMs": 1794934800000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
