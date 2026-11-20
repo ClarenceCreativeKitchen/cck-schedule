@@ -1,18 +1,11 @@
 {
-  "fetchedAt": "2026-11-20T04:59:10.768356+00:00",
-  "windowStart": "2026-11-18T00:00:00-05:00",
+  "fetchedAt": "2026-11-20T05:00:21.163668+00:00",
+  "windowStart": "2026-11-19T00:00:00-05:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1794999600000,
-      "endMs": 1795014000000,
-      "color": "#A45EBF"
-    },
     {
       "title": "Natalies Tamales",
       "space": "Kitchen A",
@@ -74,6 +67,13 @@
       "space": "Kitchen A",
       "startMs": 1795554000000,
       "endMs": 1795579200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1795604400000,
+      "endMs": 1795618800000,
       "color": "#A45EBF"
     }
   ]
