@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-21T19:54:18.709373+00:00",
+  "fetchedAt": "2026-11-21T19:55:36.394820+00:00",
   "windowStart": "2026-11-20T00:00:00-05:00",
   "windowDays": 4,
   "spaces": [
@@ -7,13 +7,6 @@
     "Kitchen B"
   ],
   "events": [
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Kitchen B",
-      "startMs": 1795194000000,
-      "endMs": 1795199400000,
-      "color": "#3498DB"
-    },
     {
       "title": "PNM Foods",
       "space": "CCK Studio",
