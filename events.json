@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-22T10:02:32.983626+00:00",
+  "fetchedAt": "2026-11-22T10:03:18.334840+00:00",
   "windowStart": "2026-11-21T00:00:00-05:00",
   "windowDays": 7,
   "spaces": [
@@ -25,6 +25,13 @@
       "space": "Kitchen A",
       "startMs": 1795284000000,
       "endMs": 1795298400000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1795345200000,
+      "endMs": 1795366800000,
       "color": "#A45EBF"
     },
     {
