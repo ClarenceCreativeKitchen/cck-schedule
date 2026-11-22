@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-22T22:12:21.241891+00:00",
+  "fetchedAt": "2026-11-22T22:13:11.453219+00:00",
   "windowStart": "2026-11-21T00:00:00-05:00",
   "windowDays": 4,
   "spaces": [
@@ -45,8 +45,8 @@
     {
       "title": "Board to be Wild LLC",
       "space": "CCK Studio",
-      "startMs": 1795474800000,
-      "endMs": 1795485600000,
+      "startMs": 1795476600000,
+      "endMs": 1795487400000,
       "color": "#FF8F00"
     },
     {

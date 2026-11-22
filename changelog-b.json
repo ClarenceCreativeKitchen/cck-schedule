@@ -1,5 +1,29 @@
 [
   {
+    "time": "2026-11-22T22:13:11.453219+00:00",
+    "type": "added",
+    "description": "Booking added: Board to be Wild LLC \u2014 CCK Studio (Mon Nov 23 6:30 PM \u2013 Mon Nov 23 9:30 PM)",
+    "event": {
+      "title": "Board to be Wild LLC",
+      "space": "CCK Studio",
+      "startMs": 1795476600000,
+      "endMs": 1795487400000,
+      "color": "#FF8F00"
+    }
+  },
+  {
+    "time": "2026-11-22T22:13:11.453219+00:00",
+    "type": "removed",
+    "description": "Booking removed: Board to be Wild LLC \u2014 CCK Studio (Mon Nov 23 6:00 PM \u2013 Mon Nov 23 9:00 PM)",
+    "event": {
+      "title": "Board to be Wild LLC",
+      "space": "CCK Studio",
+      "startMs": 1795474800000,
+      "endMs": 1795485600000,
+      "color": "#FF8F00"
+    }
+  },
+  {
     "time": "2026-11-21T15:55:12.932181+00:00",
     "type": "added",
     "description": "Booking added: Board to be Wild LLC \u2014 CCK Studio (Mon Nov 23 6:00 PM \u2013 Mon Nov 23 9:00 PM)",
