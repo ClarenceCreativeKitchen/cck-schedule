@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-22T13:38:18.935948+00:00",
+  "fetchedAt": "2026-11-22T13:39:28.782157+00:00",
   "windowStart": "2026-11-21T00:00:00-05:00",
   "windowDays": 7,
   "spaces": [
@@ -39,20 +39,6 @@
       "space": "Kitchen A",
       "startMs": 1795431600000,
       "endMs": 1795446000000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1795518000000,
-      "endMs": 1795539600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Kitchen A",
-      "startMs": 1795554000000,
-      "endMs": 1795579200000,
       "color": "#A45EBF"
     },
     {
