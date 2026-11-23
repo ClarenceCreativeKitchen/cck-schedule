@@ -1,32 +1,11 @@
 {
-  "fetchedAt": "2026-11-23T04:59:12.182670+00:00",
-  "windowStart": "2026-11-21T00:00:00-05:00",
+  "fetchedAt": "2026-11-23T05:00:17.033620+00:00",
+  "windowStart": "2026-11-22T00:00:00-05:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1795258800000,
-      "endMs": 1795269600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Hungry Bee",
-      "space": "Kitchen A",
-      "startMs": 1795269600000,
-      "endMs": 1795276800000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "CiANTRAS CATERiNG",
-      "space": "Kitchen A",
-      "startMs": 1795284000000,
-      "endMs": 1795298400000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -88,6 +67,13 @@
       "space": "Kitchen A",
       "startMs": 1795798800000,
       "endMs": 1795813200000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1795863600000,
+      "endMs": 1795874400000,
       "color": "#A45EBF"
     }
   ]
