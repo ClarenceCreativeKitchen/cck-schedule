@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-26T15:27:15.581469+00:00",
+  "fetchedAt": "2026-11-26T15:28:16.778928+00:00",
   "windowStart": "2026-11-25T00:00:00-05:00",
   "windowDays": 4,
   "spaces": [
@@ -13,6 +13,20 @@
       "startMs": 1795640400000,
       "endMs": 1795658400000,
       "color": "#FF8F00"
+    },
+    {
+      "title": "Natalies Tamales",
+      "space": "Kitchen B",
+      "startMs": 1795716000000,
+      "endMs": 1795723200000,
+      "color": "#3498DB"
+    },
+    {
+      "title": "Natalies Tamales",
+      "space": "Kitchen B",
+      "startMs": 1795802400000,
+      "endMs": 1795809600000,
+      "color": "#3498DB"
     },
     {
       "title": "BTBW",
