@@ -1,39 +1,11 @@
 {
-  "fetchedAt": "2026-11-26T04:59:12.180392+00:00",
-  "windowStart": "2026-11-24T00:00:00-05:00",
+  "fetchedAt": "2026-11-26T05:00:23.580492+00:00",
+  "windowStart": "2026-11-25T00:00:00-05:00",
   "windowDays": 7,
   "spaces": [
     "Kitchen A"
   ],
   "events": [
-    {
-      "title": "Michaelas sweet treats",
-      "space": "Kitchen A",
-      "startMs": 1795496400000,
-      "endMs": 1795503600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Michaelas sweet treats",
-      "space": "Kitchen A",
-      "startMs": 1795503600000,
-      "endMs": 1795507200000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "GLCR",
-      "space": "Kitchen A",
-      "startMs": 1795518000000,
-      "endMs": 1795539600000,
-      "color": "#A45EBF"
-    },
-    {
-      "title": "Delgato\u2019s Dozens",
-      "space": "Kitchen A",
-      "startMs": 1795554000000,
-      "endMs": 1795579200000,
-      "color": "#A45EBF"
-    },
     {
       "title": "GLCR",
       "space": "Kitchen A",
@@ -95,6 +67,13 @@
       "space": "Kitchen A",
       "startMs": 1796036400000,
       "endMs": 1796050800000,
+      "color": "#A45EBF"
+    },
+    {
+      "title": "GLCR",
+      "space": "Kitchen A",
+      "startMs": 1796122800000,
+      "endMs": 1796144400000,
       "color": "#A45EBF"
     }
   ]
