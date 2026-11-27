@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-11-27T15:41:15.313438+00:00",
+    "type": "added",
+    "description": "Booking added: BTBW \u2014 CCK Studio (Fri Nov 27 11:00 AM \u2013 Fri Nov 27 3:00 PM)",
+    "event": {
+      "title": "BTBW",
+      "space": "CCK Studio",
+      "startMs": 1795795200000,
+      "endMs": 1795809600000,
+      "color": "#FF8F00"
+    }
+  },
+  {
     "time": "2026-11-27T14:01:16.049883+00:00",
     "type": "added",
     "description": "Booking added: Delgato\u2019s Dozens \u2014 Kitchen B (Fri Nov 27 9:30 AM \u2013 Fri Nov 27 11:30 AM)",
