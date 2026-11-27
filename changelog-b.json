@@ -1,5 +1,17 @@
 [
   {
+    "time": "2026-11-27T14:01:16.049883+00:00",
+    "type": "added",
+    "description": "Booking added: Delgato\u2019s Dozens \u2014 Kitchen B (Fri Nov 27 9:30 AM \u2013 Fri Nov 27 11:30 AM)",
+    "event": {
+      "title": "Delgato\u2019s Dozens",
+      "space": "Kitchen B",
+      "startMs": 1795789800000,
+      "endMs": 1795797000000,
+      "color": "#3498DB"
+    }
+  },
+  {
     "time": "2026-11-25T14:26:16.036369+00:00",
     "type": "added",
     "description": "Booking added: Board to be Wild LLC \u2014 CCK Studio (Wed Nov 25 4:00 PM \u2013 Wed Nov 25 9:00 PM)",
